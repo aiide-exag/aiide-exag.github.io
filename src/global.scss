@@ -1,0 +1,66 @@
+@import '~bootstrap/scss/bootstrap';
+@import './theme.scss';
+
+* {
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    min-height: 100vh;
+}
+
+#___gatsby {
+    min-height: 100%;
+}
+
+#gatsby-focus-wrapper {
+    min-height: 100%;
+    position: relative;
+}
+
+footer {
+    margin-top: auto;
+}
+
+.bg-charcoal {
+    background-color: $charcoal;
+}
+
+.bg-orange-red {
+    background-color: $orange-red;
+}
+
+.bg-honey-yellow {
+    background-color: $honey-yellow;
+}
+
+.bg-queen-blue {
+    background-color: $queen-blue;
+}
+
+.bg-sky-blue {
+    background-color: $sky-blue;
+}
+
+h2 {
+    color: $charcoal;
+}
+
+h3 {
+    color: $orange-red;
+}
+
+.announcement {
+    padding-left: 2rem;
+}
+
+.nav-link {
+    color: $charcoal;
+}
