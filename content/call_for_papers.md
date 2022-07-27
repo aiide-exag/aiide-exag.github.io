@@ -6,9 +6,11 @@ EXAG 2022 will be accepting papers to three different tracks:
 
 * **Research Track** (2-6 pages, excluding references): Papers submitted for oral presentation. These will be incorporated into the proceedings and presented as 10 to 20-minute talks during paper sessions.
 
-* **Practitioner Track** (500 words abstract): Short articles by game developers, artists, and other practitioners on the use of artificial intelligence in games, art, and other entertainment artifacts. These will be highlighted by 5-10 minute talks in a special track of the workshop. Ideally, these will also use the AAAI format, but for the initial submission, any PDF format is fine; we’ll assign an editor to assist with the formatting of accepted work. UPDATE: The abstracts for this track do not have to be anonymized.
+* **Practitioner Track** (500 words abstract): Short articles by game developers, artists, and other practitioners on the use of artificial intelligence in games, art, and other entertainment artifacts. These will be highlighted by 5-10 minute talks in a special track of the workshop. Ideally, these will also use the AAAI format, but for the initial submission, any PDF format is fine; we’ll assign an editor to assist with the formatting of accepted work. The abstracts for this track do not have to be anonymized.
 
 * **Informal project demos**: These require a (2 pages max) description of the project and why you think it's interesting. We welcome works-in-progress, finished projects, and prototypes.
+
+Any appendecies may be a maximum of two (2) pages.
 
 ## Special Theme
 
@@ -16,7 +18,7 @@ In keeping with this year’s AIIDE 'Mis-Spun Tales' theme, we specifically invi
 
 ## Important Dates
 
-Deadline for paper submissions:  **July 29, 2022**
+Deadline for paper submissions:  **August 10, 2022**
 
 Notification for accepted papers: **August 22, 2022**
 
