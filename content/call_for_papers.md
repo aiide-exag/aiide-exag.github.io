@@ -26,7 +26,7 @@ Workshop date: TBD (AIIDE will take place from October 24 - 28, 2022)
 
 ## Submission Guide
 
-Please make your submissions at our EasyChair site. We will post a link for submissions when it becomes available.
+Please submit using [EasyChair](https://easychair.org/my/conference?conf=aiide22).
 
 All papers submitted to the research track must follow the [AAAI format](https://www.aaai.org/Publications/Templates/AuthorKit22.zip) and be anonymized for double-blind review.
 

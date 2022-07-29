@@ -31,6 +31,13 @@ const IndexPage = () => {
 					</p>
 					<h2 className="mb-2">Announcements</h2>
 					<div className="announcement">
+						<h3>2022 Submission Link Posted</h3>
+						<p>
+							The EasyChair link for submission is posted! Please see our [Call for
+							Papers](https://www.exag.org/call_for_papers)
+						</p>
+					</div>
+					<div className="announcement">
 						<h3>Submission deadline extended to August 10</h3>
 						<p>
 							The deadline for submissions to AIIDE-22 workshops has been extended to
