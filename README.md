@@ -1,54 +1,48 @@
-<p align="center">
-  <a href="https://www.gatsbyjs.com/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts">
-    <img alt="Gatsby" src="https://www.gatsbyjs.com/Gatsby-Monogram.svg" width="60" />
-  </a>
-</p>
-<h1 align="center">
-  Gatsby minimal TypeScript starter
-</h1>
+# Experimental AI in Games workshop website
 
-## 🚀 Quick start
+This is the updated website for the AIIDE conference Experimental AI
+in games Workshop. It features basic information about the workshop,
+submission deadlines, announcements, and workshop schedule.
 
-1.  **Create a Gatsby site.**
+## Development
 
-    Use the Gatsby CLI to create a new site, specifying the minimal TypeScript starter.
+This site is built using [GatsbyJS](https://www.gatsbyjs.com/) as
+JavaScript framework that uses react to generate static websites.
 
-    ```shell
-    # create a new Gatsby site using the minimal TypeScript starter
-    npm init gatsby
-    ```
+Here are resources for learning more about Gatsby:
 
-2.  **Start developing.**
+- [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
-    Navigate into your new site’s directory and start it up.
+- [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
-    ```shell
-    cd my-gatsby-site/
-    npm run develop
-    ```
+- [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
-3.  **Open the code and start customizing!**
+- [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
-    Your site is now running at http://localhost:8000!
+- [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
-    Edit `src/pages/index.tsx` to see your site update in real-time!
+- [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
 
-4.  **Learn more**
+To begin development first clone the repo and install the dependencies
+using [Yarn](https://yarnpkg.com/).
 
-    - [Documentation](https://www.gatsbyjs.com/docs/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+### Package.json scripts
 
-    - [Tutorials](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+Here are the following scripts available in the `package.json`.
 
-    - [Guides](https://www.gatsbyjs.com/tutorial/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+- **yarn develop** - Start development Gatsby server on localhost
+- **yarn start** - See `yarn develop`
+- **yarn build** - Create production build of the website
+- **yarn serve** - Serve a production build of the website on localhost
+- **yarn clean** - Delete cached files and old build files
+- **yarn typecheck** - Run a TypeScript type check to ensure code correctness
+- **yarn deploy** - Deploy a production version of the site to the `gh-pages` branch. (changes are visible to the public)
 
-    - [API Reference](https://www.gatsbyjs.com/docs/api-reference/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+### Updating the Call for Papers
 
-    - [Plugin Library](https://www.gatsbyjs.com/plugins?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
+The call for papers information lives in the `content` directory. Gatsby
+uses a plugin to convert the content within the Markdown file into HTML.
+Here is a cheat sheet for Markdown syntax: [https://www.markdownguide.org/cheat-sheet/](https://www.markdownguide.org/cheat-sheet/).
 
-    - [Cheat Sheet](https://www.gatsbyjs.com/docs/cheat-sheet/?utm_source=starter&utm_medium=readme&utm_campaign=minimal-starter-ts)
-
-## 🚀 Quick start (Gatsby Cloud)
-
-Deploy this starter with one click on [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
-
-[<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-minimal-ts)
+Please update this file to change the content on the page. Styling is handled
+in the `src/global.scss` file.
