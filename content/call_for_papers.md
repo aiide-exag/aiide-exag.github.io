@@ -10,7 +10,7 @@ EXAG 2022 will be accepting papers to three different tracks:
 
 * **Informal project demos**: These require a (2 pages max) description of the project and why you think it's interesting. We welcome works-in-progress, finished projects, and prototypes.
 
-Any appendecies may be a maximum of two (2) pages.
+Any appendices may be a maximum of two (2) pages.
 
 ## Special Theme
 
