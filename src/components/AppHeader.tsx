@@ -11,6 +11,9 @@ const AppHeader = () => {
                     <div className="display-5">
                         AIIDE Workshop on Experimental AI in Games
                     </div>
+                    <div className="display-6" style={{ color: '#f26419' }}>
+                        October 24 - 25, 2022
+                    </div>
                 </div>
 
                 <AppNav></AppNav>

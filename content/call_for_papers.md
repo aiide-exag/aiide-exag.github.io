@@ -24,12 +24,6 @@ Notification for accepted papers: **August 26, 2022** ~~August 22, 2022~~
 
 Workshop date: **October 24 - 25, 2022**
 
-## Submission Guide
-
-Please submit using [EasyChair](https://easychair.org/my/conference?conf=aiide22).
-
-All papers submitted to the research track must follow the [AAAI format](https://www.aaai.org/Publications/Templates/AuthorKit22.zip) and be anonymized for double-blind review.
-
 ## Topics
 
 This is a non-comprehensive list of topics of interest to EXAG:
