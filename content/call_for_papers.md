@@ -18,9 +18,9 @@ In keeping with this year’s AIIDE 'Mis-Spun Tales' theme, we specifically invi
 
 ## Important Dates
 
-Deadline for paper submissions:  **August 10, 2022**
+Deadline for paper submissions:  ~~**August 10, 2022**~~
 
-Notification for accepted papers: **August 26, 2022** ~~August 22, 2022~~
+Notification for accepted papers: ~~**August 26, 2022**~~
 
 Workshop date: **October 24 - 25, 2022**
 
