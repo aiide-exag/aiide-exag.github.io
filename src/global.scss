@@ -64,3 +64,43 @@ h3 {
 .nav-link {
     color: $charcoal;
 }
+
+.schedule-time {
+    color: orangered;
+    font-size: larger;
+    font-weight: bold;
+    vertical-align: top;
+    margin-left: 1.5rem;
+}
+
+.schedule-section-title {
+    color: steelblue;
+    font-size: larger;
+    font-weight: bold;
+    margin-bottom: 0.4rem;
+}
+
+.presentation {
+    margin-bottom: 1.5rem;
+}
+
+.program-schedule {
+    border-collapse: separate;
+    border-spacing: 0 1em;
+}
+
+.program-schedule td {
+    padding: 0 15px;
+}
+
+.program-schedule tr {
+    margin-bottom: 15px;
+}
+
+.presentation-speaker {
+    font-style: italic;
+}
+
+.presentation-title {
+    font-weight: bolder;
+}
