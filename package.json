@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "private": true,
   "description": "exag.org",
-  "author": "Shi Johnson-Bey",
+  "author": "Shi Johnson-Bey & Jasmine Otto",
   "keywords": [],
   "scripts": {
     "dev": "next dev",
@@ -12,7 +12,7 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "rebuild": "tsc --build",
-    "deploy": "gh-pages -d public"
+    "deploy": "next build && gh-pages -d out"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
