@@ -1,40 +1,40 @@
 import React from 'react';
 import { Nav } from 'react-bootstrap';
-// import { Link } from 'gatsby';
+import Link from 'next/link'
 
 const AppNav = () => {
     return (
         <Nav className="justify-content-center">
             <Nav.Item>
-                <a
+                <Link
                     href="/"
                     className="nav-link">
                     Home
-                </a>
+                </Link>
             </Nav.Item>
             <Nav.Item>
-                <a
+                <Link
                     href="/call_for_papers"
                     className="nav-link"
                 >
                     Call For Papers
-                </a>
+                </Link>
             </Nav.Item>
             <Nav.Item>
-                <a
+                <Link
                     href="/committee"
                     className="nav-link"
                 >
                     Committee
-                </a>
+                </Link>
             </Nav.Item>
             <Nav.Item>
-                <a
+                <Link
                     href="/past_workshops"
                     className="nav-link"
                 >
                     Past Workshops
-                </a>
+                </Link>
             </Nav.Item>
         </Nav>
     );
