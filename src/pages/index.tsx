@@ -6,7 +6,7 @@ import Seo from '../components/Seo';
 const IndexPage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2022: Experimental AI in Games" />
+            <Seo title="EXAG 2023: Experimental AI in Games" />
             <Container className="py-5">
                 <div>
                     <h2>What is EXAG?</h2>
@@ -19,15 +19,15 @@ const IndexPage = () => {
                         AI in games.
                     </p>
                     <p>
-                        EXAG will be taking place for its 9th year at the 2022
-                        AIIDE AIIDE Conference. This year's theme for AIIDE is
-                        'Mis-Spun Tales'. We specifically invite authors to
-                        submit their negative results. Discussing negative
-                        results help our research community to critically
-                        consider the underlying assumptions of our work or the
-                        evaluation methods we use. Authors are strongly
-                        encouraged to include a discussion of what we can learn
-                        from negative results and what future work they inspire.
+                        EXAG will be taking place for its 10th year at the 2023
+                        AIIDE AIIDE Conference. Beyond being just a workshop, EXAG
+                        aims to foster a community where new ideas can be proposed
+                        and developed within the space of the workshop itself, thanks
+                        to sessions that emphasize showing, teaching, and inventing,
+                        alongside the traditional paper presentations. We hope to continuously
+                        support the presence of diverse voices from diverse backgrounds,
+                        in our AIIDE community, through new participants choosing to
+                        attend the broader conference.
                     </p>
                     <p>
                         We hope to see you at EXAG! Please reach out to the
@@ -36,24 +36,8 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
-                        <h3>2022 Submission Link Posted</h3>
-                        <p>
-                            The EasyChair link for submission is posted! Please
-                            see our{' '}
-                            <a href="./call_for_papers">Call for Papers</a>.
-                        </p>
-                    </div>
-                    <div className="announcement">
-                        <h3>Submission deadline extended to August 10</h3>
-                        <p>
-                            The deadline for submissions to AIIDE-22 workshops
-                            has been extended to August 10. You can breathe a
-                            sigh of relief.
-                        </p>
-                    </div>
-                    <div className="announcement">
                         <h3>
-                            EXAG is back for its 9th year at the 2022 AIIDE
+                            EXAG is back for its 10th year at the 2023 AIIDE
                             Conference!
                         </h3>
                         <p>

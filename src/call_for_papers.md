@@ -1,49 +1,51 @@
----
-title: Call for Papers
----
+# Call for Papers
 
-EXAG 2022 will be accepting papers to three different tracks:
+EXAG 2023 will be accepting papers to three different tracks:
 
-* **Research Track** (2-6 pages, excluding references): Papers submitted for oral presentation. These will be incorporated into the proceedings and presented as 10 to 20-minute talks during paper sessions.
+* **Full papers** -- Regular papers submitted for oral presentation (up to seven pages in length, with the seventh page containing only references). These papers will be incorporated into the proceedings and will be presented as 10-minute talks with 5 minutes of Q&A.
 
-* **Practitioner Track** (500 words abstract): Short articles by game developers, artists, and other practitioners on the use of artificial intelligence in games, art, and other entertainment artifacts. These will be highlighted by 5-10 minute talks in a special track of the workshop. Ideally, these will also use the AAAI format, but for the initial submission, any PDF format is fine; we’ll assign an editor to assist with the formatting of accepted work. The abstracts for this track do not have to be anonymized.
+* **Short papers** -- Short papers (up to four pages) describing a position, project, or proposal related to any topic of interest to the workshop. These papers will be incorporated into the proceedings and will be presented as 5-minute talks with 3 minutes of Q&A.
 
-* **Informal project demos**: These require a (2 pages max) description of the project and why you think it's interesting. We welcome works-in-progress, finished projects, and prototypes.
+* **Lightning talks** -- (One-page extended abstract) Presenters are given 5 minutes to present on a relevant topic of interest. Examples of talk formats are calls to action, explanations of design spaces, deep dives, and opinion talks.
 
-Any appendices may be a maximum of two (2) pages.
-
-## Special Theme
-
-In keeping with this year’s AIIDE 'Mis-Spun Tales' theme, we specifically invite authors to submit their negative results. Discussing negative results help our research community to critically consider the underlying assumptions of our work or the evaluation methods we use. Authors are strongly encouraged to include a discussion of what we can learn from negative results and what future work they inspire.
+Papers will be presented in groups based on their topics. The ordering of topics may depend on speaker availability,
+especially when accommodating remote presenters. Lightning talks will happen in the afternoon session and are designed to spark conversation prior to attendees dismissing for evening activities.
 
 ## Important Dates
 
-Deadline for paper submissions:  ~~**August 10, 2022**~~
+Deadline for paper submissions:  **July 3rd, 2023**
 
-Notification for accepted papers: ~~**August 26, 2022**~~
+Notification for accepted papers: **August 7th, 2023**
 
-Workshop date: **October 24 - 25, 2022**
+Publication-ready submission due: **September 4th, 2023**
+
+Workshop date: **October 8th, 2023**
 
 ## Topics
 
-This is a non-comprehensive list of topics of interest to EXAG:
+We are pleased to be a broad workshop with a large range of topics covered, and we aim to continue and expand our scope this year. This is a non-comprehensive list of topics of interest to EXAG:
 
-* New technology or tools made possible by AI—anything from roguelike Unexplored’s procedurally-generated dungeons and puzzles to stealth game Third Eye Crime’s visualization of AI logic.
+* The development of new game systems made possible by AI, from roguelike Unexplored’s procedurally-generated dungeons and puzzles to stealth game Third Eye Crime’s visualization of AI logic.
 
-* New games and related projects powered by academic research, e.g., Sure Footing and Bad News.
+* The use of AI in support of mixed-initiative co-creative play experiences, including collaborative storytelling games like Bad News.
 
-* Better living through AI—improving the game development and design process via new or newly applied AI techniques, from intelligent design tools to automated QA.
+* Better living through AI—improving game development and design through new and interesting applications of AI, from intelligent design tools to automated QA.
 
-* AI in physical/embodied play environments.
+* Discussion of experimental AI technologies used in games and play environments that may extend beyond the digital space into physical, embodied environments. Examples include (but are not limited to) AI in games that involve tangible user interfaces, interactive play spaces like museums, or embodied gameplay in virtual or augmented reality environments.
 
-* AI in support of mixed-initiative co-creative play.
+* Cross-pollination from AI subfields not typically used in games, like computational linguistics, machine vision,
+and procedural music.
 
-* New applications of traditional AI techniques, e.g., Left 4 Dead’s drama manager or Black and White’s learning creatures.
+* Traditional AI techniques applied in new ways that break genre conventions, like Left 4 Dead’s drama management or Black And White’s learning creatures.
 
-* Cross-pollination from AI subfields not typically involved in games—anything from computational linguistics to machine vision.
+* Human-centered evaluation of intelligent systems for digital entertainment.
 
-* Case studies on the provenance of widely adopted technologies that were once considered experimental, e.g., the history of behavior trees.
+* Discussion of interesting but relatively unknown historical examples of experimental AI in games and related areas. Here, we are especially interested in examples from the game industry, such as Captain Blood’s (1988) modular icon-based interface for procedural communication with NPCs, Intellivision World Series Baseball’s (1983) telecast-influenced procedural camera system, or Skool Daze’s (1984) real-time simulation of NPC agendas. In some cases, the investigation may reveal that these historical examples actually represent the state of the art in game AI today.
 
-* Reports on failed experiments related to any topic in our purview with a particular focus on how others can learn from your experience.
+* Reports on failed experiments related to any topic in our purview, with insight into what went wrong and how others can learn from the failure.
 
-* Not sure if your topic is a fit? Drop us a line!
+* Industry case studies in which non-academic developers present their applications of experimental game AI in commercial game contexts.
+
+Previous work presented at EXAG includes dynamic NPC knowledge modeling, blending or inventing game designs, intelligent design tools, hybrid generative algorithms, formal logics for games, generation of procedural game entities, procedural game narratives, and more.
+
+Not sure if your topic is a fit? Drop us a line!

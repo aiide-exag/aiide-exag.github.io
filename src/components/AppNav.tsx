@@ -30,14 +30,6 @@ const AppNav = () => {
             </Nav.Item>
             <Nav.Item>
                 <a
-                    href="/schedule"
-                    className="nav-link"
-                >
-                    Schedule
-                </a>
-            </Nav.Item>
-            <Nav.Item>
-                <a
                     href="/past_workshops"
                     className="nav-link"
                 >

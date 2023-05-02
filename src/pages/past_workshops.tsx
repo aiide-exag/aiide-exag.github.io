@@ -73,7 +73,7 @@ const pastWorkshopInfo = [
 
 const PastWorkshopsPage = () => (
     <AppLayout>
-        <Seo title="EXAG 2022: Past Workshops" />
+        <Seo title="EXAG 2023: Past Workshops" />
         <Container className="py-5">
             <h1 className="mb-3">Past Workshops</h1>
             <Table striped bordered hover responsive>

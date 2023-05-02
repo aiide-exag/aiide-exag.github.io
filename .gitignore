@@ -2,6 +2,5 @@ node_modules/
 .cache/
 .next/
 public/
-scratch/
 package-lock.json
 tsconfig.tsbuildinfo

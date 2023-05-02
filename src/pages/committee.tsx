@@ -10,6 +10,11 @@ const ORGANIZING_COMMITTEE = [
         affiliation: 'Northeastern University',
     },
     {
+        name: 'Jasmine Otto',
+        email: 'jtotto@ucsc.edu',
+        affiliation: 'University of California, Santa Cruz',
+    },
+    {
         name: 'Lucas N. Ferreira',
         email: 'lnferrei@ualberta.ca',
         affiliation: 'University of Alberta',
@@ -21,7 +26,8 @@ const ORGANIZING_COMMITTEE = [
     },
 ];
 
-const PROGRAM_COMMITTEE = [
+const PROGRAM_COMMITTEE: ({name: String, affiliation: String})[] = []
+/* [
     {
         name: 'Rehaf Aljammaz',
         affiliation: 'University of Califronia, Santa Cruz',
@@ -114,14 +120,14 @@ const PROGRAM_COMMITTEE = [
         name: 'Dr. Alex Zook',
         affiliation: 'NVIDIA',
     },
-];
+]; */
 
 const CommitteePage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2022: Committee" />
+            <Seo title="EXAG 2023: Committee" />
             <Container className="py-5">
-                <h1>Organizing Committee for 2022</h1>
+                <h1>Organizing Committee for 2023</h1>
                 <ul>
                     {ORGANIZING_COMMITTEE.map((member, i) => (
                         <li key={`organizer_${i}`}>

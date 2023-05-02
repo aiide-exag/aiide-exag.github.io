@@ -107,14 +107,6 @@ const AppFooter = () => {
                                 </li>
                                 <li>
                                     <a
-                                        href="/schedule"
-                                        className={`${styles.footerLink}`}
-                                    >
-                                        Schedule
-                                    </a>
-                                </li>
-                                <li>
-                                    <a
                                         href="/past_workshops"
                                         className={`${styles.footerLink}`}
                                     >
