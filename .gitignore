@@ -1,4 +1,7 @@
 node_modules/
 .cache/
-public
-src/gatsby-types.d.ts
+.next/
+public/
+scratch/
+package-lock.json
+tsconfig.tsbuildinfo
