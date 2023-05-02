@@ -12,7 +12,7 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "rebuild": "tsc --build",
-    "deploy": "next build && gh-pages -d out"
+    "deploy": "next build && ./out/.nojekyll && gh-pages -d out"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
@@ -29,7 +29,8 @@
     "react-bootstrap": "^2.4.0",
     "react-dom": "^18.1.0",
     "react-helmet": "^6.1.0",
-    "sass": "^1.52.3"
+    "sass": "^1.52.3",
+    "touch": "^3.1.0"
   },
   "devDependencies": {
     "@types/node": "^17.0.42",
