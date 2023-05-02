@@ -1,50 +1,48 @@
 import React from 'react';
 import { Nav } from 'react-bootstrap';
-import { Link } from 'gatsby';
+// import { Link } from 'gatsby';
 
 const AppNav = () => {
     return (
         <Nav className="justify-content-center">
             <Nav.Item>
-                <Link to="/" className="nav-link" activeClassName="active">
+                <a
+                    href="/"
+                    className="nav-link">
                     Home
-                </Link>
+                </a>
             </Nav.Item>
             <Nav.Item>
-                <Link
-                    to="/call_for_papers"
+                <a
+                    href="/call_for_papers"
                     className="nav-link"
-                    activeClassName="active"
                 >
                     Call For Papers
-                </Link>
+                </a>
             </Nav.Item>
             <Nav.Item>
-                <Link
-                    to="/committee"
+                <a
+                    href="/committee"
                     className="nav-link"
-                    activeClassName="active"
                 >
                     Committee
-                </Link>
+                </a>
             </Nav.Item>
             <Nav.Item>
-                <Link
-                    to="/schedule"
+                <a
+                    href="/schedule"
                     className="nav-link"
-                    activeClassName="active"
                 >
                     Schedule
-                </Link>
+                </a>
             </Nav.Item>
             <Nav.Item>
-                <Link
-                    to="/past_workshops"
+                <a
+                    href="/past_workshops"
                     className="nav-link"
-                    activeClassName="active"
                 >
                     Past Workshops
-                </Link>
+                </a>
             </Nav.Item>
         </Nav>
     );

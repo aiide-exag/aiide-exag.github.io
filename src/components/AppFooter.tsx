@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
-import { Link } from 'gatsby';
+// import { Link } from 'gatsby';
 import * as styles from './AppFooter.module.scss';
 
 const SOCIAL_LINKS = [
@@ -80,46 +80,46 @@ const AppFooter = () => {
                                 }}
                             >
                                 <li>
-                                    <Link
-                                        to="/"
+                                    <a
+                                        href="/"
                                         className={`${styles.footerLink}`}
                                     >
                                         Home
-                                    </Link>
+                                    </a>
                                 </li>
 
                                 <li>
-                                    <Link
-                                        to="/call_for_papers"
+                                    <a
+                                        href="/call_for_papers"
                                         className={`${styles.footerLink}`}
                                     >
                                         Call for Papers
-                                    </Link>
+                                    </a>
                                 </li>
 
                                 <li>
-                                    <Link
-                                        to="/committee"
+                                    <a
+                                        href="/committee"
                                         className={`${styles.footerLink}`}
                                     >
                                         Committee
-                                    </Link>
+                                    </a>
                                 </li>
                                 <li>
-                                    <Link
-                                        to="/schedule"
+                                    <a
+                                        href="/schedule"
                                         className={`${styles.footerLink}`}
                                     >
                                         Schedule
-                                    </Link>
+                                    </a>
                                 </li>
                                 <li>
-                                    <Link
-                                        to="/past_workshops"
+                                    <a
+                                        href="/past_workshops"
                                         className={`${styles.footerLink}`}
                                     >
                                         Past Workshops
-                                    </Link>
+                                    </a>
                                 </li>
                             </ul>
                         </div>
