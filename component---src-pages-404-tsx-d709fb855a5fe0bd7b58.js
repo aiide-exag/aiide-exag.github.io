@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkexag_org=self.webpackChunkexag_org||[]).push([[218],{5415:function(e,t,n){n.r(t);var l=n(7294),a=n(3639),u=n(5414),r=n(9304);t.default=function(){return l.createElement(r.Z,null,l.createElement(u.q,{title:"Page not found."}),l.createElement("title",null,"Not found"),l.createElement(a.Z,{className:"py-5"},l.createElement("h1",null,"Page not found")))}}}]);
-//# sourceMappingURL=component---src-pages-404-tsx-d709fb855a5fe0bd7b58.js.map
