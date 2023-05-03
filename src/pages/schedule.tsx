@@ -6,15 +6,18 @@ import Seo from '../components/Seo';
 const SchedulePage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2022: Schedule" />
+            <Seo title="EXAG 2023: Schedule" />
             <Container className="py-5">
-                <h1>EXAG 2022 Program Schedule</h1>
-                <p>
-                    ExAG will be held in the Kellogg West Conference Center on
-                    the Lower Level. All posted times are in Pacific Daylight
-                    Time (PDT).
-                </p>
-                <h2>Monday, October 24</h2>
+                <h1>EXAG 2023 Program Schedule</h1>
+                <h2>Monday, October 8th</h2>
+            </Container>
+        </AppLayout>
+    );
+};
+
+export default SchedulePage;
+
+/*
                 <table className="program-schedule">
                     <tbody>
                         <tr>
@@ -279,9 +282,4 @@ const SchedulePage = () => {
                         </tr>
                     </tbody>
                 </table>
-            </Container>
-        </AppLayout>
-    );
-};
-
-export default SchedulePage;
+*/

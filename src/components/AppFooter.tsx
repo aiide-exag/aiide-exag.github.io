@@ -2,7 +2,7 @@ import React from 'react';
 import { Container, Row, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faTwitter, faYoutube } from '@fortawesome/free-brands-svg-icons';
-import { Link } from 'gatsby';
+import Link from 'next/link'
 import * as styles from './AppFooter.module.scss';
 
 const SOCIAL_LINKS = [
@@ -81,7 +81,7 @@ const AppFooter = () => {
                             >
                                 <li>
                                     <Link
-                                        to="/"
+                                        href="/"
                                         className={`${styles.footerLink}`}
                                     >
                                         Home
@@ -90,7 +90,7 @@ const AppFooter = () => {
 
                                 <li>
                                     <Link
-                                        to="/call_for_papers"
+                                        href="/call_for_papers"
                                         className={`${styles.footerLink}`}
                                     >
                                         Call for Papers
@@ -99,7 +99,7 @@ const AppFooter = () => {
 
                                 <li>
                                     <Link
-                                        to="/committee"
+                                        href="/committee"
                                         className={`${styles.footerLink}`}
                                     >
                                         Committee
@@ -107,15 +107,7 @@ const AppFooter = () => {
                                 </li>
                                 <li>
                                     <Link
-                                        to="/schedule"
-                                        className={`${styles.footerLink}`}
-                                    >
-                                        Schedule
-                                    </Link>
-                                </li>
-                                <li>
-                                    <Link
-                                        to="/past_workshops"
+                                        href="/past_workshops"
                                         className={`${styles.footerLink}`}
                                     >
                                         Past Workshops

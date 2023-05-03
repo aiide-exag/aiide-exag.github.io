@@ -1,0 +1,1 @@
+declare module "*.md"; // allow markdown import https://stackoverflow.com/a/56659180
