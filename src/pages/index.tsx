@@ -20,14 +20,15 @@ const IndexPage = () => {
                     </p>
                     <p>
                         EXAG will be taking place for its 10th year at the 2023
-                        AIIDE AIIDE Conference. Beyond being just a workshop, EXAG
-                        aims to foster a community where new ideas can be proposed
-                        and developed within the space of the workshop itself, thanks
-                        to sessions that emphasize showing, teaching, and inventing,
-                        alongside the traditional paper presentations. We hope to continuously
-                        support the presence of diverse voices from diverse backgrounds,
-                        in our AIIDE community, through new participants choosing to
-                        attend the broader conference.
+                        AIIDE AIIDE Conference. Beyond being just a workshop,
+                        EXAG aims to foster a community where new ideas can be
+                        proposed and developed within the space of the workshop
+                        itself, thanks to sessions that emphasize showing,
+                        teaching, and inventing, alongside the traditional paper
+                        presentations. We hope to continuously support the
+                        presence of diverse voices from diverse backgrounds, in
+                        our AIIDE community, through new participants choosing
+                        to attend the broader conference.
                     </p>
                     <p>
                         We hope to see you at EXAG! Please reach out to the
@@ -49,6 +50,19 @@ const IndexPage = () => {
                             you this fall!
                         </p>
                     </div>
+                    <h2 className="mb-2">Registration</h2>
+                    <p>
+                        If you would like to attend the Experimental AI in Games
+                        workshop, please register for the{' '}
+                        <a
+                            href="https://sites.google.com/view/aiide-2023/home"
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            AIIDE 2023 Conference
+                        </a>
+                        .
+                    </p>
                 </div>
             </Container>
         </AppLayout>
