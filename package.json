@@ -12,7 +12,7 @@
     "lint": "next lint",
     "typecheck": "tsc --noEmit",
     "rebuild": "tsc --build",
-    "deploy": "next build && ./out/.nojekyll && gh-pages -d out"
+    "deploy": "next build && gh-pages -t -d out"
   },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.1",
