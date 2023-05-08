@@ -13,11 +13,11 @@ especially when accommodating remote presenters. Lightning talks will happen in 
 
 ## Important Dates
 
-Deadline for paper submissions:  **July 3rd, 2023**
+Deadline for paper submissions:  **July 24th, 2023**
 
-Notification for accepted papers: **August 7th, 2023**
+Notification for accepted papers: **August 24th, 2023**
 
-Publication-ready submission due: **September 4th, 2023**
+Publication-ready submission due: **September 11th, 2023**
 
 Workshop date: **October 8th, 2023**
 
