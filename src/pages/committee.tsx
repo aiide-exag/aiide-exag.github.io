@@ -6,7 +6,7 @@ import Seo from '../components/Seo';
 const ORGANIZING_COMMITTEE = [
     {
         name: 'Abdelrahman Madkour',
-        email: 'madkour.a@northeastern.edu',
+        email: 'madkour.a@husky.neu.edu',
         affiliation: 'Northeastern University',
     },
     {
@@ -20,7 +20,7 @@ const ORGANIZING_COMMITTEE = [
         affiliation: 'University of Alberta',
     },
     {
-        name: 'Shi Johnson-Bey, M.S.',
+        name: 'Shi Johnson-Bey',
         email: 'ismajohn@ucsc.edu',
         affiliation: 'University of California, Santa Cruz',
     },

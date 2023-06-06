@@ -2,14 +2,47 @@
 
 EXAG 2023 will be accepting papers to three different tracks:
 
-* **Full papers** -- Regular papers submitted for oral presentation (up to seven pages in length, with the seventh page containing only references). These papers will be incorporated into the proceedings and will be presented as 10-minute talks with 5 minutes of Q&A.
+* **Full papers** -- Regular papers submitted for oral presentation (up to nine (9) pages). These papers will be incorporated into the proceedings and will be presented as 10-minute talks with 5 minutes of Q&A.
 
-* **Short papers** -- Short papers (up to four pages) describing a position, project, or proposal related to any topic of interest to the workshop. These papers will be incorporated into the proceedings and will be presented as 5-minute talks with 3 minutes of Q&A.
+* **Short papers** -- Short papers (up to four (4) pages) describing a position, project, or proposal related to any topic of interest to the workshop. These papers will be incorporated into the proceedings and will be presented as 5-minute talks with 3 minutes of Q&A.
 
 * **Lightning talks** -- (One-page extended abstract) Presenters are given 5 minutes to present on a relevant topic of interest. Examples of talk formats are calls to action, explanations of design spaces, deep dives, and opinion talks.
 
 Papers will be presented in groups based on their topics. The ordering of topics may depend on speaker availability,
 especially when accommodating remote presenters. Lightning talks will happen in the afternoon session and are designed to spark conversation prior to attendees dismissing for evening activities.
+
+## Submission Instructions
+
+### Research Papers
+
+Full and short papers should be submitted [on EasyChair](https://easychair.org/my/conference?conf=aiide23). Please select the Experimental AI in Games track.
+
+#### What to Submit
+
+Papers describe AI research results that establish new entertainment AI challenges, make advances on existing problems, enable new forms of interactive digital entertainment, and/or use AI to improve the game design and development process.  Papers are held to the highest standards of academic rigor. In general:
+
+* Results should be validated in a prototype or test-bed system (e.g., game, robot, generative algorithm), but need not be tested in a commercial environment.
+* The contribution of the paper should be clearly articulated, usually in the introduction.
+* The title and claims made in the paper should match the evaluation carried out and the results obtained. Overly broad titles are discouraged.
+* The paper should demonstrate knowledge of related systems and other approaches to solving similar problems, usually in a Related Work section.
+
+#### Format
+
+Papers should be formatted in **CEUR two-column**, camera-ready style. There are two-column templates available for various platforms. Overleaf users can use the [available template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). If you prefer to use Microsoft Word, ODT, or an different LaTeX variant, [please use these templates from CEUR](http://ceur-ws.org/Vol-XXX/CEURART.zip).
+
+#### Length
+
+Authors are allotted **9 pages of content for full papers** and **4 pages of content for short papers**, with no limit on the number of pages for references. Thus, authors are encouraged to submit a paper of length proportional to its contribution. The length of typical submissions is expected to be approximately 6-7 pages of primary content (including figures and tables but excluding references), with 1-2 pages of appendix content. Note, reviewers may, but are not required to, read the appendices, and therefore the paper’s central thesis should be understandable without them.
+
+Submissions longer than the alloted page counts will be considered for desk rejection. Papers whose lengths are incommensurate with their contributions will be rejected.
+
+#### Evaluation Criteria
+
+Submissions will be peer reviewed. Abstracts and other submitted materials will be judged on technical merit, accessibility to developers and researchers, originality, presentation, impact, and significance. Submissions do not need to score well in all of these categories.
+
+### Lightning Talks
+
+Lightning talk proposals should instead be emailed to the organizers at: *exag20xx at gmail.com*. Please include a one-page PDF with your talk's extended abstract. Please include your name and the title of your talk.
 
 ## Important Dates
 

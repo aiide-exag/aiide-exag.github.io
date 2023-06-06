@@ -36,6 +36,14 @@ const AppNav = () => {
                     Past Workshops
                 </Link>
             </Nav.Item>
+            <Nav.Item>
+                <Link
+                    href="/papers"
+                    className="nav-link"
+                >
+                    Paper Database
+                </Link>
+            </Nav.Item>
         </Nav>
     );
 };

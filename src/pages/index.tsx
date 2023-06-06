@@ -37,6 +37,21 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
+                        <h3>Our Call for Papers is now open!</h3>
+                        <p>
+                            Submissions for EXAG full papers and short papers
+                            are now open{' '}
+                            <a href="https://easychair.org/my/conference?conf=aiide23">
+                                on EasyChair
+                            </a>
+                            ! Please select the Experimental AI in Games track
+                            when you make your submission. Lightning talk
+                            proposals should instead be emailed to the
+                            organizers at: exag20xx@gmail
+                            <p style={{"display":"none"}}>.ignoreme</p>.com
+                        </p>
+                    </div>
+                    <div className="announcement">
                         <h3>
                             EXAG is back for its 10th year at the 2023 AIIDE
                             Conference!
