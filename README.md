@@ -32,3 +32,13 @@ Here is a cheat sheet for Markdown syntax:
 
 Please update this file to change the content on the page. Styling is handled
 in the `src/global.scss` file.
+
+### Updating the Paper Database
+
+All paper database entries are managed in `src/paper_data.json`.
+
+To link to papers within this repository use the following download link prefix:
+
+```text
+https://github.com/downloads/aiide-exag/aiide-exag.github.io/papers/<PAPER NAME HERE>
+```

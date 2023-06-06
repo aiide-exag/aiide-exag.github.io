@@ -33,7 +33,7 @@ const PaperDatabaseEntry: React.FC<PaperDatabaseEntryProps> = (props) => {
             <div
                 className={`fs-4 mb-3`}
             >{`${props.entryInfo.authors} (${props.entryInfo.year})`}</div>
-            <a href={props.entryInfo.local_file}>
+            <a href={props.entryInfo.link}>
                 <Button className={`mb-3`}>Download PDF</Button>
             </a>
 
