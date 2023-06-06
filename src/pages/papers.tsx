@@ -45,7 +45,7 @@ const PaperDatabaseEntry: React.FC<PaperDatabaseEntryProps> = (props) => {
                         setShowMore(!showMore);
                     }}
                 >
-                    {showMore ? 'Show Less' : 'Read More' }
+                    {showMore ? 'Show Less' : 'Read More'}
                 </Button>
             </div>
 
@@ -68,16 +68,16 @@ const PaperDatabaseEntry: React.FC<PaperDatabaseEntryProps> = (props) => {
 };
 
 const PAPER_YEARS = [
-    "2022",
-    "2021",
-    "2020",
-    "2019",
-    "2018",
-    "2017",
-    "2016",
-    "2015",
-    "2014",
-]
+    '2022',
+    '2021',
+    '2020',
+    '2019',
+    '2018',
+    '2017',
+    '2016',
+    '2015',
+    '2014',
+];
 
 const PapersPage = () => {
     const [selectedYears, setSelectedYears] = useState<string[]>([]);
@@ -91,37 +91,45 @@ const PapersPage = () => {
             selectedYears.push(year);
         }
         setSelectedYears([...selectedYears]);
-    }
+    };
 
     const selected = (year: string) => {
         return selectedYears.includes(year);
-    }
+    };
 
     return (
         <AppLayout>
             <Seo title="Previous Papers" />
             <Container className="py-5">
-
                 <h1>EXAG Paper Database</h1>
 
                 <div className={`border mb-3 rounded p-3`}>
-                <p>Filter by year</p>
-                <ButtonToolbar >
-                    {PAPER_YEARS.map((year, index) => (
+                    <p>Filter by year</p>
+                    <ButtonToolbar>
+                        {PAPER_YEARS.map((year, index) => (
+                            <Button
+                                className={`m-2`}
+                                variant={selected(year) ? 'info' : 'primary'}
+                                key={index}
+                                onClick={() => toggleYear(year)}
+                            >
+                                {year}
+                            </Button>
+                        ))}
                         <Button
                             className={`m-2`}
-                            variant={selected(year)? 'info' : 'primary'}
-                            key={index}
-                            onClick={() => toggleYear(year)}
+                            variant="primary"
+                            onClick={() => setSelectedYears([])}
                         >
-                            {year}
+                            Clear Selection
                         </Button>
-                    ))}
-                </ButtonToolbar>
+                    </ButtonToolbar>
                 </div>
                 {papers.map((entry, index) => {
                     if (selectedYears.length == 0 || selected(entry.year)) {
-                        return <PaperDatabaseEntry entryInfo={entry} key={index} />;
+                        return (
+                            <PaperDatabaseEntry entryInfo={entry} key={index} />
+                        );
                     }
                 })}
             </Container>
