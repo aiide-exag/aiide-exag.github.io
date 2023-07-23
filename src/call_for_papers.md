@@ -28,7 +28,7 @@ Papers describe AI research results that establish new entertainment AI challeng
 
 #### Format
 
-Papers should be formatted in **CEUR two-column**, camera-ready style. There are two-column templates available for various platforms. Overleaf users can use the [available template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). If you prefer to use Microsoft Word, ODT, or an different LaTeX variant, [please use these templates from CEUR](http://ceur-ws.org/Vol-XXX/CEURART.zip).
+Papers should be formatted in **CEUR two-column**, camera-ready style and **should be anonymized** for double-blind review. There are two-column templates available for various platforms. Overleaf users can use the [available template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw). If you prefer to use Microsoft Word, ODT, or an different LaTeX variant, [please use these templates from CEUR](http://ceur-ws.org/Vol-XXX/CEURART.zip).
 
 #### Length
 

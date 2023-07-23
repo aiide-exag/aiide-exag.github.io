@@ -136,14 +136,14 @@ const CommitteePage = () => {
                     ))}
                 </ul>
 
-                <h1>Program Committee</h1>
+                {/* <h1>Program Committee</h1>
                 <ul>
                     {PROGRAM_COMMITTEE.map((member, i) => (
                         <li key={`pc_${i}`}>
                             {member.name} &lt;{member.affiliation}&gt;
                         </li>
                     ))}
-                </ul>
+                </ul> */}
             </Container>
         </AppLayout>
     );
