@@ -46,7 +46,7 @@ Lightning talk proposals should instead be emailed to the organizers at: *exag20
 
 ## Important Dates
 
-Deadline for paper submissions:  **July 24th, 2023**
+Deadline for paper submissions: (UPDATED!) **July 27th, 2023**
 
 Notification for accepted papers: **August 24th, 2023**
 

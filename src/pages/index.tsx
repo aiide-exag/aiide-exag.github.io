@@ -37,6 +37,15 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
+                        <h3>
+                            Submission deadline extended!
+                        </h3>
+                        <p>
+                            The submission deadline for EXAG 2023 has been extended to July 27th, 2023 🚀.
+                            Please see our Call for Papers for submission instructions.
+                        </p>
+                    </div>
+                    <div className="announcement">
                         <h3>Our Call for Papers is now open!</h3>
                         <p>
                             Submissions for EXAG full papers and short papers
