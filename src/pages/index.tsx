@@ -37,12 +37,27 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
-                        <h3>
-                            Submission deadline extended!
-                        </h3>
+                        <h3>2023 & 2022 proceedings coming soon</h3>
                         <p>
-                            The submission deadline for EXAG 2023 has been extended to July 27th, 2023 🚀.
-                            Please see our Call for Papers for submission instructions.
+                            The published proceedings for the 2023 and 2022
+                            workshop will be released soon. When it is released,
+                            we will update the paper database.
+                        </p>
+                    </div>
+                    <div className="announcement">
+                        <h3>Accepted papers have been posted</h3>
+                        <p>
+                            The accepted papers/talks for 2023 have been posted
+                            on the Schedule page. A schedule of the talks will
+                            be released soon.
+                        </p>
+                    </div>
+                    <div className="announcement">
+                        <h3>Submission deadline extended!</h3>
+                        <p>
+                            The submission deadline for EXAG 2023 has been
+                            extended to July 27th, 2023 🚀. Please see our Call
+                            for Papers for submission instructions.
                         </p>
                     </div>
                     <div className="announcement">
@@ -57,7 +72,7 @@ const IndexPage = () => {
                             when you make your submission. Lightning talk
                             proposals should instead be emailed to the
                             organizers at: exag20xx@gmail
-                            <p style={{"display":"none"}}>.ignoreme</p>.com
+                            <p style={{ display: 'none' }}>.ignoreme</p>.com
                         </p>
                     </div>
                     <div className="announcement">

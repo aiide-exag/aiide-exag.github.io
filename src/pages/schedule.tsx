@@ -9,7 +9,191 @@ const SchedulePage = () => {
             <Seo title="EXAG 2023: Schedule" />
             <Container className="py-5">
                 <h1>EXAG 2023 Program Schedule</h1>
-                <h2>Monday, October 8th</h2>
+
+                <div className="alert alert-info" role="alert">
+                    ⚠️We are working on the schedule. It should be posted soon.
+                </div>
+
+                <div className="alert alert-info mb-5" role="alert">
+                    <h4>Presentation lengths.</h4>
+                    <ul>
+                        <li>Full-Paper: 10 minutes + 5 minutes of Q&A</li>
+                        <li>Short-Paper: 5 minutes + 3 minutes of Q&A</li>
+                        <li>Lightning Talks: 5 minutes</li>
+                    </ul>
+                </div>
+
+                <h2>📜 Accepted Full Papers</h2>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Exploring Minecraft Settlement Generators with
+                        Generative Shift Analysis
+                    </div>
+                    <div className="presentation-speaker">
+                        Jean-Baptiste Hervé, Oliver Withington, Marion Hervé,
+                        Laurissa Tokarchuk and Christoph Salge
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        HarmonyMapper: Generating Emotionally Diverse Chord
+                        Progressions for Games
+                    </div>
+                    <div className="presentation-speaker">
+                        Sara Cardinale and Oliver Withington
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Towards Procedural Generation of Constructed Languages
+                        for Games
+                    </div>
+                    <div className="presentation-speaker">
+                        Aaron Cai and Chris Martens
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Knowledge Goal Recognition for Interactive Narratives
+                    </div>
+                    <div className="presentation-speaker">
+                        Cory Siler and Stephen G. Ware
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Enhancing MCTS with Convolutional Autoencoder and Linear
+                        Approximator in XCOM-Inspired Environments
+                    </div>
+                    <div className="presentation-speaker">
+                        Yiwei Zhang and Richard Zhao
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Moirai: Enabling Complex Narrative Structure in
+                        Simulation-Driven Stories
+                    </div>
+                    <div className="presentation-speaker">
+                        Ben Samuel and Adam Summerville
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Towards Automated Video Game Commentary Using Generative
+                        AI
+                    </div>
+                    <div className="presentation-speaker">
+                        Noah Renella and Markus Eger
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Fast, Declarative, Character Simulation Using Bottom-Up
+                        Logic Programming
+                    </div>
+                    <div className="presentation-speaker">
+                        Ian Horswill and Samuel Hill
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        An Executable Ontology for Social Simulation
+                    </div>
+                    <div className="presentation-speaker">
+                        Samuel Hill and Ian Horswill
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Thespian: Multi-Character Text Role-Playing Game Agents
+                    </div>
+                    <div className="presentation-speaker">
+                        Christopher Cui, Xiangyu Peng and Mark Riedl
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Little Learning Machines: Real-time deep reinforcement
+                        learning as a casual creativity game
+                    </div>
+                    <div className="presentation-speaker">
+                        Dante Camarena, Nicholas Counter, Daniil Markelov,
+                        Pietro Gagliano, Don Nguyen, Rhys Becker, Fiona Firby,
+                        Zina Rahman, Richard Rosenbaum, Liam A. Clarke and Maria
+                        Skibinski
+                    </div>
+                </div>
+
+                <h2>📄 Accepted Short Papers</h2>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Examining Early Professionals' Use of Generative AI in
+                        the Game Development Process
+                    </div>
+                    <div className="presentation-speaker">
+                        Josiah Boucher, Yunus Dogan Telliel and Gillian Smith
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Dialogue Shaping: Empowering Agents through NPC
+                        Interaction
+                    </div>
+                    <div className="presentation-speaker">
+                        Wei Zhou, Xiangyu Peng and Mark Riedl
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Visual Exploration of Tile Level Datasets
+                    </div>
+                    <div className="presentation-speaker">
+                        Seth Cooper, Faisal Abutarab, Emily Halina and Nathan
+                        Sturtevant
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Learning Constrained Graph Layout for Content Generation
+                    </div>
+                    <div className="presentation-speaker">
+                        Seth Cooper and Eden Balema
+                    </div>
+                </div>
+
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Toward using ChatGPT to generate theme-relevant
+                        simulated storyworlds
+                    </div>
+                    <div className="presentation-speaker">
+                        Shi Johnson-Bey, Noah Wardrip-Fruin and Michael Mateas
+                    </div>
+                </div>
+
+                <h2>⚡️ Accepted Lightning Talks</h2>
+                <div className="mb-3">
+                    <div className="presentation-title">
+                        Spacetime Constraints for Gameplay
+                    </div>
+                    <div className="presentation-speaker">Seth Cooper</div>
+                </div>
             </Container>
         </AppLayout>
     );

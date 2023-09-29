@@ -26,55 +26,54 @@ const ORGANIZING_COMMITTEE = [
     },
 ];
 
-const PROGRAM_COMMITTEE: ({name: String, affiliation: String})[] = []
-/* [
-    {
-        name: 'Rehaf Aljammaz',
-        affiliation: 'University of Califronia, Santa Cruz',
-    },
+const PROGRAM_COMMITTEE: { name: String; affiliation: String }[] = [
     {
         name: 'Matthew Barthet',
-        affiliation: 'University of Malta',
+        affiliation: 'Institute of Digital Games, University of Malta',
     },
     {
-        name: 'Dr. Morteza Behrooz',
-        affiliation: 'Meta',
+        name: 'Morteza Behrooz',
+        affiliation: 'Worcester Polytechnic Institute',
+    },
+    {
+        name: 'Colon Biemer',
+        affiliation: 'Northeastern University',
+    },
+    {
+        name: 'Vadim Bulitko',
+        affiliation: 'University of Alberta',
+    },
+    {
+        name: 'Sara Cardinale',
+        affiliation: 'Queen Mary University of London',
     },
     {
         name: 'M Charity',
         affiliation: 'New York University ',
     },
     {
-        name: 'Mike Cook',
-        affiliation: 'Queen Mary University of London',
-    },
-    {
         name: 'Seth Cooper',
         affiliation: 'Northeastern University',
-    },
-    {
-        name: 'Jñani Crawford',
-        affiliation: 'University of California, Santa Cruz',
     },
     {
         name: 'Sam Earle',
         affiliation: 'New York University',
     },
     {
-        name: 'Dr. Raluca D. Gaina',
-        affiliation: 'Queen Mary University of London',
+        name: 'Sean Guillory',
+        affiliation: 'Booz Allen Hamilton',
     },
     {
-        name: 'Sean Guillory, Ph.D.',
-        affiliation: 'Booz Allen Hamilton',
+        name: 'Matthew Guzdial',
+        affiliation: 'University of Alberta',
+    },
+    {
+        name: 'Emily Halina',
+        affiliation: 'University of Alberta',
     },
     {
         name: 'Ian Horswill, Associate Professor',
         affiliation: 'Northwestern University',
-    },
-    {
-        name: 'Dr. Mads Johansen PhD',
-        affiliation: 'Modl.ai',
     },
     {
         name: 'Ahmed Khalifa',
@@ -82,7 +81,11 @@ const PROGRAM_COMMITTEE: ({name: String, affiliation: String})[] = []
     },
     {
         name: 'Max Kreminski',
-        affiliation: 'University of California, Santa Cruz',
+        affiliation: 'Santa Clara University',
+    },
+    {
+        name: 'Sylvain Lapeyrade',
+        affiliation: 'Paul Sabatier University',
     },
     {
         name: 'Dr. Peter Mawhorter',
@@ -97,53 +100,62 @@ const PROGRAM_COMMITTEE: ({name: String, affiliation: String})[] = []
         affiliation: 'Northeastern University',
     },
     {
-        name: 'Dr. Justus Robertson Ph.D.',
-        affiliation: 'Rochester Institute of Technology',
+        name: 'Johannes Pfau',
+        affiliation: 'University of California Santa Cruz',
     },
     {
-        name: 'Dr. Ben Samuel ',
+        name: 'Ben Samuel',
         affiliation: 'University of New Orleans',
     },
     {
-        name: 'Anurag Sarkar',
-        affiliation: 'Northeastern University',
+        name: 'Akash Saravanan',
+        affiliation: 'University of Alberta',
     },
     {
-        name: 'Chintan Trivedi',
-        affiliation: 'University of Malta',
+        name: 'Laurissa Tokarchuk',
+        affiliation: 'Queen Mary University of London',
     },
     {
-        name: 'Prof. Stephen G. Ware',
-        affiliation: 'University of Kentucky',
+        name: 'Jim Whitehead',
+        affiliation: 'University of California Santa Cruz',
+    },
+    {
+        name: 'Oliver Withington',
+        affiliation: 'Queen Mary University of London',
+    },
+    {
+        name: 'Richard Zhao',
+        affiliation: 'University of Calgary',
     },
     {
         name: 'Dr. Alex Zook',
-        affiliation: 'NVIDIA',
+        affiliation: 'Blizzard Entertainment',
     },
-]; */
+];
 
 const CommitteePage = () => {
     return (
         <AppLayout>
             <Seo title="EXAG 2023: Committee" />
             <Container className="py-5">
-                <h1>Organizing Committee for 2023</h1>
+                <h1>Workshop Organizers</h1>
                 <ul>
                     {ORGANIZING_COMMITTEE.map((member, i) => (
                         <li key={`organizer_${i}`}>
-                            {member.name} &lt;{member.email}&gt;
+                            {member.name} ({member.email}) --{' '}
+                            {member.affiliation}
                         </li>
                     ))}
                 </ul>
 
-                {/* <h1>Program Committee</h1>
+                <h1>Program Committee</h1>
                 <ul>
                     {PROGRAM_COMMITTEE.map((member, i) => (
                         <li key={`pc_${i}`}>
-                            {member.name} &lt;{member.affiliation}&gt;
+                            {member.name} -- {member.affiliation}
                         </li>
                     ))}
-                </ul> */}
+                </ul>
             </Container>
         </AppLayout>
     );
