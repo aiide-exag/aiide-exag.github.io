@@ -23,7 +23,7 @@
         "abstract": "Generative Graph grammars are an established technique for procedural content generation (PCG) of the mission space of dungeon levels, as they allow for explicit specification of design intention. However, they are difficult to control beyond the initial specification. Defining effective grammars requires both design expertise and familiarity with how grammars work, and even then the resulting grammar is not guaranteed to generate missions that fit a designer's intention. In this paper, we propose a system that attempts to allow designers to affect an existing grammar's generative space by allowing designers to control the probability distribution induced by the grammar. The system does this by learning the parameters of a probabilistic graph grammar from examples. Designers can control the generation of these examples via specification of assessment criteria, and a threshold above or below which the output is generated. We conclude with a demonstration of the efficacy of the system in shifting the distribution of the generative space.",
         "authors": "Abdelrahman Madkour, Stacy Marsella, Casper Harteveld, Magy Seif El-Nasr and Jan Willem van de Meent",
         "bibtex": "@inproceedings{madkour2021guiding,\n title={Guiding Generative Graph Grammars of Dungeon Mission Graphs via Examples},\nauthor={Abdelrahman Madkour and Stacy Marsella and Casper Harteveld and Magy Seif El-Nasr and Jan Willem van de Meent},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
-        "link": "https://www.autogamedesign.eu/wp-content/uploads/2017/04/missionEvolution.pdf",
+        "link": "https://ceur-ws.org/Vol-3217/paper8.pdf",
         "local_file": "papers/Guiding Generative Graph Grammars of Dungeon Mission Graphs via Examples.pdf",
         "old_url": "archive/madkour2021guiding.pdf",
         "title": "Guiding Generative Graph Grammars of Dungeon Mission Graphs via Examples",
@@ -1238,5 +1238,165 @@
         "old_url": "archive/mahajan2019critique.pdf",
         "title": "Toward Automated Critique for Student-Created Interactive Narrative Projects",
         "year": "2019"
+    },
+    {
+        "abstract": "Datasets of game levels are increasingly used, for example as training data for PCGML algorithms, exhaustive PCG, or pre-computed parts of larger levels. However, tools for exploring these datasets are limited. In this work we describe an interactive tool for visual exploration of large tile level datasets. The tool currently supports level elements including both image- and text-based tile grids, path graph edges, and arbitrary string tags. The tool visualizes the levels and allows the user to select elements that they would like to be present, and filters the dataset to find all levels consistent with the user's selection. We also describe an efficient encoding scheme used for level filtering, along with example cases of several games, demonstrating handling of datasets consisting of millions of levels. ",
+        "authors": "Seth Cooper, Faisal Abutarab, Emily Halina and Nathan Sturtevant",
+        "bibtex": "@inproceedings{cooper2023visual,\n title={Visual Exploration of Tile Level Datasets},\nauthor={Seth Cooper, Faisal Abutarab, Emily Halina and Nathan Sturtevant},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Visual Exploration of Tile Level Datasets.pdf",
+        "old_url": "",
+        "title": "Visual Exploration of Tile Level Datasets",
+        "year": "2023"
+    },
+    {
+        "abstract": "While simulated story worlds have proven to be fertile ground for emergent storytelling in research and in commercial game genres such as life simulation, 4X, and roguelikes, they have also proven challenging to create. Building these simulations can involve hand-authoring large amounts of content that provide context for character decision-making, ensure variation among generated narratives, and align with the simulation's narrative setting and themes. This short paper discusses preliminary work on leveraging ChatGPT to generate theme-relevant content for \textit{Neighborly}, a character-driven settlement simulation framework designed for narrative generation. Given a textual description of the narrative setting, we demonstrate how ChatGPT can be used to generate Python code for characters' businesses, occupations, and traits. We discuss challenges with development and future work. ",
+        "authors": "Shi Johnson-Bey, Michael Mateas, Noah Wardrip-Fruin",
+        "bibtex": "@inproceedings{johnson-bey2023theme,\n title={Toward Using ChatGPT to Generate Theme-Relevant Simulated Storyworlds},\nauthor={Shi Johnson-Bey, Michael Mateas, Noah Wardrip-Fruin},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Toward Using ChatGPT to Generate Theme-Relevant Simulated Storyworlds.pdf",
+        "old_url": "",
+        "title": "Toward Using ChatGPT to Generate Theme-Relevant Simulated Storyworlds",
+        "year": "2023"
+    },
+    {
+        "abstract": "Fictional languages are an aspect present in many hand-authored narratives, but underexplored in procedurally generated narratives. This paper presents an initial exploration of procedurally generated constructed languages (conlangs), following principles of language construction that relate phonology, morphology, and syntax. We present this generator as a tool for game developers. Our approach allows procedurally generated worlds and narratives to draw upon a generative space of languages that follow plausible linguistic principles.",
+        "authors": "Aaron Cai, Chris Martens",
+        "bibtex": "@inproceedings{cai2023constructed,\n title={Towards Procedural Generation of Constructed Languages for Games},\nauthor={Aaron Cai, Chris Martens},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Towards Procedural Generation of Constructed Languages for Games.pdf",
+        "old_url": "",
+        "title": "Towards Procedural Generation of Constructed Languages for Games",
+        "year": "2023"
+    },
+    {
+        "abstract": "In recent years, video game streaming has enjoyed ever-growing popularity. While streaming game play, a streamer is also expected to provide commentary on gameplay and otherwise entertain the audience. The mental burden for providing such commentary while also playing the game may provide a barrier of entry for new streamers. In this paper, we present an approach to automatically generate streaming commentary during game play for the game League of Legends. Our system recognizes key events, and uses generative AI services to generate voice output. We also present a preliminary evaluation of our system, both in quantitative terms of event recognition accuracy, as well as qualitatively by discussing the generated commentary.",
+        "authors": "Noah Renella, Markus Eger",
+        "bibtex": "@inproceedings{renella2023commentary\n title={Towards Automated Video Game Commentary Using Generative AI},\nauthor={Noah Renella, Markus Eger},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Towards Automated Video Game Commentary Using Generative AI.pdf",
+        "old_url": "",
+        "title": "Towards Automated Video Game Commentary Using Generative AI",
+        "year": "2023"
+    },
+    {
+        "abstract": "Text-adventure games and text role-playing games are grand challenges for reinforcement learning game playing agents.Text role-playing games are open-ended environments where an agent must faithfully play a particular character. We consider the distinction between characters and actors, where an actor agent has the ability to play multiple characters. We present a framework we call a thespian agent that can learn to emulate multiple characters along with a soft prompt that can be used to direct it as to which character to play at any time. We further describe an attention mechanism that allows the agent to learn new characters that are based on previously learned characters in a few-shot fashion. We show that our agent outperforms the state of the art agent framework in multi-character learning and few-shot learning. ",
+        "authors": "Christopher Cui, Xiangyu Peng, Mark Riedl",
+        "bibtex": "@inproceedings{cui2023thespian\n title={Thespian: Multi-Character Text Role-Playing Game Agents},\nauthor={Christopher Cui, Xiangyu Peng, Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Thespian Multi-Character Text Role-Playing Game Agents.pdf",
+        "old_url": "",
+        "title": "Thespian: Multi-Character Text Role-Playing Game Agents",
+        "year": "2023"
+    },
+    {
+        "abstract": "Moirai is a system that governs a social simulation experience from initialization, through the simulation, to its end. Previous social simulation experiences have usually utilized bespoke glue code that chains together the different aspects of running a social simulation, utilizing simulation either before play, during play, or after play. Moirai is capable of chaining together different initialization passes and simulation modules to enable a range of experiences that have not been shown before. This paper presents the syntax and semantics of the Moirai Domain Specific Language, and demonstrates how it can be used to create a variety of complex simulation-driven narratives inspired by case-studies from previously existing media.",
+        "authors": "Ben Samuel, Adam Summerville",
+        "bibtex": "@inproceedings{samuel2023morai\n title={Moirai: Enabling Complex Narrative Structure in Simulation-Driven Stories},\nauthor={Ben Samuel, Adam Summerville},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Moirai: Enabling Complex Narrative Structure in Simulation-Driven Stories.pdf",
+        "old_url": "",
+        "title": "Moirai Enabling Complex Narrative Structure in Simulation-Driven Stories",
+        "year": "2023"
+    },
+    {
+        "abstract": "In this paper, we present Little Learning Machines, a groundbreaking game that enables players to take on the role of a reinforcement learning (RL) trainer. Utilizing reward and environment modeling, players train miniature robots to perform tasks, creating an open-ended space for exploring and crafting behavior. Notably, the game introduces innovative methods for executing RL in near real-time, a significant stride in the field. We delve into the technical challenges and solutions encountered in implementing a robust and dynamic simulation for this RL platform. Early player feedback attests to the game’s compelling blend of education and entertainment, pointing to potential avenues for enhancements and expansions to further enrich the player experience. This pioneering game not only demystifies RL but also serves as a versatile tool for learning, research, and creativity in the realm of artificial intelligence.",
+        "authors": "Dante Camarena, Nick Counter, Daniil Markelov, Pietro Gagliano, Don Nguyen,Rhys Becker, Fiona Firby, Zina Rahman, Richard Rosenbaum, Liam A. Clarke and Maria Skibinski",
+        "bibtex": "@inproceedings{camarena2023casual\n title={Little Learning Machines Real-Time Deep Reinforcement Learning as a Casual Creativity Game},\nauthor={Dante Camarena, Nick Counter, Daniil Markelov, Pietro Gagliano, Don Nguyen,Rhys Becker, Fiona Firby, Zina Rahman, Richard Rosenbaum, Liam A. Clarke and Maria Skibinski},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Little Learning Machines Real-Time Deep Reinforcement Learning as a Casual Creativity Game.pdf",
+        "old_url": "",
+        "title": "Little Learning Machines Real-Time Deep Reinforcement Learning as a Casual Creativity Game",
+        "year": "2023"
+    },
+    {
+        "abstract": "Graphs are a common format for procedurally generated content in games. However, many graph-based approaches require grammars to be manually authored or additional processing to add spatial layout information. In this work, we extend an existing system for constrained graph generation that learns from examples. The main extension is adding graph layout information directly into the graph learning and generation constraint problem by incorporating transforms. We demonstrate the approach in several level generation applications and potential use as a tool in citizen science games. ",
+        "authors": "Seth Cooper, Eden Balema",
+        "bibtex": "@inproceedings{cooper2023graph\n title={Learning Constrained Graph Layout for Content Generation},\nauthor={Seth Cooper, Eden Balema},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Learning Constrained Graph Layout for Content Generation.pdf",
+        "old_url": "",
+        "title": "Learning Constrained Graph Layout for Content Generation",
+        "year": "2023"
+    },
+    {
+        "abstract": "Player goals in games are often framed in terms of achieving something in the game world, but this framing can fail to capture goals centered on the player's own mental model, such as seeking the answers to questions about the game world. We use a least-commitment model of interactive narrative to characterize these knowledge goals and the problem of knowledge goal recognition. As a first attempt to solve the knowledge goal recognition problem, we adapt a classical goal recognition paradigm, but in our empirical evaluation the approach suffers from a high rate of incorrectly rejecting a synthetic player's true goals; we discuss how handling of player goals could be made more robust in practice.",
+        "authors": "Cory Siler, Stephen G. Ware",
+        "bibtex": "@inproceedings{siler2023goal\n title={Knowledge Goal Recognition for Interactive Narratives},\nauthor={Cory Siler, Stephen G. Ware},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Knowledge Goal Recognition for Interactive Narratives.pdf",
+        "old_url": "",
+        "title": "Knowledge Goal Recognition for Interactive Narratives",
+        "year": "2023"
+    },
+    {
+        "abstract": "In this paper, we introduce our system HarmonyMapper, a system for generating diverse musical sequences. By combining the MAP Elites algorithm with insights from music theory, specifically Neo-Riemannian Theory, HarmonyMapper is able to generate sets of chord sequences with a high-level diversity in terms of the emotions they are expected to elicit. Our intention is that this system will form the basis for a mixed-initiative musical composition tool focused on generating diverse music for digital games. While HarmonyMapper is limited in the musical complexity it can produce, our pilot experiments showed that it is capable of generating large numbers of varied sequences with no input data and only limited set up and computational resources required.",
+        "authors": "Sara Cardinale, Oliver Withington",
+        "bibtex": "@inproceedings{cardinale2023harmonymapper\n title={HarmonyMapper: Generating Emotionally Diverse Chord Progressions for Games},\nauthor={Sara Cardinale, Oliver Withington},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/HarmonyMapper Generating Emotionally Diverse Chord Progressions for Games.pdf",
+        "old_url": "",
+        "title": "HarmonyMapper: Generating Emotionally Diverse Chord Progressions for Games",
+        "year": "2023"
+    },
+    {
+        "abstract": "With growing interest in Procedural Content Generation (PCG) it becomes increasingly important to develop methods and tools for evaluating and comparing alternative systems. There is a particular lack regarding the evaluation of generative pipelines, where a set of generative systems work in series to make iterative changes to an artifact. We introduce a novel method called Generative Shift for evaluating the impact of individual stages in a PCG pipeline by quantifying the impact that a generative process has when it is applied to a pre-existing artifact. We explore this technique by applying it to a very rich dataset of Minecraft game maps produced by a set of alternative settlement generators developed as part of the Generative Design in Minecraft Competition (GDMC), all of which are designed to produce appropriate settlements for a pre-existing map. While this is an early exploration of this technique we find it to be a promising lens to apply to PCG evaluation, and we are optimistic about the potential of Generative Shift to be a domain-agnostic method for evaluating generative pipelines.",
+        "authors": "Jean-Baptiste Hervé, Oliver Withington, Marion Hervé, Laurissa Tokarchuk and Christoph Salge",
+        "bibtex": "@inproceedings{herve2023shift\n title={Exploring Minecraft Settlement Generators with Generative Shift Analysis},\nauthor={Jean-Baptiste Hervé, Oliver Withington, Marion Hervé, Laurissa Tokarchuk and Christoph Salge},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Exploring Minecraft Settlement Generators with Generative Shift Analysis.pdf",
+        "old_url": "",
+        "title": "Exploring Minecraft Settlement Generators with Generative Shift Analysis",
+        "year": "2023"
+    },
+    {
+        "abstract": "Declarative programming offers several advantages in terms of compactness and modularity. Logic programming and rule-based systems are often chosen for tasks such as social simulation because their use of declarative rules and predicates map well to rules of social engagement. Unfortunately, declarative programming is often quite slow, making it inappropriate for large systems or high-frequency updates. This is partly because of its use of search algorithms, but also because of its heavy use of pointer chasing, dynamic allocation, garbage collection, and runtime type-checking. In this paper, we discuss how bottom-up execution of logic programs can be implemented without these issues. We argue that character simulation is a “sweet spot” for bottom-up logic programming, allowing character behavior to be specified in terms of declarative rules, while offering performance competitive with Python systems such as Talk of the Town. We present a language, TED, which offers very good performance and has been used both in research and in an unannounced commercial game. ",
+        "authors": "Ian Horswill, Samuel Hill",
+        "bibtex": "@inproceedings{\n title={Fast, Declarative, Character Simulation Using Bottom-Up Logic Programming},\nauthor={Ian Horswill, Samuel Hill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Fast, Declarative, Character Simulation Using Bottom-Up Logic Programming.pdf",
+        "old_url": "",
+        "title": "Fast, Declarative, Character Simulation Using Bottom-Up Logic Programming",
+        "year": "2023"
+    },
+    {
+        "abstract": "This paper describes an in-progress research study that examines the perceptions and usability of generative AI (GAI) in MassDigi’s Summer Innovation Program— a professional development program where teams of interns create mobile games in the Unity game engine over an 11-week period. GAI applications are being deployed across industries worldwide, but the impacts of using this technology in particular fields are relatively unexplored. The goal of this research study is to identify the potential harms and benefits of GAI in the games industry, with particular focus on how it impacts the creative processes.",
+        "authors": "Josiah Boucher, Gillian Smith, Yunus Telliel",
+        "bibtex": "@inproceedings{boucher2023genai\n title={Examining Early Professionals' Use of Generative AI in the Game Development Process},\nauthor={Josiah Boucher, Gillian Smith, Yunus Telliel},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Examining Early Professionals' Use of Generative AI in the Game Development Process.pdf",
+        "old_url": "",
+        "title": "Examining Early Professionals' Use of Generative AI in the Game Development Process",
+        "year": "2023"
+    },
+    {
+        "abstract": "Monte Carlo Tree Search is a widely acknowledged algorithm with video games being a common application. While MCTS has seen various enhancements, its integration with temporal difference learning (TD learning) in complex search environments still has interesting research potential. This paper introduces a novel method, Conv-AE+FA, merging convolutional autoencoders with a linear function approximator to optimize game states. Applied to a game setting inspired by the commercial game XCOM, our study not only delves into the use of TD learning for guiding MCTS but also underscores the improved guidance in the MCTS search achieved by the use of convolutional autoencoders with linear approximation.",
+        "authors": "Yiwei Zhang, Richard Zhao",
+        "bibtex": "@inproceedings{zhang2023mcts\n title={Enhancing MCTS with Convolutional Autoencoder and Linear Approximator in XCOM-Inspired Environments},\nauthor={Yiwei Zhang, Richard Zhao},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Enhancing MCTS with Convolutional Autoencoder and Linear Approximator in XCOM-Inspired Environments.pdf",
+        "old_url": "",
+        "title": "Enhancing MCTS with Convolutional Autoencoder and Linear Approximator in XCOM-Inspired Environments",
+        "year": "2023"
+    },
+    {
+        "abstract": "One major challenge in reinforcement learning (RL) is the large amount of steps for the RL agent needs to converge in the training process and learn the optimal policy, especially in text-based game environments where the action space is extensive. However, non-player characters (NPCs) sometimes hold some key information about the game, which can potentially help to train RL agents faster. Thus, this paper explores how to interact and converse with NPC agents to get the key information using large language models (LLMs), as well as incorporate this information to speed up RL agent's training using knowledge graphs (KGs) and Story Shaping.",
+        "authors": "Wei Zhou, Xiangyu Peng Mark Riedl",
+        "bibtex": "@inproceedings{zhou2023dialogue\n title={Dialogue Shaping Empowering Agents through NPC Interaction},\nauthor={Wei Zhou, Xiangyu Peng Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/Dialogue Shaping Empowering Agents through NPC Interaction.pdf",
+        "old_url": "",
+        "title": "Dialogue Shaping Empowering Agents through NPC Interaction",
+        "year": "2023"
+    },
+    {
+        "abstract": "Social simulations often need many of the same things – characters, locations, interactions, and relationships to name a few. These regular components of simulators are present in games ranging from major titles like The Sims, indie classics like Dwarf Fortress, and experimental interactive experiences such as Bad News (or at least in the simulator Bad News is build off – Talk of the Town). Not only do these components need reimplementation in each sim, but they are also often difficult for anyone but original developers to modify. In this paper we discuss how social simulators can be declaratively authored from an ontology-based representation while still maintaining playable framerates. We argue that an ontology for these entities allows for the expressive and flexible creation of social simulations. We present a language and ontology, Socialog, which enables one to declaratively author a simulation with these ontological statements while maintaining very good performance.",
+        "authors": "Samuel Hill, Ian Horswill",
+        "bibtex": "@inproceedings{hill2023ontology\n title={An Executable Ontology for Social Simulation},\nauthor={Samuel Hill, Ian Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
+        "link": "",
+        "local_file": "papers/An Executable Ontology for Social Simulation.pdf",
+        "old_url": "",
+        "title": "An Executable Ontology for Social Simulation",
+        "year": "2023"
     }
 ]
