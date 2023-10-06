@@ -1398,5 +1398,165 @@
         "old_url": "",
         "title": "An Executable Ontology for Social Simulation",
         "year": "2023"
+    },
+    {
+        "abstract": "As interest in procedural content generation (PCG) for games has increased both commercially and among researchers, so has the need for methodologies for understanding the generative spaces of PCG systems. In this paper we introduce and evaluate a novel approach for visualising the generative spaces of systems for generating game levels, using embeddings extracted from a trained convolutional neural network. We evaluate the approach in terms of its ability to produce 2D visualisations that correlate with the behavioural characteristics of the levels. The results across two alternative game domains, Super Mario and Boxoban, indicate that this approach is powerful in certain settings and worthy of further investigation. However the implementation used in this work was also inconsistent in comparison to the benchmarks, as well as being prone to intermittent failure. We conclude that this method is worthy of further evaluation, but that future implementations of it require significant refinement.",
+        "authors": "Oliver Withington, Laurissa Tokarchuk",
+        "bibtex": "@inproceedings{withington2022visulaising\n title={Visualising Generative Spaces Using Convolutional Neural Network Embeddings},\nauthor={Oliver Withington, Laurissa Tokarchuk},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Visualising Generative Spaces Using Convolutional Neural Network Embeddings.pdf",
+        "old_url": "",
+        "title": "Visualising Generative Spaces Using Convolutional Neural Network Embeddings",
+        "year": "2022"
+    },
+    {
+        "abstract": "Machine learning has had a great deal of success in image processing. However, the focus of this work has largely been on realistic images, ignoring more niche art styles such as pixel art. Additionally, many traditional machine learning models that focus on groups of pixels do not work well with pixel art, where individual pixels are important. We propose the Pixel VQ-VAE, a specialized VQ-VAE model that learns representations of pixel art. We show that it outperforms other models in both the quality of embeddings as well as performance on downstream tasks.",
+        "authors": "Akash Saravanan, Matthew Guzdial",
+        "bibtex": "@inproceedings{saravanan2022pixel\n title={Pixel VQ-VAEs for Improved Pixel Art Representation},\nauthor={Akash Saravanan, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Pixel VQ-VAEs for Improved Pixel Art Representation.pdf",
+        "old_url": "",
+        "title": "Pixel VQ-VAEs for Improved Pixel Art Representation",
+        "year": "2022"
+    },
+    {
+        "abstract": "Music and other sound cues are used to support, enhance and change the experience of playing every type of digital game. In this paper we explore the sonification of game states, the direct translation of game events or situations into music. We present three strategies for allowing AI to convey information to the player using sonification, creating a pleasing soundtrack while also affecting the play experience. We extend this to automated game design and suggest that sonification could be embedded into automated game designers to directly influence the design process",
+        "authors": "Sara Cardinale, Michael Cook, Simon Colton",
+        "bibtex": "@inproceedings{cardinale2022sonic \n title={AI-Driven Sonification of Automatically Designed Games},\nauthor={Sara Cardinale, Michael Cook, Simon Colton},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/AI-Driven Sonification of Automatically Designed Games.pdf",
+        "old_url": "",
+        "title": "AI-Driven Sonification of Automatically Designed Games",
+        "year": "2022"
+    },
+    {
+        "abstract": "This paper presents an automated methodology for analyzing specific properties of open-endedness in video games. We focus specifically on the phenomenon of door-opening states that expand a possibility space once they are encountered. Our analysis examines door-opening states both in terms of the physical properties of game levels and the cognitive abilities that a player must learn in order to progress through the game. Finally, we demonstrate our methodology on the NES homebrew game Blobquest. ",
+        "authors": "L.B. Soros, Nicholas Guttenberg",
+        "bibtex": "@inproceedings{soros2022topological \n title={Topological Analysis of Open-Endedness in Video Games},\nauthor={L.B. Soros, Nicholas Guttenberg},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Topological Analysis of Open-Endedness in Video Games.pdf",
+        "old_url": "",
+        "title": "Topological Analysis of Open-Endedness in Video Games",
+        "year": "2022"
+    },
+    {
+        "abstract": "Many games feature a progression of levels that does not change or adapt to the player. This is problematic because some players may get stuck if the progression is too difficult and others may find it boring if it is too slow to get to more challenging levels. One way to address this is to build levels based on the player's performance. In this work, we formulate the problem of generating levels for a player as a Markov Decision Process (MDP) and use adaptive dynamic programming (ADP) to solve the MDP before assembling a level. We tested with two case studies and find that using an ADP outperforms two baselines. Furthermore, we tested with player proxies and switched them in the middle of play, and we show that a simple modification prior to running an ADP results in quick adaptation. By using an ADP, which searches the entire MDP, we produce a dynamic progression of levels that adapts to the player.",
+        "authors": "Colan F. Biemer, Seth Cooper",
+        "bibtex": "@inproceedings{biemer2022markov \n title={Level Assembly as a Markov Decision Process},\nauthor={Colan F. Biemer, Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Level Assembly as a Markov Decision Process.pdf",
+        "old_url": "",
+        "title": "Level Assembly as a Markov Decision Process",
+        "year": "2022"
+    },
+    {
+        "abstract": "Modern AAA video games feature huge game levels and maps which are increasingly hard for level testers to cover exhaustively. As a result, games often ship with catastrophic bugs such as the player falling through the floor or being stuck in walls. We propose an approach specifically targeted at reachability bugs in simulated 3D environments based on the powerful exploration algorithm, Go-Explore, which saves unique checkpoints across the map and then identifies promising ones to explore from. We show that when coupled with simple heuristics derived from the game's navigation mesh, Go-Explore finds challenging bugs and comprehensively explores complex environments without the need for human demonstration or knowledge of the game dynamics. Go-Explore vastly outperforms more complicated baselines including reinforcement learning with intrinsic curiosity in both covering the navigation mesh and number of unique positions across the map discovered. Finally, due to our use of parallel agents, our algorithm can fully cover a vast 1.5km x 1.5km game world within 10 hours on a single machine making it extremely promising for continuous testing suites.",
+        "authors": "Cong Lu, Raluca Georgescu and John Verwey",
+        "bibtex": "@inproceedings{lu2022explore\n title={Go-Explore Complex 3D Game Environments for Automated Reachability Testing},\nauthor={Cong Lu, Raluca Georgescu and John Verwey},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Go-Explore Complex 3D Game Environments for Automated Reachability Testing.pdf",
+        "old_url": "",
+        "title": "Go-Explore Complex 3D Game Environments for Automated Reachability Testing",
+        "year": "2022"
+    },
+    {
+        "abstract": "In recent years, Monte Carlo tree search (MCTS) has achieved widespread adoption within the game community. Its use in conjunction with deep reinforcement learning has produced success stories in many applications. While these approaches have been implemented in various games, from simple board games to more complicated video games such as StarCraft, the use of deep neural networks requires a substantial training period. In this work, we explore on-line adaptivity in MCTS without requiring pre-training. We present MCTS-TD, an adaptive MCTS algorithm improved with temporal difference learning. We demonstrate our new approach on the game miniXCOM, a simplified version of XCOM, a popular commercial franchise consisting of several turn-based tactical games, and show how adaptivity in MCTS-TD allows for improved performances against opponents.",
+        "authors": "Kimiya Saadat, Richard Zhao",
+        "bibtex": "@inproceedings{saadat2022td\n title={Exploring Adaptive MCTS with TD Learning in miniXCOM},\nauthor={Kimiya Saadat, Richard Zhao},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Exploring Adaptive MCTS with TD Learning in miniXCOM.pdf",
+        "old_url": "",
+        "title": "Exploring Adaptive MCTS with TD Learning in miniXCOM",
+        "year": "2022"
+    },
+    {
+        "abstract": "There has been significant research interest in general Procedural Level Generation via Machine Learning (PLGML), applying ML techniques to automated level generation. One recent trend is in the direction of learning representations for level design via embeddings, such as tile embeddings. Tile Embeddings are a continuous vector representation of levels unifying its visual, contextual and behavioral information. However, the original tile embedding struggled to generate levels with skewed tile distributions. For instance, Super Mario Bros. (SMB) wherein a majority of tiles represent the sky or background. To remedy this, we propose a new tile embedding representation and a novel, two-step level generation to leverage this representation. We evaluate the performance of our approach in generating levels for seen and unseen games with skewed tile distributions and compare our performance against the original tile embedding-based generator.",
+        "authors": "Mrunal Jadhav, Matthew Guzdial",
+        "bibtex": "@inproceedings{jadhav2022tile\n title={Clustering-based Tile Embedding: A General Representation for Level Design with Skewed Tile Distributions},\nauthor={Mrunal Jadhav, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Clustering-based Tile Embedding A General Representation for Level Design with Skewed Tile Distributions.pdf",
+        "old_url": "",
+        "title": "Clustering-based Tile Embedding A General Representation for Level Design with Skewed Tile Distributions",
+        "year": "2022"
+    },
+    {
+        "abstract": "In this work, we explore various approaches to blending multiple games, by building on the Sturgeon constraint-based 2D tile level generation system. We introduce a game grid, which, when used as an input to the generator, allows elements such as tiles, tile patterns, and reachability rules to be specified on a per-location basis. We demonstrate how the system can: use the layout of one game's levels for another game's tile patterns; generate levels with one game's tile patterns that use another game's reachability rules; and generate levels that combine tiles, tile patterns, and reachability rules from multiple games. ",
+        "authors": "Seth Cooper",
+        "bibtex": "@inproceedings{cooper2022sturg\n title={Constraint-Based 2D Tile Game Blending in the Sturgeon System},\nauthor={Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Constraint-Based 2D Tile Game Blending in the Sturgeon System.pdf",
+        "old_url": "",
+        "title": "Constraint-Based 2D Tile Game Blending in the Sturgeon System",
+        "year": "2022"
+    },
+    {
+        "abstract": "Retcon is an experimental interactive narrative engine that allows writers to author stories in which some aspects of the overall story, such as the tone, genre, and character relationships, can be chosen incrementally by the player. Stories are authored as a set of fragments (aka storylets) tagged with their story world assumptions. The system tracks the active assumptions and removes from consideration any fragments that contradict the established story world. This allows the player some degree of co-authorship, and allows her to explore the possibility space of different stories afforded by story worlds.",
+        "authors": "Ian Horswill",
+        "bibtex": "@inproceedings{horswill2022retcon\n title={Retcon: A Least-Commitment Story-World System},\nauthor={Ian Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Retcon A Least-Commitment Story-World System.pdf",
+        "old_url": "",
+        "title": "Retcon: A Least-Commitment Story-World System",
+        "year": "2022"
+    },
+    {
+        "abstract": "Player modelling is the field of study associated with understanding players. One pursuit in this field is affect prediction: the ability to predict how a game will make a player feel. We present novel improvements to affect prediction by using a deep convolutional neural network (CNN) to predict player experience trained on raw game event logs in tandem with localized level structure information. We test our approach on levels based on \textit{Super Mario Bros.} (\textit{Infinite Mario Bros.}) and \textit{Super Mario Bros.: The Lost Levels} (\textit{Gwario}), as well as original \textit{Super Mario Bros.} levels without retraining. We outperform prior work, and demonstrate the importance of training on player logs, even when lacking them at test time.",
+        "authors": "Natalie Bombardieri, Matthew Guzdial",
+        "bibtex": "@inproceedings{bombardieri2022deep\n title={Improving Deep Localized Level Analysis: How Game Logs Can Help},\nauthor={Natalie Bombardieri, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Improving Deep Localized Level Analysis: How Game Logs Can Help.pdf",
+        "old_url": "",
+        "title": "Improving Deep Localized Level Analysis: How Game Logs Can Help",
+        "year": "2022"
+    },
+    {
+        "abstract": "Applying existing or new AI techniques to games often involves either utilizing or creating an open-source implementation of the game to access its internals, or using the graphical output as an AI agent's input. In this paper, we explore reverse-engineering as a third approach. We describe how an open-source emulator for arcade games can be extended to instrument games available only as binaries, and made available for use in AI research. While still requiring some effort for each game, we aim to provide a consistent interface across multiple games that can then be used by AI agents. We show preliminary results of applying this method to three games from different eras and released for different consoles, that are all supported by the underlying emulator.",
+        "authors": "William R. Armstrong, Markus Eger",
+        "bibtex": "@inproceedings{armstrong2022bizmc\n title={BizMC: A Lua Framework for running Monte Carlo Tree Search in the BizHawk emulator},\nauthor={William R. Armstrong, Markus Eger},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/BizMC A Lua Framework for running Monte Carlo Tree Search in the BizHawk emulator.pdf",
+        "old_url": "",
+        "title": "BizMC: A Lua Framework for running Monte Carlo Tree Search in the BizHawk emulator",
+        "year": "2022"
+    },
+    {
+        "abstract": "In fighting games, individual players of the same skill level often exhibit distinct strategies from one another through their gameplay. Despite this, the majority of AI agents for fighting games have only a single strategy for each ``level'' of difficulty. To make AI opponents more human-like, we'd ideally like to see multiple different strategies at each level of difficulty, a concept we refer to as ``multidimensional'' difficulty. In this paper, we introduce a diversity-based deep reinforcement learning approach for generating a set of agents of similar difficulty that utilize diverse strategies. We find this approach outperforms a human-authored baseline in both diversity and performance. ",
+        "authors": "Emily Halina, Matthew Guzdial",
+        "bibtex": "@inproceedings{halina2022diversity\n title={Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI},\nauthor={Emily Halina, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI.pdf",
+        "old_url": "",
+        "title": "Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI",
+        "year": "2022"
+    },
+    {
+        "abstract": "Failure and resilience are important aspects of gameplay. This is especially important for serious games or competitive games, where players need to adapt and cope with failure frequently. In such situations, emotion regulation - the active process of modulating ones' emotions to cope and adapt to challenging situations - becomes essential. It is one of the prominent aspects of human intelligence and promotes mental health and well-being. While there has been work on developing artificial emotional regulation assistants to help users cope with emotion regulation in the field of Intelligent Tutoring systems, little is done to incorporate such systems or ideas into (serious) video games. In this paper, we introduce a data-driven 6-phase approach to establish empathetic artificial intelligence (EAI), which operates on raw chat log data to detect key affective states, identify common sequences and emotion regulation strategies and generalizes these to make them applicable for intervention systems.",
+        "authors": "Reza Habibi, Johannes Pfau, Jonattan Holmes, Magy Seif El-Nasr",
+        "bibtex": "@inproceedings{habibi2022empathetic\n title={Empathetic AI for Empowering Resilience in Games},\nauthor={Reza Habibi, Johannes Pfau, Jonattan Holmes, Magy Seif El-Nasr},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Empathetic AI for Empowering Resilience in Games.pdf",
+        "old_url": "",
+        "title": "Empathetic AI for Empowering Resilience in Games",
+        "year": "2022"
+    },
+    {
+        "abstract": "Real-Time Strategy (RTS) game unit generation is a relatively unexplored area of Procedural Content Generation (PCG) research. This leaves the question of how to generate interesting and balanced units largely unanswered. Creating unique and balanced units can be a difficult task when designing an RTS game. Having an automated method of designing units could help developers speed up the creation process as well as find new ideas. In this work we propose a method of generating and testing new units to be introduced into an RTS game. Drawing on Search-Based PCG and a fitness function based on Monte Carlo Tree Search (MCTS), our approach is capable of generating a variety of units. We present ten units generated by our system designed to be used in the game microRTS, as well as test results demonstrating that these units are unique and balanced.",
+        "authors": "Kynan Sorochan, Matthew Guzdial",
+        "bibtex": "@inproceedings{sorochan2022rts \n title={Generating Real-Time Strategy Game Units Using Search-Based Procedural Content Generation and Monte Carlo Tree Search},\nauthor={Kynan Sorochan, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Generating Real-Time Strategy Game Units Using Search-Based Procedural Content Generation and Monte Carlo Tree Search.pdf",
+        "old_url": "",
+        "title": "Generating Real-Time Strategy Game Units Using Search-Based Procedural Content Generation and Monte Carlo Tree Search",
+        "year": "2022"
+    },
+    {
+        "abstract": "We propose to use ontologies and declarative symbolic reasoning to generate emergent behaviours of Non-Player Characters (NPCs). The objective is that the game designer only needs to specify the rules of the game and its components in a declarative way, as he would naturally do in a traditional board game. The logic reasoner will then deduce the NPC behaviours that comply with the game designer's rules without the game designer having to manually specify all the game possibilities by hand. We illustrate this approach on a prototype of the revisited Wumpus World game made on the Unity game engine with a Prolog environment. This approach is combined with the Well-Founded Semantics (WFS) to solve the problem of representation and reasoning despite the lack of NPC knowledge.",
+        "authors": "Sylvain Lapeyrade",
+        "bibtex": "@inproceedings{lapeyarde2022demo\n title={Demo: Generate Emergent NPC Behaviours With Symbolic Reasoning},\nauthor={Sylvain Lapeyrade},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
+        "link": "",
+        "local_file": "papers/Demo Generate Emergent NPC Behaviours With Symbolic Reasoning.pdf",
+        "old_url": "",
+        "title": "Demo: Generate Emergent NPC Behaviours With Symbolic Reasoning",
+        "year": "2022"
     }
 ]
