@@ -27,16 +27,21 @@ interface PaperDatabaseEntryState {}
 const PaperDatabaseEntry: React.FC<PaperDatabaseEntryProps> = (props) => {
     const [showMore, setShowMore] = useState(false);
 
+  var paper_link = props.entryInfo.link; 
+  if (paper_link == ""){
+	paper_link = props.entryInfo.local_file;
+  }
+
     return (
         <div className={`paper-db-entry mb-3 rounded border p-3`}>
             <h3>{props.entryInfo.title}</h3>
             <div
                 className={`fs-4 mb-3`}
             >{`${props.entryInfo.authors} (${props.entryInfo.year})`}</div>
-            <a href={props.entryInfo.link}>
+
+            <a href={paper_link}>
                 <Button className={`mb-3`}>Download PDF</Button>
             </a>
-
             <div>
                 <Button
                     variant="secondary"
@@ -68,6 +73,7 @@ const PaperDatabaseEntry: React.FC<PaperDatabaseEntryProps> = (props) => {
 };
 
 const PAPER_YEARS = [
+    '2023',
     '2022',
     '2021',
     '2020',
