@@ -18,7 +18,7 @@ const SchedulePage = () => {
                 <table className="program-schedule">
                     <tbody>
                         <tr>
-                            <td className="schedule-time">9:00-9:30 AM</td>
+                            <td className="schedule-time">9:00 - 9:30 AM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Opening remarks
@@ -26,7 +26,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">9:30-10:30 AM</td>
+                            <td className="schedule-time">9:30 - 10:30 AM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Full Paper Session #1
@@ -66,7 +66,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">10:30-11:00 AM</td>
+                            <td className="schedule-time">10:30 - 11:00 AM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Coffee Break
@@ -74,7 +74,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">11:00-11:40 PM</td>
+                            <td className="schedule-time">11:00 - 11:40 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Full Paper Session #2
@@ -102,7 +102,7 @@ const SchedulePage = () => {
                         </tr>
 
                         <tr>
-                            <td className="schedule-time">11:40-12:00 PM</td>
+                            <td className="schedule-time">11:40 - 12:00 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Short Paper Session #1
@@ -129,7 +129,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">12:00-1:30 PM</td>
+                            <td className="schedule-time">12:00 - 1:30 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Lunch <small>(Attendees on own)</small>
@@ -137,7 +137,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">1:30-2:10 PM</td>
+                            <td className="schedule-time">1:30 - 2:10 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Full Paper Session #3
@@ -164,7 +164,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">2:10-2:20 PM</td>
+                            <td className="schedule-time">2:10 - 2:20 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Short Paper Session #2
@@ -181,7 +181,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">2:20-2:25 PM</td>
+                            <td className="schedule-time">2:20 - 2:25 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Lightning Talk Session
@@ -198,7 +198,7 @@ const SchedulePage = () => {
                         </tr>
 
                         <tr>
-                            <td className="schedule-time">2:25-3:00 PM</td>
+                            <td className="schedule-time">2:25 - 3:00 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Coffee Break
@@ -206,7 +206,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">3:00-3:20 PM</td>
+                            <td className="schedule-time">3:00 - 3:20 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Full Paper Session #4
@@ -229,7 +229,7 @@ const SchedulePage = () => {
                         </tr>
 
                         <tr>
-                            <td className="schedule-time">3:20-3:40 PM</td>
+                            <td className="schedule-time">3:20 - 3:40 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Short Paper Session #3
@@ -259,7 +259,7 @@ const SchedulePage = () => {
                         </tr>
 
                         <tr>
-                            <td className="schedule-time">3:40-4:00 PM</td>
+                            <td className="schedule-time">3:40 - 4:00 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Coffee Break
@@ -267,7 +267,7 @@ const SchedulePage = () => {
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">4:00-4:40 PM</td>
+                            <td className="schedule-time">4:00 - 5:00 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Full Paper Session #5
@@ -290,10 +290,19 @@ const SchedulePage = () => {
                                         Samuel Hill, Ian Horswill
                                     </div>
                                 </div>
+                                <div className="presentation">
+                                    <div className="presentation-title">
+                                        Towards Procedural Generation of
+                                        Constructed Languages for Games
+                                    </div>
+                                    <div className="presentation-speaker">
+                                        Aaron Cai, Chris Martens
+                                    </div>
+                                </div>
                             </td>
                         </tr>
                         <tr>
-                            <td className="schedule-time">4:40-5:00 AM</td>
+                            <td className="schedule-time">5:00 - 5:20 PM</td>
                             <td>
                                 <div className="schedule-section-title">
                                     Closing remarks
