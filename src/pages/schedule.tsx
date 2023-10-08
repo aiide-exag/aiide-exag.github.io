@@ -12,7 +12,7 @@ const SchedulePage = () => {
 
                 <div className="alert alert-info mb-5" role="alert">
                     ⏰ All presentation times are provided in Mountain Daylight
-                    Time (GDT) (UCT-6).
+                    Time (MDT) (UCT-6).
                 </div>
 
                 <table className="program-schedule">
