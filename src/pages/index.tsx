@@ -6,7 +6,7 @@ import Seo from '../components/Seo';
 const IndexPage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2023: Experimental AI in Games" />
+            <Seo title="EXAG 2024: Experimental AI in Games" />
             <Container className="py-5">
                 <div>
                     <h2>What is EXAG?</h2>
