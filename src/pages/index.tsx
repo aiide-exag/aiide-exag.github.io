@@ -37,6 +37,13 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
+                        <h3>2024 dates coming soon</h3>
+                        <p>
+                            Dates for workshop will be released soon. When it is released,
+                            we will update and post the new dates.
+                        </p>
+                    </div>
+                    <div className="announcement">
                         <h3>2023 & 2022 proceedings coming soon</h3>
                         <p>
                             The published proceedings for the 2023 and 2022
