@@ -19,7 +19,7 @@ const IndexPage = () => {
                         AI in games.
                     </p>
                     <p>
-                        EXAG will be taking place for its 10th year at the 2023
+                        EXAG will be taking place for its 11th year at the 2024
                         AIIDE AIIDE Conference. Beyond being just a workshop,
                         EXAG aims to foster a community where new ideas can be
                         proposed and developed within the space of the workshop
@@ -94,7 +94,7 @@ const IndexPage = () => {
                         If you would like to attend the Experimental AI in Games
                         workshop, please register for the{' '}
                         <a
-                            href="https://sites.google.com/view/aiide-2023/home"
+                            href="https://sites.google.com/gcloud.utah.edu/aiide-2024/home"
                             target="_blank"
                             rel="noopener"
                         >
