@@ -6,6 +6,14 @@ import { Table } from 'react-bootstrap';
 
 const pastWorkshopInfo = [
     {
+        year: 2023,
+        date: 'October 8th',
+        organizers:
+            'Abdelrahman Madkour, Lucas N. Ferreira, and Shi Johnson-Bey',
+        location: 'Salt Lake city, Utha, USA',
+        papers: 16,
+    },
+    {
         year: 2022,
         date: 'October 24-25',
         organizers:
