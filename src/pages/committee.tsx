@@ -33,7 +33,7 @@ const PROGRAM_COMMITTEE: { name: String; affiliation: String }[] = [
 const CommitteePage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2023: Committee" />
+            <Seo title="EXAG 2024: Committee" />
             <Container className="py-5">
                 <h1>Workshop Organizers</h1>
                 <ul>
