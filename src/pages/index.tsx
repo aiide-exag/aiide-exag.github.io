@@ -98,7 +98,7 @@ const IndexPage = () => {
                             target="_blank"
                             rel="noopener"
                         >
-                            AIIDE 2023 Conference
+                            AIIDE 2024 Conference
                         </a>
                         .
                     </p>
