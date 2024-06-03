@@ -12,7 +12,7 @@ const AppHeader = () => {
                         AIIDE Workshop on Experimental AI in Games
                     </div>
                     <div className="display-6" style={{ color: '#f2185d' }}>
-                        October 8th, 2023
+                        November 22th, 2024
                     </div>
                 </div>
 
