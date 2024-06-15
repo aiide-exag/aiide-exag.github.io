@@ -8,7 +8,7 @@ const SchedulePage = () => {
         <AppLayout>
             <Seo title="EXAG 2024: Schedule" />
             <Container className="py-5">
-                <h1>EXAG 2023 Program Schedule</h1>
+                <h1>EXAG 2024 Program Schedule</h1>
 
                 <div className="alert alert-info mb-5" role="alert">
                     ⏰ All presentation times are provided in Mountain Daylight

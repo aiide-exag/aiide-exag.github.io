@@ -17,7 +17,7 @@ const ORGANIZING_COMMITTEE = [
     {
         name: 'Mira Fisher',
         email: 'mira.fisher@uky.edu',
-        affiliation: 'University of Kentuchy',
+        affiliation: 'University of Kentucky',
     },
     
 ];

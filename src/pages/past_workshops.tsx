@@ -10,7 +10,7 @@ const pastWorkshopInfo = [
         date: 'October 8th',
         organizers:
             'Abdelrahman Madkour, Lucas N. Ferreira, and Shi Johnson-Bey',
-        location: 'Salt Lake city, Utha, USA',
+        location: ' Salt Lake City, Utah, USA',
         papers: 16,
     },
     {
@@ -24,7 +24,7 @@ const pastWorkshopInfo = [
     {
         year: 2021,
         date: 'October 11-12',
-        organizers: 'Mads Johansen Lassen, Quinn Kybartas, and M charity',
+        organizers: 'Mads Johansen Lassen, Quinn Kybartas, and M Charity',
         location: 'virtual',
         papers: 13,
     },
