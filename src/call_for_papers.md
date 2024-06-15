@@ -7,17 +7,17 @@ EXAG 2024 will be accepting papers to two different tracks:
 * **Short papers** -- Short papers (up to four (4) pages) describing a position, project, or proposal related to any topic of interest to the workshop. These papers will be incorporated into the proceedings and will be presented as 5-minute talks with 3 minutes of Q&A.
 
 Papers will be presented in groups based on their topics. The ordering of topics may depend on speaker availability,
-especially when accommodating remote presenters. Community Session will happen in the afternoon session and are designed to spark conversation prior to attendees dismissing for evening activities.
+especially when accommodating remote presenters.
 
 ## Submission Instructions
 
 ### Research Papers
 
-Full and short papers should be submitted [on EasyChair](https://easychair.org/my/conference?conf=aiide24). Please select the Experimental AI in Games track.
+Full and short papers should be submitted [on EasyChair](https://easychair.org/my/conference?conf=aiide24). Please select the Experimental AI in Games track (once available).
 
 #### What to Submit
 
-Papers describe AI research results that establish new entertainment AI challenges, make advances on existing problems, enable new forms of interactive digital entertainment, and/or use AI to improve the game design and development process.  Papers are held to the highest standards of academic rigor. In general:
+Papers describe AI research results that establish new challenges in entertainment AI, make advances on existing problems, enable new forms of interactive digital entertainment, and/or use AI to improve the game design and development process.  Papers are held to the highest standards of academic rigor. In general:
 
 * Results should be validated in a prototype or test-bed system (e.g., game, robot, generative algorithm), but need not be tested in a commercial environment.
 * The contribution of the paper should be clearly articulated, usually in the introduction.
@@ -41,13 +41,13 @@ Submissions will be peer reviewed. Abstracts and other submitted materials will 
 
 ## Important Dates
 
-Deadline for paper submissions: (UPDATED!) **August 30th, 2024**
+Deadline for paper submissions: **August 30th, 2024**
 
 Notification for accepted papers: **September 23th, 2024**
 
 Publication-ready submission due: **October 14th, 2024**
 
-Workshop date: **November 18/9th, 2024**
+Workshop date: (TBD) **November 18 or 19th, 2024**
 
 ## Topics
 
@@ -82,7 +82,7 @@ Not sure if your topic is a fit? Drop us a line!
 
 ### Community Session
 
-* -- A session for members of the community to share work-in-progress projects, calls to action, and interesting problems. (Topics will be collected in advance from registered participants and organized to fit into a 60-minutetime slot.)
+In prior years, a third informal track was available for the submission of extended abstracts as Lightning Talk proposals. For EXAG 2024, we are planning to fill a similar role with a community discussion session. As the Lightning Talks did in the past, this session will happen in the afternoon and start conversations that may continue after the conference has been dismissed in the evening.
 
-* In previous years, a third informal track was available for the submission of extended abstracts as Lightning Talk proposals. For EXAG 2024, we have shifted our aim to increased community discussion, and will contact prospective attendees for discussion topics from the exag20xx at gmail.com email nearer to the time of the conference.
+Prospective attendees will be contacted by email (from *exag20xx at gmail.com*) for input on discussion topics in the weeks before the conference. These discussion topics may be of personal importance to individuals in the community (e.g. works in progress that are not yet publication ready) or relevant to the community as a whole (e.g. calls to action or interesting problems). Topics will be organized to fit into a 60-minute time slot.
 
