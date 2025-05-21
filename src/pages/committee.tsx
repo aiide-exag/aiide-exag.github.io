@@ -5,9 +5,19 @@ import Seo from '../components/Seo';
 
 const ORGANIZING_COMMITTEE = [
     {
-        name: 'Emily Halina',
-        email: 'ehalina@ualberta.ca',
-        affiliation: 'University of Alberta',
+        name: 'Josiah Boucher',
+        email: 'jdboucher@wpi.edu',
+        affiliation: 'Worcester Polytechnic Institute',
+    },
+    {
+        name: 'Kaylah Facey',
+        email: 'facey.k@northeastern.edu',
+        affiliation: 'Northeastern University',
+    },
+    {
+        name: 'Fiona Shyne',
+        email: 'shyne.f@northeastern.edu',
+        affiliation: 'Northeastern University',
     },
     {
         name: 'Johor Jara Gonzalez',
@@ -15,9 +25,9 @@ const ORGANIZING_COMMITTEE = [
         affiliation: 'University of Alberta',
     },
     {
-        name: 'Mira Fisher',
-        email: 'mira.fisher@uky.edu',
-        affiliation: 'University of Kentucky',
+        name: 'Junwen Shen',
+        email: 'junwen5@ualberta.ca',
+        affiliation: 'University of Alberta',
     },
     
 ];

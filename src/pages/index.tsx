@@ -6,7 +6,7 @@ import Seo from '../components/Seo';
 const IndexPage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2024: Experimental AI in Games" />
+            <Seo title="EXAG 2025: Experimental AI in Games" />
             <Container className="py-5">
                 <div>
                     <h2>What is EXAG?</h2>
@@ -19,7 +19,7 @@ const IndexPage = () => {
                         AI in games.
                     </p>
                     <p>
-                        EXAG will be taking place for its 11th year at the 2024
+                        EXAG will be taking place for its 12th year at the 2025
                         AIIDE Conference. Beyond being just a workshop,
                         EXAG aims to foster a community where new ideas can be
                         proposed and developed within the space of the workshop
@@ -37,10 +37,9 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
-                        <h3>2024 dates coming soon</h3>
+                        <h3>2025 workshop dates!</h3>
                         <p>
-                            Dates for workshop will be released soon. When it is released,
-                            we will update and post the new dates.
+                            The workshop will be held on November 10th & 11th..
                         </p>
                     </div>
                     <h2 className="mb-2">Registration</h2>
@@ -52,7 +51,7 @@ const IndexPage = () => {
                             target="_blank"
                             rel="noopener"
                         >
-                            AIIDE 2024 Conference
+                            AIIDE 2025 Conference
                         </a>
                         .
                     </p>
