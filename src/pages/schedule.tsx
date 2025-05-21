@@ -6,7 +6,7 @@ import Seo from '../components/Seo';
 const SchedulePage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2024: Schedule" />
+            <Seo title="EXAG 2025: Schedule" />
             <Container className="py-5">
                 <h1>EXAG 2024 Program Schedule</h1>
 
@@ -18,8 +18,6 @@ const SchedulePage = () => {
                 <h2>📜 Accepted Full Papers</h2>
                 <h3>TBD</h3>
                 <h2>📄 Accepted Short Papers</h2>
-                <h3>TBD</h3>
-                <h2>⚡️ Accepted Lightning Talks</h2>
                 <h3>TBD</h3>
             </Container>
         </AppLayout>
