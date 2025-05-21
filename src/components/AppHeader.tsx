@@ -7,12 +7,12 @@ const AppHeader = () => {
         <>
             <Container className="mb-3">
                 <div className="mb-5">
-                    <h1 className="display-1">EXAG 2024</h1>
+                    <h1 className="display-1">EXAG 2025</h1>
                     <div className="display-5">
                         AIIDE Workshop on Experimental AI in Games
                     </div>
                     <div className="display-6" style={{ color: '#f2185d' }}>
-                        November 18th or 19th, 2024
+                        November 10th and 11th, 2025
                     </div>
                 </div>
 

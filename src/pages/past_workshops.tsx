@@ -6,6 +6,14 @@ import { Table } from 'react-bootstrap';
 
 const pastWorkshopInfo = [
     {
+        year: 2024,
+        date: 'November 19th',
+        organizers:
+            'Emily Halina, Johor Jara Gonzalez, Mira Fisher',
+        location: ' Lexington, Kentucky, USA',
+        papers: 11,
+    },
+    {
         year: 2023,
         date: 'October 8th',
         organizers:
