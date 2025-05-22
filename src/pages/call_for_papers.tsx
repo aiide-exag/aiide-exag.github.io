@@ -7,7 +7,7 @@ import cfp from "../call_for_papers.md";
 const CallForPapersPage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2024: Call for Papers" />
+            <Seo title="EXAG 2025: Call for Papers" />
             <Container className="py-5">
                 <section
                         dangerouslySetInnerHTML={{__html: cfp}}

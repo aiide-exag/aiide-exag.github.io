@@ -1,4 +1,3 @@
-import * as React from 'react';
 import { Container } from 'react-bootstrap';
 import AppLayout from '../components/AppLayout';
 import Seo from '../components/Seo';
@@ -39,7 +38,7 @@ const IndexPage = () => {
                     <div className="announcement">
                         <h3>2025 workshop dates!</h3>
                         <p>
-                            The workshop will be held on November 10th & 11th..
+                            The workshop will be held on November 10th & 11th.
                         </p>
                     </div>
                     <h2 className="mb-2">Registration</h2>
@@ -47,7 +46,7 @@ const IndexPage = () => {
                         If you would like to attend the Experimental AI in Games
                         workshop, please register for the{' '}
                         <a
-                            href="https://sites.google.com/gcloud.utah.edu/aiide-2024/home"
+                            href="https://sites.google.com/ualberta.ca/aiide2025/home"
                             target="_blank"
                             rel="noopener"
                         >
