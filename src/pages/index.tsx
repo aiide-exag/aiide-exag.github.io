@@ -46,7 +46,7 @@ const IndexPage = () => {
                         <p>
                             Submissions are due on <b>August 22th, 2025</b><br />
                             <a
-                                href="https://www.exag.org/call_for_papers"
+                                href="/call_for_papers"
                                 target="_blank"
                                 rel="noopener"
                             >

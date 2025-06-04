@@ -1607,7 +1607,7 @@
         "local_file": "papers/Punch Out Model Synthesis A Stochastic Algorithm for Constraint Based Tiling Generation.pdf",
         "old_url": "",
         "title": "Punch Out Model Synthesis: A Stochastic Algorithm for Constraint Based Tiling Generation",
-        "year": 2024
+        "year": "2024"
     },
     {
         "abstract": "Generative Artificial Intelligence (AI) encounters limitations in efficiency and fairness within the realm of Procedural Content Generation (PCG) when human creators solely drive and bear responsibility for the generative process. Alternative setups, such as Mixed-Initiative Co-Creative (MI-CC) systems, exhibited their promise. Still, the potential of an active mixed initiative, where AI takes a role beyond following, is understudied. This work investigates the influence of the adaptive ability of an active and learning AI agent on creators’ expectancy of creative responsibilities in an MI-CC setting. We built and studied a system that employs reinforcement learning (RL) methods to learn the creative responsibility preferences of a human user during online interactions. Situated in story co-creation, we develop a Multi-armed-bandit agent that learns from the human creator, updates its collaborative decision-making belief, and switches between its capabilities during an MI-CC experience. With 39 participants joining a human subject study, Our developed system’s learning capabilities are well recognized compared to the non-learning ablation, corresponding to a significant increase in overall satisfaction with the MI-CC experience. These findings indicate a robust association between effective MI-CC collaborative interactions, particularly the implementation of proactive AI initiatives, and deepened understanding among all participants.",
@@ -1617,7 +1617,7 @@
         "local_file": "papers/Beyond Following Mixing Active Initiative into Computational Creativity.pdf",
         "old_url": "",
         "title": "Beyond Following: Mixing Active Initiative into Computational Creativity",
-        "year": 2024
+        "year": "2024"
     },
     {
         "abstract": "Specialized testbeds are valuable tools in game AI and procedural content generation (PCG) research, providing controlled environments to test and evaluate new algorithms and explore game mechanics. This paper introduces MiniStS, a research testbed modeled after the\nrogue-like card game Slay the Spire (StS), tailored for studying game-playing AI and procedural generation. MiniStS features a dynamic rule system where in-game cards can modify game rules, providing a rich context for research. We argue that such an environment offers distinct research opportunities by revealing insights into game design, enabling the exploration of rule combinations and synergies, and advancing AI capabilities. We define possible applications for MiniStS in terms of generalized game-playing that requires understanding and adaptability to the dynamic changes to the rules, and card generation with a focus on a deepened exploration of rule synergies.",
@@ -1627,7 +1627,7 @@
         "local_file": "papers/MiniStS A Testbed for Dynamic Rule Exploration.pdf",
         "old_url": "",
         "title": "MiniStS: A Testbed for Dynamic Rule Exploration",
-        "year": 2024
+        "year": "2024"
     },
     {
         "abstract": "Social simulation is a field with many challenges. On the one hand, simulations are deeply technical and challenging to work with, and yet they are also exceedingly varied. This position paper draws on existing literature to identify two ‘simulation rhetorics’ which enable interactive dramas, and other systems involving social models, to make compelling claims about our social lives. These are the appearance of emergent behavior and the experience of world-building, which each depend upon the dual role played by the interactive drama’s author as both its designer and its critic. In the process, we identify both technical threats and evaluation problems facing social simulation researchers, due in part to the high bar set by prior art. This paper seeks to collect craft knowledge on social simulation from throughout its history, in order to address what simulation does for reflective practitioners by enabling deep forms of expression.",
@@ -1637,7 +1637,7 @@
         "local_file": "papers/Toward Prose Performances Reflective Practices in Social Simulation",
         "old_url": "",
         "title": "Toward Prose Performances: Reflective Practices in Social Simulation",
-        "year": 2024
+        "year": "2024"
     },
     {
         "abstract": "Seeking to leverage Expressive Range Analysis (ERA)- a method of characterizing generative systems- for analysis of generative AI (GAI) systems and their outputs, this paper categorizes the approaches that have been used for ERA. We present a taxonomy with five axes of characterization that may be applied to ERA methodologies: content agnostic vs semantic; quantitative vs qualitative; product vs process; objective vs subjective; and automated vs manual. While ERA has traditionally been limited to the domain of Procedural Content Generation (PCG) in video game development, we recognize parallels between PCG and GAI and hope to see an expansion of the application of ERA into the domain of GAI. Serving this goal, these axes provide metrics through which to categorize, compare, and\nexplore approaches.",
@@ -1647,7 +1647,7 @@
         "local_file": "papers/Axes of Characterizing Generative Systems A Taxonomy of Approaches to Expressive Range Analysis.pdf",
         "old_url": "",
         "title": "Axes of Characterizing Generative Systems: A Taxonomy of Approaches to Expressive Range Analysis",
-        "year": 2024
+        "year": "2024"
     },
     {
         "abstract": "This paper describes an in-progress examination of the differences in observed perceptions and usability of generative AI (GAI) in MassDigi’s Summer Innovation Program (SIP) from 2023 to 2024. SIP is a professional development program where teams of interns create mobile games in the Unity game engine over an 11-week period. Following a previous study using ethnographic methods to\nexamine this topic in summer 2023, a similar study conducted in summer 2024 found dramatically different results. Where previously, interns broadly resisted the adoption of methods that incorporated GAI, the 2024 cohort was found to embrace the tools. This paper presents the differences in findings, explores possible explanations for these differences, and presents potential paths of research to further investigate the trajectory of GAI adoption amongst creative professionals. We also present four variables that may influence GAI adoption: experience, cultural context, proportion of artists within a community, and shifting societal paradigms.",
@@ -1657,7 +1657,7 @@
         "local_file": "papers/Examining the Trajectory of Early Professionals’ use of Generative AI in the Game Development Process from 2023 to 2024.pdf",
         "old_url": "",
         "title": "Examining the Trajectory of Early Professionals’ use of\nGenerative AI in the Game Development Process from 2023 to\n2024",
-        "year": 2024
+        "year": "2024"
     },
     {
         "abstract": "This paper presents \"One Spell Fits All\", an AI-native game prototype where the player, playing as a witch, solves villagers’ problems using magical conjurations. We show how, beyond being a standalone game, \"One Spell Fits All\" could serve as a research platform to explore several key areas in AI-driven and AI-native game design. These areas include AI creativity, user experience in predominantly AI-generated content, and the energy efficiency of locally running versus cloud-based AI models. By leveraging smaller, locally running\ngenerative AI models, including LLMs and diffusion models for image generation, the game dynamically generates and evaluates content without the need for external APIs or internet access, offering a sustainable and responsive gameplay experience. This paper explores the application of LLMs in narrative video games, outlines a game prototype’s design and mechanics, and proposes future research opportunities that can be explored using the game as a platform.",
@@ -1667,6 +1667,6 @@
         "local_file": "papers/One Spell Fits All A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Design.pdf",
         "old_url": "",
         "title": "One Spell Fits All: A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Design",
-        "year": 2024
+        "year": "2024"
     }
 ]

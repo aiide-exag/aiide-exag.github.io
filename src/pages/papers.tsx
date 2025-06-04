@@ -73,6 +73,7 @@ const PaperDatabaseEntry: React.FC<PaperDatabaseEntryProps> = (props) => {
 };
 
 const PAPER_YEARS = [
+    '2024',
     '2023',
     '2022',
     '2021',
