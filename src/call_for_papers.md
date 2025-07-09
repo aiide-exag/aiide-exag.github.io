@@ -28,6 +28,10 @@ Papers describe AI research results that establish new challenges in entertainme
 
 Papers should be formatted in **CEUR one-column**, camera-ready style and **should be anonymized** for double-blind review. There are one-column templates available for various platforms. Overleaf users can use the [available template](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/hpvjjzhjxzjk). If you prefer to use Microsoft Word, ODT, or an different LaTeX variant, [please use these templates from CEUR](http://ceur-ws.org/Vol-XXX/CEURART.zip).
 
+##### Declaration on Generative AI
+
+All papers must have a section called "Declaration on Generative AI" and follow the [CEUR-WS Policy on AI-Assisting Tools](https://ceur-ws.org/GenAI/Policy.html).
+
 #### Length
 
 Authors are allotted **10-15 pages of content for full papers** and **5-9 pages of content for short papers**, ***including references and appendices***. Thus, authors are encouraged to submit a paper of length proportional to its contribution. Note, reviewers may, but are not required to, read the appendices, and therefore the paper’s central thesis should be understandable without them.
