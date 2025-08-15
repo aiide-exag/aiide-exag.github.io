@@ -13,7 +13,7 @@ especially when accommodating remote presenters.
 
 ### Research Papers
 
-Full and short papers should be submitted on EasyChair (link to come). Please select the Experimental AI in Games track.
+Full and short papers should be submitted on [EasyChair](https://easychair.org/conferences/submission_track?track=333666&a=34869893#%7Bfr:leZAxH3HvCij%7D). Please select the Experimental AI in Games track.
 
 #### What to Submit
 
