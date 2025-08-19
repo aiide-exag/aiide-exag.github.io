@@ -1,3 +1,6 @@
+### Deadline Extended!
+Submissions are now due on <b>August 29th, 2025</b><br />
+
 # Call for Papers
 
 EXAG 2025 will be accepting papers to two different tracks:
@@ -48,7 +51,7 @@ All accepted authors will be given the option of publication in the CEUR-WS proc
 
 ## Important Dates
 
-Deadline for paper submissions: **August 22th, 2025**
+Deadline for paper submissions: **August 29th, 2025**
 
 Notification for accepted papers: **September 16th, 2025**
 
