@@ -36,6 +36,19 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
+                        <h3>Deadline Extended!</h3>
+                        <p>
+                            Submissions are now due on <b>August 29th, 2025</b><br />
+                            <a
+                                href="/call_for_papers"
+                                target="_blank"
+                                rel="noopener"
+                            >
+                                Call for Papers
+                            </a>
+                        </p>
+                    </div>
+                    <div className="announcement">
                         <h3>2025 workshop dates!</h3>
                         <p>
                             The workshop will be held on November 10th & 11th.
@@ -44,7 +57,7 @@ const IndexPage = () => {
                     <div className="announcement">
                         <h3>2025 Call for Papers</h3>
                         <p>
-                            Submissions are due on <b>August 22th, 2025</b><br />
+                            Submissions are due on <b>August 29th, 2025</b><br />
                             <a
                                 href="/call_for_papers"
                                 target="_blank"
