@@ -53,7 +53,9 @@ All accepted authors will be given the option of publication in the CEUR-WS proc
 
 Deadline for paper submissions: **August 29th, 2025**
 
-Notification for accepted papers: **September 16th, 2025**
+Deadline for reviews: **September 18th, 2025**
+
+Notification for accepted papers: **September 19th, 2025**
 
 Publication-ready submission due: **October 7th, 2025**
 
