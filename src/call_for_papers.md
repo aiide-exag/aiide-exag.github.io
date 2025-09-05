@@ -1,5 +1,5 @@
-### Deadline Extended!
-Submissions are now due on <b>August 29th, 2025</b><br />
+### Submissions are under review!
+Reviews are due on <b>September 18th, 2025</b><br />
 
 # Call for Papers
 
