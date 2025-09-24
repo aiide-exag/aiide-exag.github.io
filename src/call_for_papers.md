@@ -1,5 +1,5 @@
 ### Submissions are under review!
-Acceptance notifications will be sent out on <b>September 26th, 2025</b><br />.
+Acceptance notifications will be sent out on <b>September 26th, 2025</b>.<br />
 
 # Call for Papers
 
