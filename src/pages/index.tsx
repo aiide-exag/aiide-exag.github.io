@@ -36,10 +36,10 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
-                        <h3>Submissions Under Review!</h3>
+                        <h3>Acceptance Notification Date Update</h3>
                         <p>
-                            Thank you all for the unprecedented number of submissions!
-                            Reviews are due on <b>September 18th, 2025</b><br />
+                            Thank you for your patience as we review the large volume of submissions!
+                            Acceptance notifications will now be sent on <b>September 26th, 2025</b>.<br />
                         </p>
                     </div>
                     <div className="announcement">

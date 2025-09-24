@@ -1,5 +1,5 @@
 ### Submissions are under review!
-Reviews are due on <b>September 18th, 2025</b><br />
+Acceptance notifications will be sent out on <b>September 26th, 2025</b><br />.
 
 # Call for Papers
 
@@ -55,9 +55,9 @@ Deadline for paper submissions: **August 29th, 2025**
 
 Deadline for reviews: **September 18th, 2025**
 
-Notification for accepted papers: **September 19th, 2025**
+Notification for accepted papers: **September 26th, 2025**
 
-Publication-ready submission due: **October 7th, 2025**
+Publication-ready submission due: **October 14th, 2025**
 
 Workshop dates: **November 10th and 11th, 2025**
 
