@@ -36,28 +36,15 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
-                        <h3>Camera Ready Submissions DUE!</h3>
+                        <h3>EXAG Schedule is Out!</h3>
                         <p>
-                            Camera Ready submissions are due on <b>October 14th, 2025</b>. Instructions for submitting your Camera Ready or opting out of CEUR publication are on the <a
-                            href="/call_for_papers"
-                            target="_blank"
-                            rel="noopener"
-                        >
-                            Call for Papers
-                        </a>.<br />
-                        </p>
-                    </div>
-                    <div className="announcement">
-                        <h3>Acceptance Notification Date Update</h3>
-                        <p>
-                            Thank you for your patience as we review the large volume of submissions!
-                            Acceptance notifications will now be sent on <b>September 26th, 2025</b>.<br />
-                        </p>
-                    </div>
-                    <div className="announcement">
-                        <h3>2025 Workshop Dates!</h3>
-                        <p>
-                            The workshop will be held on November 10th & 11th.
+                            The workshop will be held on November 10th & 11th. View the <a
+                                href="/call_for_papers"
+                                target="_blank"
+                                rel="noopener"
+                            >
+                                Schedule
+                            </a>.<br />
                         </p>
                     </div>
                     <h2 className="mb-2">Registration</h2>
