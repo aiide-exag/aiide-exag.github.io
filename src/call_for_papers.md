@@ -1,5 +1,18 @@
-### Submissions are under review!
-Acceptance notifications will be sent out on <b>September 26th, 2025</b>.<br />
+### Camera Ready Submissions DUE!
+Camera Ready submissions are due on **October 14th, 2025**. 
+
+**This year we are offering the option to give a presentation at EXAG without publishing your paper in the workshop proceedings (in CEUR).**
+
+**If you DO choose to publish your paper:**
+
+Please email Kaylah Facey (facey.k@northeastern.edu) with the following documents:
+* A PDF of your revised Camera Ready paper,
+* **and** a zip file of the complete source code (Latex/ODT files), *including all files required to generate the PDF (ex: figures, graphs, bibliography)*. **Only a PDF is not acceptable.**
+* A completed and signed [copyright form](https://drive.google.com/file/d/1NFjMKl5vqLFySya328E7CybifJrmlZ-C/view?usp=sharing). Only one of the paper authors needs to sign this, and **the signature must be handwritten with a pen on paper**.
+
+**If you DO NOT want to publish your paper in the workshop proceedings:**
+
+Please email Kaylah Facey (facey.k@northeastern.edu) stating that you do not wish to publish your workshop paper. In that case, you do not need to send any documents.
 
 # Call for Papers
 

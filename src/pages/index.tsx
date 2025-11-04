@@ -36,6 +36,18 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
+                        <h3>Camera Ready Submissions DUE!</h3>
+                        <p>
+                            Camera Ready submissions are due on <b>October 14th, 2025</b>. Instructions for submitting your Camera Ready or opting out of CEUR publication are on the <a
+                            href="/call_for_papers"
+                            target="_blank"
+                            rel="noopener"
+                        >
+                            Call for Papers
+                        </a>.<br />
+                        </p>
+                    </div>
+                    <div className="announcement">
                         <h3>Acceptance Notification Date Update</h3>
                         <p>
                             Thank you for your patience as we review the large volume of submissions!
