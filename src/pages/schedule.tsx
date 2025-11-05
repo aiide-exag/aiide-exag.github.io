@@ -44,42 +44,42 @@ const SchedulePage = () => {
                 <br/>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Unifying Behavior Trees and Logic Programming
+                    Playtrace Arc Search: A Tool to Explore and Evaluate Large Spaces of Playtrace Metrics Through User-Defined Curves
                   </div>
                   <div className="presentation-speaker">
-                    Samuel Hill and Ian Horswill
+                    Samuel Shields, Noah Wardrip-Fruin and Edward Melcer
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Controllable, Demographically-Guided Character Generation using Stochastic Logic Programming
+                    Evaluating the impact of MDP-based level assembly on player experience
                   </div>
                   <div className="presentation-speaker">
-                    Ian Horswill
+                    Colan Biemer and Seth Cooper
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    PCG-SAF: Procedural Content Generation via Self-Assembling Figures for Tabletop Games
+                    Using Exploratory Agents to Evaluate Game Environments
                   </div>
                   <div className="presentation-speaker">
-                    Fiona Shyne and Seth Cooper
+                    Bobby Khaleque, Mike Cook and Jeremy Gow
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    A Constraint-Based Graph Grammar Approach Unifying Level and Playthrough Generation
+                    Voxel-Based Spatio-Temporal Visualization of Gameplay Traces with Anomaly Detection
                   </div>
                   <div className="presentation-speaker">
-                    Seth Cooper and Mahsa Bazzaz
+                    Ling Liu, Colan Biemer, Günter Wallner and Seth Cooper
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Procedural Level Generation via Program Inversion
+                    Quest to Dungeon (QtD): Towards a Tool that Supports Collaboration between Narrative and Level Designers
                   </div>
                   <div className="presentation-speaker">
-                    Harper Noteboom, Kalyani Nair and Seth Cooper
+                    Oscar Boutani, Sam Shariati and Alberto Alvarez
                   </div>
                 </div>
               </td>
@@ -123,42 +123,42 @@ const SchedulePage = () => {
                 <br/>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Playtrace Arc Search: A Tool to Explore and Evaluate Large Spaces of Playtrace Metrics Through User-Defined Curves
+                    Unifying Behavior Trees and Logic Programming
                   </div>
                   <div className="presentation-speaker">
-                    Samuel Shields, Noah Wardrip-Fruin and Edward Melcer
+                    Samuel Hill and Ian Horswill
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Evaluating the impact of MDP-based level assembly on player experience
+                    Controllable, Demographically-Guided Character Generation using Stochastic Logic Programming
                   </div>
                   <div className="presentation-speaker">
-                    Colan Biemer and Seth Cooper
+                    Ian Horswill
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Using Exploratory Agents to Evaluate Game Environments
+                    PCG-SAF: Procedural Content Generation via Self-Assembling Figures for Tabletop Games
                   </div>
                   <div className="presentation-speaker">
-                    Bobby Khaleque, Mike Cook and Jeremy Gow
+                    Fiona Shyne and Seth Cooper
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Voxel-Based Spatio-Temporal Visualization of Gameplay Traces with Anomaly Detection
+                    A Constraint-Based Graph Grammar Approach Unifying Level and Playthrough Generation
                   </div>
                   <div className="presentation-speaker">
-                    Ling Liu, Colan Biemer, Günter Wallner and Seth Cooper
+                    Seth Cooper and Mahsa Bazzaz
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Quest to Dungeon (QtD): Towards a Tool that Supports Collaboration between Narrative and Level Designers
+                    Procedural Level Generation via Program Inversion
                   </div>
                   <div className="presentation-speaker">
-                    Oscar Boutani, Sam Shariati and Alberto Alvarez
+                    Harper Noteboom, Kalyani Nair and Seth Cooper
                   </div>
                 </div>
               </td>

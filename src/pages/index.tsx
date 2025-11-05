@@ -39,7 +39,7 @@ const IndexPage = () => {
                         <h3>EXAG Schedule is Out!</h3>
                         <p>
                             The workshop will be held on November 10th & 11th. View the <a
-                                href="/call_for_papers"
+                                href="/schedule"
                                 target="_blank"
                                 rel="noopener"
                             >
