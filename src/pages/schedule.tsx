@@ -52,10 +52,10 @@ const SchedulePage = () => {
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Evaluating the impact of MDP-based level assembly on player experience
+                    PCG-SAF: Procedural Content Generation via Self-Assembling Figures for Tabletop Games
                   </div>
                   <div className="presentation-speaker">
-                    Colan Biemer and Seth Cooper
+                    Fiona Shyne and Seth Cooper
                   </div>
                 </div>
                 <div className="presentation">
@@ -139,10 +139,10 @@ const SchedulePage = () => {
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    PCG-SAF: Procedural Content Generation via Self-Assembling Figures for Tabletop Games
+                    Evaluating the impact of MDP-based level assembly on player experience
                   </div>
                   <div className="presentation-speaker">
-                    Fiona Shyne and Seth Cooper
+                    Colan Biemer and Seth Cooper
                   </div>
                 </div>
                 <div className="presentation">
@@ -263,7 +263,7 @@ const SchedulePage = () => {
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Pretraining Graph State Encoders for Real-Time Strategy Games using Graph Self-Supervised Learning
+                    Pretraining Graph State Encoders for microRTS using Graph Self-Supervised Learning?
                   </div>
                   <div className="presentation-speaker">
                     Pavan Kantharaju
