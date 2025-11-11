@@ -263,7 +263,7 @@ const SchedulePage = () => {
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Pretraining Graph State Encoders for microRTS using Graph Self-Supervised Learning?
+                    Pretraining Graph State Encoders for microRTS using Graph Self-Supervised Learning
                   </div>
                   <div className="presentation-speaker">
                     Pavan Kantharaju
