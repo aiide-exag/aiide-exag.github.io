@@ -5,9 +5,9 @@ import Seo from '../components/Seo';
 
 const ORGANIZING_COMMITTEE = [
     {
-        name: 'Josiah Boucher',
-        email: 'jdboucher@wpi.edu',
-        affiliation: 'Worcester Polytechnic Institute',
+        name: 'Fiona Shyne',
+        email: 'shyne.f@northeastern.edu',
+        affiliation: 'Northeastern University',
     },
     {
         name: 'Kaylah Facey',
@@ -15,21 +15,25 @@ const ORGANIZING_COMMITTEE = [
         affiliation: 'Northeastern University',
     },
     {
-        name: 'Fiona Shyne',
-        email: 'shyne.f@northeastern.edu',
-        affiliation: 'Northeastern University',
-    },
-    {
-        name: 'Johor Jara Gonzalez',
-        email: 'jaragonz@ualberta.ca',
+        name: 'Dave Goel',
+        email: 'dgoel1@ualberta.ca',
         affiliation: 'University of Alberta',
     },
     {
-        name: 'Junwen Shen',
-        email: 'junwen5@ualberta.ca',
+        name: 'ravyn Hardcastle',
+        email: 'ravynh@ualberta.ca',
         affiliation: 'University of Alberta',
     },
-    
+    {
+        name: 'Ross Mawhorter',
+        email: 'mawhorte@ualberta.ca',
+        affiliation: 'University of Alberta',
+    },
+    {
+        name: 'Gage Birchmeier',
+        email: 'gage.birchmeier@uky.edu',
+        affiliation: 'University of Kentucky',
+    },
 ];
 
 const PROGRAM_COMMITTEE: { name: String; affiliation: String }[] = [
@@ -43,7 +47,7 @@ const PROGRAM_COMMITTEE: { name: String; affiliation: String }[] = [
 const CommitteePage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2025: Committee" />
+            <Seo title="EXAG 2026: Committee" />
             <Container className="py-5">
                 <h1>Workshop Organizers</h1>
                 <ul>
@@ -55,14 +59,14 @@ const CommitteePage = () => {
                     ))}
                 </ul>
 
-                <h1>Program Committee</h1>
+                {/* <h1>Program Committee</h1>
                 <ul>
                     {PROGRAM_COMMITTEE.map((member, i) => (
                         <li key={`pc_${i}`}>
                             {member.name} -- {member.affiliation}
                         </li>
                     ))}
-                </ul>
+                </ul> */}
             </Container>
         </AppLayout>
     );

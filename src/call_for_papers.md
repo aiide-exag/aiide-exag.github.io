@@ -1,19 +1,20 @@
 # Call for Papers
 
-EXAG 2025 will be accepting papers to two different tracks:
+EXAG 2026 will be accepting papers to two different tracks for in-person oral presentation:
 
 * **Full papers** -- Regular papers submitted for oral presentation (10-15 pages). These papers will (optionally) be incorporated into the proceedings and will be presented as 10-minute talks with 5 minutes of Q&A.
 
 * **Short papers** -- Short papers (5-9 pages) describing a position, project, or proposal related to any topic of interest to the workshop. These papers will (optionally) be incorporated into the proceedings and will be presented as 5-minute talks with 3 minutes of Q&A.
 
-Papers will be presented in groups based on their topics. The ordering of topics may depend on speaker availability,
-especially when accommodating remote presenters.
+Papers will be presented in groups at the discretion of the organizers.
 
 ## Submission Instructions
 
 ### Research Papers
 
-Full and short papers should be submitted on [EasyChair](https://easychair.org/conferences/?conf=aiide25). Please select the Experimental AI in Games track.
+Full and short papers should be submitted on EasyChair (link tbd).
+
+<!-- Full and short papers should be submitted on [EasyChair](https://easychair.org/conferences/?conf=aiide25). Please select the Experimental AI in Games track. -->
 
 #### What to Submit
 
@@ -44,19 +45,20 @@ Submissions will be peer reviewed. Abstracts and other submitted materials will 
 
 #### Publication
 
-All accepted authors will be given the option of publication in the CEUR-WS proceedings for EXAG 2025. Papers that are not for publication will be subject to the same review process as all papers.
+All accepted authors will be given the option of publication in the CEUR-WS proceedings for EXAG 2026. Papers that are not for publication will be subject to the same review process as all papers.
 
 ## Important Dates
+*Subject to change.*
 
-Deadline for paper submissions: **August 29th, 2025**
+Deadline for paper submissions: **August 21st, 2026**
 
-Deadline for reviews: **September 18th, 2025**
+Deadline for reviews: **September 11th, 2026**
 
-Notification for accepted papers: **September 26th, 2025**
+Notification for accepted papers: **September 18th, 2026**
 
-Publication-ready submission due: **October 14th, 2025**
+Publication-ready submission due: **October 9th, 2026**
 
-Workshop dates: **November 10th and 11th, 2025**
+Workshop dates: **November 9th and 10th, 2026**
 
 ## Topics
 
@@ -77,9 +79,8 @@ Previous work presented at the workshop includes dynamic NPC knowledge modeling,
 
 Not sure if your topic is a fit? [Drop us a line!](https://www.exag.org/committee)
 
-### Community Demo Session
+### EXAG et al.
 
-This will be an informal, interactive session for members of the community to share works and get feedback. This is intended for any works of progress that have an interactive component, and demos will not be included in the proceedings.
+EXAG et al. will be an opportunity for researchers to share works in progress, demos, and other artifacts that don't fit well into a traditional research paper submission.
 
-<!-- [Register to participate in the community demo session]() -->
-Registration TBD
+More information on participation will be coming soon!

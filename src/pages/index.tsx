@@ -5,7 +5,7 @@ import Seo from '../components/Seo';
 const IndexPage = () => {
     return (
         <AppLayout>
-            <Seo title="EXAG 2025: Experimental AI in Games" />
+            <Seo title="EXAG 2026: Experimental AI in Games" />
             <Container className="py-5">
                 <div>
                     <h2>What is EXAG?</h2>
@@ -18,7 +18,7 @@ const IndexPage = () => {
                         AI in games.
                     </p>
                     <p>
-                        EXAG will be taking place for its 12th year at the 2025
+                        EXAG will be taking place for its 13th year at the 2026
                         AIIDE Conference. Beyond being just a workshop,
                         EXAG aims to foster a community where new ideas can be
                         proposed and developed within the space of the workshop
@@ -36,15 +36,15 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
-                        <h3>EXAG Schedule is Out!</h3>
+                        <h3>Call for Papers</h3>
                         <p>
-                            The workshop will be held on November 10th & 11th. View the <a
-                                href="/schedule"
+                            The deadline for submission is <b>August 21st, 2026</b>. See the <a
+                                href="/call_for_papers"
                                 target="_blank"
                                 rel="noopener"
                             >
-                                Schedule
-                            </a>.<br />
+                                Call for Papers
+                            </a> for more information.<br />
                         </p>
                     </div>
                     <h2 className="mb-2">Registration</h2>
@@ -52,13 +52,13 @@ const IndexPage = () => {
                         If you would like to attend the Experimental AI in Games
                         workshop, please register for the{' '}
                         <a
-                            href="https://sites.google.com/ualberta.ca/aiide2025/home"
+                            href="https://sites.google.com/view/aiide2026/home"
                             target="_blank"
                             rel="noopener"
                         >
-                            AIIDE 2025 Conference
+                            AIIDE 2026 Conference
                         </a>
-                        .
+                        , to be held at the Federal University of Minas Gerais in Belo Horizonte, Brazil.
                     </p>
                 </div>
             </Container>
