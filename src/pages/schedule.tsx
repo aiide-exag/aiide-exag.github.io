@@ -5,9 +5,10 @@ import Seo from '../components/Seo';
 const SchedulePage = () => {
   return (
     <AppLayout>
-      <Seo title="EXAG 2025: Schedule" />
+      <Seo title="EXAG 2026: Schedule" />
       <Container className="py-5">
-        <h1>EXAG 2025 Program Schedule</h1>
+        <h1>TBD</h1>
+        {/* <h1>EXAG 2025 Program Schedule</h1>
 
         <div className="alert alert-info mb-5" role="alert">
           ⏰ All presentation times are provided in Mountain Daylight
@@ -372,7 +373,7 @@ const SchedulePage = () => {
               </td>
             </tr>
           </tbody>
-        </table>
+        </table> */}
       </Container>
     </AppLayout>
   );
