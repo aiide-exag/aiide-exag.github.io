@@ -58,7 +58,7 @@ const IndexPage = () => {
                         >
                             AIIDE 2026 Conference
                         </a>
-                        , to be held at the Federal University of Minas Gerais in Belo Horizonte, Brazil.
+                        , to be held November 9-13, 2026 at the Federal University of Minas Gerais in Belo Horizonte, Brazil.
                     </p>
                 </div>
             </Container>
