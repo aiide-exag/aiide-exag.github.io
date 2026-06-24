@@ -12,9 +12,7 @@ Papers will be presented in groups at the discretion of the organizers.
 
 ### Research Papers
 
-Full and short papers should be submitted on EasyChair (link tbd).
-
-<!-- Full and short papers should be submitted on [EasyChair](https://easychair.org/conferences/?conf=aiide25). Please select the Experimental AI in Games track. -->
+Full and short papers should be submitted on [EasyChair](https://easychair.org/conferences/?conf=aiide26). Please select the Experimental AI in Games 2026 Workshop track. 
 
 #### What to Submit
 
