@@ -38,7 +38,7 @@ const IndexPage = () => {
                     <div className="announcement">
                         <h3>Call for Papers</h3>
                         <p>
-                            The deadline for submission is <b>August 21st, 2026</b>. See the <a
+                            The deadline for submission is <b>August 28th, 2026</b>. See the <a
                                 href="/call_for_papers"
                                 target="_blank"
                                 rel="noopener"
