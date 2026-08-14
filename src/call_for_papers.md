@@ -48,13 +48,13 @@ All accepted authors will be given the option of publication in the CEUR-WS proc
 ## Important Dates
 *Subject to change.*
 
-Deadline for paper submissions: **August 28th, 2026**
+Deadline for paper submissions: **September 4th, 2026**
 
-Deadline for reviews: **September 18th, 2026**
+Deadline for reviews: **September 24th, 2026**
 
 Notification for accepted papers: **September 25th, 2026**
 
-Publication-ready submission due: **October 16th, 2026**
+Publication-ready submission due: **October 23rd, 2026**
 
 Workshop dates: **November 9th and 10th, 2026**
 

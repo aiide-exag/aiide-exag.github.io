@@ -36,9 +36,9 @@ const IndexPage = () => {
                     </p>
                     <h2 className="mb-2">Announcements</h2>
                     <div className="announcement">
-                        <h3>Call for Papers</h3>
+                        <h3>Deadline Extension</h3>
                         <p>
-                            The deadline for submission is <b>August 28th, 2026</b>. See the <a
+                            The deadline for submission is now <b>September 4th, 2026, to give everyone time to work on their AIIDE Camera Ready</b>. See the <a
                                 href="/call_for_papers"
                                 target="_blank"
                                 rel="noopener"
