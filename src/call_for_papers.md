@@ -52,9 +52,9 @@ Deadline for paper submissions: **September 4th, 2026**
 
 Deadline for reviews: **September 24th, 2026**
 
-Notification for accepted papers: **September 25th, 2026**
+Notification for accepted papers: **October 3rd, 2026**
 
-Publication-ready submission due: **October 23rd, 2026**
+Publication-ready submission due: **October 30th, 2026**
 
 Workshop dates: **November 9th and 10th, 2026**
 

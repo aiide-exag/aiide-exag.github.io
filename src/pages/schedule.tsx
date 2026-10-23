@@ -7,22 +7,20 @@ const SchedulePage = () => {
     <AppLayout>
       <Seo title="EXAG 2026: Schedule" />
       <Container className="py-5">
-        <h1>TBD</h1>
-        {/* <h1>EXAG 2025 Program Schedule</h1>
+        <h1>EXAG 2026 Program Schedule</h1>
 
         <div className="alert alert-info mb-5" role="alert">
-          ⏰ All presentation times are provided in Mountain Daylight
-          Time (MDT) (UCT-6).
+          ⏰ All presentation times are provided in Brazilian Time (BRT) (UTC/GMT-3).
         </div>
-        <a href="/schedule2025.pdf" download="schedule2025.pdf">Download or print the schedule.</a>
+        <a href="/schedule2026.pdf" download="schedule2026.pdf">Download or print the schedule.</a>
         <h2>Overview</h2>
-        <img src="/schedule2025.png" alt="schedule overview"/>
+        <img src="/schedule2026.png" alt="schedule overview"/>
         <h2>Detailed Schedule</h2>
-        <h3>Monday, November 10th</h3>
+        <h3>Monday, November 9th</h3>
         <table className="program-schedule">
           <tbody>
             <tr>
-              <td className="schedule-time">9:00-9:30 AM</td>
+              <td className="schedule-time">9:30-10:00 AM</td>
               <td>
                 <div className="schedule-section-title">
                   Opening Remarks
@@ -30,57 +28,41 @@ const SchedulePage = () => {
                 <div className="presentation-speaker">
                   Led by Fiona Shyne
                 </div>
-                <div>Opening Remarks from EXAG and INT committees</div>
+                <div>Opening Remarks from the EXAG committee</div>
               </td>
             </tr>
             <tr>
-              <td className="schedule-time">9:30-10:45 AM</td>
+              <td className="schedule-time">10:00-10:45 AM</td>
               <td>
                 <div className="schedule-section-title">
-                  EXAG Paper Session 1
+                  Paper Session 1
                 </div>
                 <div className="presentation-speaker">
-                  Led by Kaylah Facey
+                  Led by ravyn Hardcastle
                 </div>
                 <br/>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Playtrace Arc Search: A Tool to Explore and Evaluate Large Spaces of Playtrace Metrics Through User-Defined Curves
+                    Behavior Cloning of Human Play in osu!
                   </div>
                   <div className="presentation-speaker">
-                    Samuel Shields, Noah Wardrip-Fruin and Edward Melcer
+                    Mohamed Amine Kebouchi
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    PCG-SAF: Procedural Content Generation via Self-Assembling Figures for Tabletop Games
+                    In the Balance: A Multidimensional Taxonomy of Game Balance for Design and Research
                   </div>
                   <div className="presentation-speaker">
-                    Fiona Shyne and Seth Cooper
+                    Samuel Shields and Edward Melcer
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Using Exploratory Agents to Evaluate Game Environments
+                    Local Target Reaching in Games with VLM-Based Initial Detection and Online Object Tracking
                   </div>
                   <div className="presentation-speaker">
-                    Bobby Khaleque, Mike Cook and Jeremy Gow
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Voxel-Based Spatio-Temporal Visualization of Gameplay Traces with Anomaly Detection
-                  </div>
-                  <div className="presentation-speaker">
-                    Ling Liu, Colan Biemer, Günter Wallner and Seth Cooper
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Quest to Dungeon (QtD): Towards a Tool that Supports Collaboration between Narrative and Level Designers
-                  </div>
-                  <div className="presentation-speaker">
-                    Oscar Boutani, Sam Shariati and Alberto Alvarez
+                    Ken Kidokoro and Hiroshi Iwasaki
                   </div>
                 </div>
               </td>
@@ -89,216 +71,172 @@ const SchedulePage = () => {
               <td className="schedule-time">10:45-11:15 AM</td>
               <td>
                 <div className="schedule-section-title">
-                  Coffee Break
+                  Break
                 </div>
+                <div>Enjoy coffee and conversation</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="schedule-time">11:15 AM-12:15 PM</td>
+              <td>
+                <div className="schedule-section-title">Birds of a Feather</div>
+                <div className="presentation-speaker">
+                  Led by Fiona Shyne
+                </div>
+                <div>Break into small groups to discuss the important topics to the EXAG community</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="schedule-time">12:15-1:45 PM</td>
+              <td>
+                <div className="schedule-section-title">
+                  Lunch
+                </div>
+                <div>Refuel for more EXAG, Lunch not provided</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="schedule-time">1:45-3:45 PM</td>
+              <td>
+                <div className="schedule-section-title">
+                  EXAG Et Al.
+                </div>
+                <div className="presentation-speaker">
+                  Led by Fiona Shyne
+                </div>
+                <div>Celebrate works outside of traditional research, followed by an informal demo session</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="schedule-time">3:45-4:15 PM</td>
+              <td>
+                <div className="schedule-section-title">
+                  Break
+                </div>
+                <div>Enjoy coffee and conversation</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="schedule-time">4:15-5:00PM</td>
+              <td>
+                <div className="schedule-section-title">
+                  Paper Session 2
+                </div>
+                <div className="presentation-speaker">
+                  Led by Kaylah Facey
+                </div>
+                <br/>
+                <div className="presentation">
+                  <div className="presentation-title">
+                    Hybrid LLM–Deterministic Game Agents: Bounded Reasoning with Selective Escalation
+                  </div>
+                  <div className="presentation-speaker">
+                    Aakash Bajpai
+                  </div>
+                </div>
+                <div className="presentation">
+                  <div className="presentation-title">
+                    Reinforcement Learning for the Game of Balatro: A Fast Simulator and Two-Policy Training Approach
+                  </div>
+                  <div className="presentation-speaker">
+                    Ajay Vikram Periasami, Anjaneya Gupta, Ethan Cheng and Ivan Rosales
+                  </div>
+                </div>
+                <div className="presentation">
+                  <div className="presentation-title">
+                    Adaptability of Unity ML-Agent Sensors for Dynamic Game Environments
+                  </div>
+                  <div className="presentation-speaker">
+                    Lauren DeMaio and Carmine Guida
+                  </div>
+                </div>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+        <h3>Tuesday, November 10th</h3>
+        <table className="program-schedule">
+          <tbody>
+            <tr>
+              <td className="schedule-time">9:30-10:00 AM</td>
+              <td>
+                <div className="schedule-section-title">
+                  Opening Remarks
+                </div>
+                <div className="presentation-speaker">
+                  Led by Fiona Shyne
+                </div>
+                <div>Opening Remarks from the EXAG committee</div>
+              </td>
+            </tr>
+            <tr>
+              <td className="schedule-time">10:00-10:45 AM</td>
+              <td>
+                <div className="schedule-section-title">
+                  Paper Session 3
+                </div>
+                <div className="presentation-speaker">
+                  Led by Ross Mawhorter
+                </div>
+                <br/>
+                <div className="presentation">
+                  <div className="presentation-title">
+                    A Rational Reconstruction of Ensemble Social Physics
+                  </div>
+                  <div className="presentation-speaker">
+                    Ian Horswill and Samuel Hill
+                  </div>
+                </div>
+                <div className="presentation">
+                  <div className="presentation-title">
+                    Tandem Tales: A Paired Storytelling Research Platform
+                  </div>
+                  <div className="presentation-speaker">
+                    Stephen Ware, Lasantha Senanayake and Molly Siler
+                  </div>
+                </div>
+                <div className="presentation">
+                  <div className="presentation-title">
+                    Dragon Babble: Utilizing an Extremely Small Language Model for NPCs on Constrained Hardware
+                  </div>
+                  <div className="presentation-speaker">
+                    Andrew Dinspechin, Michael Layne, Jaskarn Mann and Carmine Guida
+                  </div>
+                </div>
+              </td>
+            </tr>
+            <tr>
+              <td className="schedule-time">10:45-11:15 PM</td>
+              <td>
+                <div className="schedule-section-title">
+                  Break
+                </div>
+                <div>Enjoy coffee and conversation</div>
               </td>
             </tr>
             <tr>
               <td className="schedule-time">11:15 AM-12:45 PM</td>
               <td>
-                <div className="schedule-section-title">Speculative Game Jam</div>
-                <div className="presentation-speaker">
-                  Led by Fiona Shyne
-                </div>
-                <div>Participate in an exploratory game jam session</div>
-              </td>
-            </tr>
-            <tr>
-              <td className="schedule-time">12:45-1:45 PM</td>
-              <td>
                 <div className="schedule-section-title">
-                  Lunch
-                </div>
-                <div><em>Lunch not provided</em></div>
-              </td>
-            </tr>
-            <tr>
-              <td className="schedule-time">1:45-3:00 PM</td>
-              <td>
-                <div className="schedule-section-title">
-                  EXAG Paper Session 2
-                </div>
-                <div className="presentation-speaker">
-                  Led by Kaylah Facey
-                </div>
-                <br/>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Unifying Behavior Trees and Logic Programming
-                  </div>
-                  <div className="presentation-speaker">
-                    Samuel Hill and Ian Horswill
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Controllable, Demographically-Guided Character Generation using Stochastic Logic Programming
-                  </div>
-                  <div className="presentation-speaker">
-                    Ian Horswill
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Evaluating the impact of MDP-based level assembly on player experience
-                  </div>
-                  <div className="presentation-speaker">
-                    Colan Biemer and Seth Cooper
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    A Constraint-Based Graph Grammar Approach Unifying Level and Playthrough Generation
-                  </div>
-                  <div className="presentation-speaker">
-                    Seth Cooper and Mahsa Bazzaz
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Procedural Level Generation via Program Inversion
-                  </div>
-                  <div className="presentation-speaker">
-                    Harper Noteboom, Kalyani Nair and Seth Cooper
-                  </div>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td className="schedule-time">3:00-3:30 PM</td>
-              <td>
-                <div className="schedule-section-title">
-                  Coffee Break
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td className="schedule-time">3:30-5:00 PM</td>
-              <td>
-                <div className="schedule-section-title">
-                  Demo Session
+                  Mini Game Jam
                 </div>
                 <div className="presentation-speaker">
                   Led by Fiona Shyne
                 </div>
-                <div>Explore works in progress and interactives</div>
-              </td>
-            </tr>
-          </tbody>
-        </table>
-        <h3>Tuesday, November 11th</h3>
-        <table className="program-schedule">
-          <tbody>
-            <tr>
-              <td className="schedule-time">9:00-10:00 AM</td>
-              <td>
-                <div className="schedule-section-title">
-                  Keynote Speaker
-                </div>
-                <div className="presentation-speaker">
-                  Given by Mike Cook
-                </div>
+                <div>Sketch out a game in small groups with a given theme</div>
               </td>
             </tr>
             <tr>
-              <td className="schedule-time">10:00-10:30 AM</td>
-              <td>
-                <div className="schedule-section-title">
-                  Coffee Break
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td className="schedule-time">10:30-11:30 AM</td>
-              <td>
-                <div className="schedule-section-title">
-                  INT Paper Session
-                </div>
-                <div className="presentation-speaker">
-                  Led by Olga Koldachenko
-                </div>
-                <br/>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Amorphous Interpretations: Diverse Narrative Generation for Open-Ended Simulation Environments
-                  </div>
-                  <div className="presentation-speaker">
-                    Dipika Rajesh, Julian Togelius and M Charity
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Designing a Modular, Scalable Benchmark for Narrative Experience Management
-                  </div>
-                  <div className="presentation-speaker">
-                    Molly Siler, Stephen G. Ware, Gage Birchmeier, Mira Fisher and Lasantha Senanayake
-                  </div>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td className="schedule-time">11:30 AM-12:00 PM</td>
-              <td>
-                <div className="schedule-section-title">
-                  Coffee Break
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td className="schedule-time">12:00-1:15 PM</td>
-              <td>
-                <div className="schedule-section-title">
-                  EXAG Paper Session 3
-                </div>
-                <div className="presentation-speaker">
-                  Led by Kaylah Facey
-                </div>
-                <br/>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    We Call This Controller Skip: AI for Speedrunning
-                  </div>
-                  <div className="presentation-speaker">
-                    Michael Cook, M Charity, Maren Awiszus, Alexander Dockhorn and Filippo Carnovalini
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Pretraining Graph State Encoders for microRTS using Graph Self-Supervised Learning
-                  </div>
-                  <div className="presentation-speaker">
-                    Pavan Kantharaju
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Detecting Neural Network Driven Bots in Super Mario Bros
-                  </div>
-                  <div className="presentation-speaker">
-                    Caleb Cavilla and Jonathan Hudson
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Towards Cognitive-Plausible Explanations for Board Game Agents with Genetic Programming
-                  </div>
-                  <div className="presentation-speaker">
-                    Manuel Eberhardinger, Florian Rupp, Florian Richoux, Johannes Maucher and Setareh Maghsudi
-                  </div>
-                </div>
-              </td>
-            </tr>
-            <tr>
-              <td className="schedule-time">1:15-2:15 PM</td>
+              <td className="schedule-time">12:45-2:30 PM</td>
               <td>
                 <div className="schedule-section-title">
                   Lunch
                 </div>
-                <div><em>Lunch not provided</em></div>
+                <div>Refuel for more EXAG, lunch not provided</div>
               </td>
             </tr>
             <tr>
-              <td className="schedule-time">2:15-3:30 PM</td>
+              <td className="schedule-time">2:30-3:15 PM</td>
               <td>
                 <div className="schedule-section-title">
                   EXAG Paper Session 4
@@ -309,71 +247,56 @@ const SchedulePage = () => {
                 <br/>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Procedural Content Generation in Minecraft via Disentangled Representation Learning Models
+                    Terrain-Adaptive Settlement Placement in Minecraft
                   </div>
                   <div className="presentation-speaker">
-                    Tim Merino, Yifan Zhang and Julian Togelius
+                    Aakash Bajpai Conner Tuso, Raymon Sadhra and Markus Eger
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    Narrative-to-Scene Generation: An LLM-Driven Pipeline for 2D Game Environments
+                    Generate, Repair, and Validate: A Hybrid Pipeline for Voxel-Based 3D Platforming Environments
                   </div>
                   <div className="presentation-speaker">
-                    Yi-Chun Chen and Arnav Jhala
+                    Luis Eduardo Rasch, Daniel Barretos and Anderson Ferrugem
                   </div>
                 </div>
                 <div className="presentation">
                   <div className="presentation-title">
-                    A Markovian Framing of Wave Function Collapse for Procedurally Generating Aesthetically Complex Environments
+                    AIPAGE: The AIIDE Paper Generator
                   </div>
                   <div className="presentation-speaker">
-                    Franklin Yiu, Mohan Lu, Nina Li, Kevin Joseph, Tianxu Zhang, Julian Togelius, Timothy Merino and Sam Earle
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    Generating Three-Star System Puzzles using Solution Enumeration Fitness for a Lattice Protein Folding Game
-                  </div>
-                  <div className="presentation-speaker">
-                    Yaejie Kwon, Fiona Shyne and Seth Cooper
-                  </div>
-                </div>
-                <div className="presentation">
-                  <div className="presentation-title">
-                    The Nintendo Artificial Neural Network System
-                  </div>
-                  <div className="presentation-speaker">
-                    Carmine Guida and Lauren DeMaio
+                    Markus Eger
                   </div>
                 </div>
               </td>
             </tr>
             <tr>
-              <td className="schedule-time">3:30-4:00 PM</td>
+              <td className="schedule-time">3:15-3:45 PM</td>
               <td>
                 <div className="schedule-section-title">
-                  Coffee Break
+                  Break
                 </div>
+                <div>Enjoy coffee and conversation</div>
               </td>
             </tr>
             <tr>
-              <td className="schedule-time">4:00-5:00 PM</td>
+              <td className="schedule-time">3:45-4:30 PM</td>
               <td>
                 <div className="schedule-section-title">
                   Community Session
                 </div>
                 <div className="presentation-speaker">
-                  Led by Kaylah Facey
+                  Led by EXAG committee
                 </div>
                 <div>
-                  Townhall to give feedback about the workshop
+                  Dicuss how EXAG went and how to improve for future years
                 </div>
                 <div></div>
               </td>
             </tr>
           </tbody>
-        </table> */}
+        </table>
       </Container>
     </AppLayout>
   );
