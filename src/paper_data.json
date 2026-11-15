@@ -4,7 +4,7 @@
         "authors": "Mike Treanor",
         "bibtex": "@inproceedings{treanor2021engine,\n title={A Component-based Game Engine for the Game-O-Mat Game Generation System},\nauthor={Mike Treanor},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://exag.org/archive/treanor2021engine.pdf",
-        "local_file": "papers/A Component-based Game Engine for the Game-O-Mat Game Generation System.pdf",
+        "local_file": "papers/pre-2025/A Component-based Game Engine for the Game-O-Mat Game Generation System.pdf",
         "old_url": "archive/treanor2021engine.pdf",
         "title": "A Component-based Game Engine for the Game-O-Mat Game Generation System",
         "year": "2021"
@@ -14,7 +14,7 @@
         "authors": "Manoj Deshpande and Brian Magerko",
         "bibtex": "@inproceedings{deshpande2021draw,\n title={Drawcto: A Multi-Agent Co-Creative AI for Collaborative Non-Representational Art},\nauthor={Manoj Deshpande and Brian Magerko},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://ceur-ws.org/Vol-3217/paper7.pdf",
-        "local_file": "papers/Drawcto: A Multi-Agent Co-Creative AI for Collaborative Non-Representational Art.pdf",
+        "local_file": "papers/pre-2025/Drawcto: A Multi-Agent Co-Creative AI for Collaborative Non-Representational Art.pdf",
         "old_url": "archive/deshpande2021draw.pdf",
         "title": "Drawcto: A Multi-Agent Co-Creative AI for Collaborative Non-Representational Art",
         "year": "2021"
@@ -24,7 +24,7 @@
         "authors": "Abdelrahman Madkour, Stacy Marsella, Casper Harteveld, Magy Seif El-Nasr and Jan Willem van de Meent",
         "bibtex": "@inproceedings{madkour2021guiding,\n title={Guiding Generative Graph Grammars of Dungeon Mission Graphs via Examples},\nauthor={Abdelrahman Madkour and Stacy Marsella and Casper Harteveld and Magy Seif El-Nasr and Jan Willem van de Meent},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://ceur-ws.org/Vol-3217/paper8.pdf",
-        "local_file": "papers/Guiding Generative Graph Grammars of Dungeon Mission Graphs via Examples.pdf",
+        "local_file": "papers/pre-2025/Guiding Generative Graph Grammars of Dungeon Mission Graphs via Examples.pdf",
         "old_url": "archive/madkour2021guiding.pdf",
         "title": "Guiding Generative Graph Grammars of Dungeon Mission Graphs via Examples",
         "year": "2021"
@@ -34,7 +34,7 @@
         "authors": "Jason Smith, Nazanin Alsadat Tabatabaei Anaraki, Atefeh Goloujeh, Karan Khosla and Brian Magerko",
         "bibtex": "@inproceedings{smith2021holodeck,\n title={Towards an AI Holodeck: Generating Virtual Scenes from Sparse Natural Language Input},\nauthor={Jason Smith and Nazanin Alsadat Tabatabaei Anaraki and Atefeh Goloujeh and Karan Khosla and Brian Magerko},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://exag.org/archive/smith2021holodeck.pdf",
-        "local_file": "papers/Towards an AI Holodeck: Generating Virtual Scenes from Sparse Natural Language Input.pdf",
+        "local_file": "papers/pre-2025/Towards an AI Holodeck: Generating Virtual Scenes from Sparse Natural Language Input.pdf",
         "old_url": "archive/smith2021holodeck.pdf",
         "title": "Towards an AI Holodeck: Generating Virtual Scenes from Sparse Natural Language Input",
         "year": "2021"
@@ -44,7 +44,7 @@
         "authors": "Anurag Sarkar and Seth Cooper",
         "bibtex": "@inproceedings{sarkar2021procedural,\n title={Procedural Content Generation using Behavior Trees (PCGBT)},\nauthor={Anurag Sarkar and Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://arxiv.org/pdf/2107.06638",
-        "local_file": "papers/Procedural Content Generation using Behavior Trees (PCGBT).pdf",
+        "local_file": "papers/pre-2025/Procedural Content Generation using Behavior Trees (PCGBT).pdf",
         "old_url": "archive/sarkar2021procedural.pdf",
         "title": "Procedural Content Generation using Behavior Trees (PCGBT)",
         "year": "2021"
@@ -54,7 +54,7 @@
         "authors": "Brenden Lech, Sasha Azad, Jennifer Wellnitz, Joel Jonasson and Chris Martens",
         "bibtex": "@inproceedings{lech2021designing,\n title={Designing a Combined World and Story Procedural Content Generation Engine},\nauthor={Brenden Lech and Sasha Azad and Jennifer Wellnitz and Joel Jonasson and Chris Martens},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "http://ceur-ws.org/Vol-3217/paper12.pdf",
-        "local_file": "papers/Designing a Combined World and Story Procedural Content Generation Engine.pdf",
+        "local_file": "papers/pre-2025/Designing a Combined World and Story Procedural Content Generation Engine.pdf",
         "old_url": "archive/lech2021designing.pdf",
         "title": "Designing a Combined World and Story Procedural Content Generation Engine",
         "year": "2021"
@@ -64,7 +64,7 @@
         "authors": "Arunpreet Sandhu, Kyle Mitchell and Joshua McCoy",
         "bibtex": "@inproceedings{sandhu2021tileterror,\n title={TileTerror: A System for Procedurally Generating 2D Horror Maps},\nauthor={Arunpreet Sandhu and Kyle Mitchell and Joshua McCoy},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://exagworkshop.institutedigitalgames.com/archive/sandhu2021tileterror.pdf",
-        "local_file": "papers/TileTerror: A System for Procedurally Generating 2D Horror Maps.pdf",
+        "local_file": "papers/pre-2025/TileTerror: A System for Procedurally Generating 2D Horror Maps.pdf",
         "old_url": "archive/sandhu2021tileterror.pdf",
         "title": "TileTerror: A System for Procedurally Generating 2D Horror Maps",
         "year": "2021"
@@ -74,7 +74,7 @@
         "authors": "Joel Jonasson, Brenden Lech, Sasha Azad and Chris Martens",
         "bibtex": "@inproceedings{jonasson2021intertwining,\n title={Intertwining World and Narrative Generation for a Mobile Roleplaying Game},\nauthor={Joel Jonasson and Brenden Lech and Sasha Azad and Chris Martens},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://ceur-ws.org/Vol-3217/paper2.pdf",
-        "local_file": "papers/Intertwining World and Narrative Generation for a Mobile Roleplaying Game.pdf",
+        "local_file": "papers/pre-2025/Intertwining World and Narrative Generation for a Mobile Roleplaying Game.pdf",
         "old_url": "archive/jonasson2021intertwining.pdf",
         "title": "Intertwining World and Narrative Generation for a Mobile Roleplaying Game",
         "year": "2021"
@@ -84,7 +84,7 @@
         "authors": "Ari Iramanesh and Max Kreminski",
         "bibtex": "@inproceedings{iramanesh2021agentcraft,\n title={AgentCraft: An Agent-Based Minecraft Settlement Generator},\nauthor={Ari Iramanesh and Max Kreminski},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://escholarship.org/content/qt83p272pq/qt83p272pq.pdf",
-        "local_file": "papers/AgentCraft: An Agent-Based Minecraft Settlement Generator.pdf",
+        "local_file": "papers/pre-2025/AgentCraft: An Agent-Based Minecraft Settlement Generator.pdf",
         "old_url": "archive/iramanesh2021agentcraft.pdf",
         "title": "AgentCraft: An Agent-Based Minecraft Settlement Generator",
         "year": "2021"
@@ -94,7 +94,7 @@
         "authors": "Javier M. Torres",
         "bibtex": "@inproceedings{torres2021manipulation,\n title={An Agent Framework for Manipulation Games},\nauthor={Javier M. Torres},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://exag.org/archive/torres2021manipulation.pdf",
-        "local_file": "papers/An Agent Framework for Manipulation Games.pdf",
+        "local_file": "papers/pre-2025/An Agent Framework for Manipulation Games.pdf",
         "old_url": "archive/torres2021manipulation.pdf",
         "title": "An Agent Framework for Manipulation Games",
         "year": "2021"
@@ -104,7 +104,7 @@
         "authors": "Rehaf AlJammaz, Yasheng She and Michael Mateas",
         "bibtex": "@inproceedings{aljammaz2021argument,\n title={Argument Box},\nauthor={Rehaf AlJammaz and Yasheng She and Michael Mateas},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://ceur-ws.org/Vol-3217/paper9.pdf",
-        "local_file": "papers/Argument Box.pdf",
+        "local_file": "papers/pre-2025/Argument Box.pdf",
         "old_url": "archive/aljammaz2021argument.pdf",
         "title": "Argument Box",
         "year": "2021"
@@ -114,7 +114,7 @@
         "authors": "Jichen Zhu and Magy Seif El-Nasr",
         "bibtex": "@inproceedings{zhu2021open,\n title={Open Player Modeling: Empowering Players through Data Transparency},\nauthor={Jichen Zhu and Magy Seif El-Nasr},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://arxiv.org/pdf/2110.05810",
-        "local_file": "papers/Open Player Modeling: Empowering Players through Data Transparency.pdf",
+        "local_file": "papers/pre-2025/Open Player Modeling: Empowering Players through Data Transparency.pdf",
         "old_url": "archive/zhu2021open.pdf",
         "title": "Open Player Modeling: Empowering Players through Data Transparency",
         "year": "2021"
@@ -124,7 +124,7 @@
         "authors": "Ben Samuel, Mike Treanor and Joshua McCoy",
         "bibtex": "@inproceedings{mccoy2021design,\n title={Design Considerations for Creating AI-based Gameplay},\nauthor={Ben Samuel and Mike Treanor and Joshua McCoy},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2021}}",
         "link": "https://ceur-ws.org/Vol-3217/paper10.pdf",
-        "local_file": "papers/Design Considerations for Creating AI-based Gameplay.pdf",
+        "local_file": "papers/pre-2025/Design Considerations for Creating AI-based Gameplay.pdf",
         "old_url": "archive/mccoy2021design.pdf",
         "title": "Design Considerations for Creating AI-based Gameplay",
         "year": "2021"
@@ -134,7 +134,7 @@
         "authors": "Gema Parreno Piqueras",
         "bibtex": "@inproceedings{parreno2020benchmarking,\n title={Benchmarking Imitation and Reinforcement Learning for NPC players in casual video games},\nauthor={Gema Parreno Piqueras},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "http://ceur-ws.org/Vol-2862/paper4.pdf",
-        "local_file": "papers/Benchmarking Imitation and Reinforcement Learning for NPC players in casual video games.pdf",
+        "local_file": "papers/pre-2025/Benchmarking Imitation and Reinforcement Learning for NPC players in casual video games.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper4.pdf",
         "title": "Benchmarking Imitation and Reinforcement Learning for NPC players in casual video games",
         "year": "2020"
@@ -144,7 +144,7 @@
         "authors": "Daniel Darabos, Gyorgy Lajtai and Andras Nemeth",
         "bibtex": "@inproceedings{darabos2020visual,\n title={Tokamak Elementary: Visual Novel Meets Natural Language Understanding},\nauthor={Daniel Darabos and Gyorgy Lajtai and Andras Nemeth},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://ceur-ws.org/Vol-2862/paper1.pdf",
-        "local_file": "papers/Tokamak Elementary: Visual Novel Meets Natural Language Understanding.pdf",
+        "local_file": "papers/pre-2025/Tokamak Elementary: Visual Novel Meets Natural Language Understanding.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper1.pdf",
         "title": "Tokamak Elementary: Visual Novel Meets Natural Language Understanding",
         "year": "2020"
@@ -154,7 +154,7 @@
         "authors": "Raluca D. Gaina, Martin Balla, Alexander Dockhorn, Raul Montoliu, and Diego Perez-Liebana",
         "bibtex": "@inproceedings{gaina2020tabletop,\n title={TAG: A Tabletop Games Framework},\nauthor={Raluca D. Gaina and Martin Balla and Alexander Dockhorn and Raul Montoliu and and Diego Perez-Liebana},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://repositori.uji.es/xmlui/bitstream/handle/10234/196729/gaina_2020_tag.pdf?sequence=1&isAllowed=y",
-        "local_file": "papers/TAG: A Tabletop Games Framework.pdf",
+        "local_file": "papers/pre-2025/TAG: A Tabletop Games Framework.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper9.pdf",
         "title": "TAG: A Tabletop Games Framework",
         "year": "2020"
@@ -164,7 +164,7 @@
         "authors": "Vivian Lee, Nathan Partlan and Seth Cooper",
         "bibtex": "@inproceedings{lee2020movement,\n title={Precomputing Player Movement in Platformers for Level Generation with Reachability Constraints},\nauthor={Vivian Lee and Nathan Partlan and Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "http://ceur-ws.org/Vol-2862/paper13.pdf",
-        "local_file": "papers/Precomputing Player Movement in Platformers for Level Generation with Reachability Constraints.pdf",
+        "local_file": "papers/pre-2025/Precomputing Player Movement in Platformers for Level Generation with Reachability Constraints.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper13.pdf",
         "title": "Precomputing Player Movement in Platformers for Level Generation with Reachability Constraints",
         "year": "2020"
@@ -174,7 +174,7 @@
         "authors": "Anurag Sarkar, Zhihan Yang and Seth Cooper",
         "bibtex": "@inproceedings{sarkar2020generation,\n title={Conditional Level Generation and Game Blending},\nauthor={Anurag Sarkar and Zhihan Yang and Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://arxiv.org/pdf/2010.07735",
-        "local_file": "papers/Conditional Level Generation and Game Blending.pdf",
+        "local_file": "papers/pre-2025/Conditional Level Generation and Game Blending.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper16.pdf",
         "title": "Conditional Level Generation and Game Blending",
         "year": "2020"
@@ -184,7 +184,7 @@
         "authors": "Adam Summerville, Anurag Sarkar, Sam Snodgrass and Joseph Osborn",
         "bibtex": "@inproceedings{summervill2020physics,\n title={Extracting Physics from Blended Platformer Game Levels},\nauthor={Adam Summerville and Anurag Sarkar and Sam Snodgrass and Joseph Osborn},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://ceur-ws.org/Vol-2862/paper11.pdf",
-        "local_file": "papers/Extracting Physics from Blended Platformer Game Levels.pdf",
+        "local_file": "papers/pre-2025/Extracting Physics from Blended Platformer Game Levels.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper11.pdf",
         "title": "Extracting Physics from Blended Platformer Game Levels",
         "year": "2020"
@@ -194,7 +194,7 @@
         "authors": "Batu Aytemiz and Adam M. Smith",
         "bibtex": "@inproceedings{aytemiz2020smes,\n title={SMES: Adapting Dexterity-based Games for Deliberative Play},\nauthor={Batu Aytemiz and Adam M. Smith},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "http://ceur-ws.org/Vol-2862/paper2.pdf",
-        "local_file": "papers/SMES: Adapting Dexterity-based Games for Deliberative Play.pdf",
+        "local_file": "papers/pre-2025/SMES: Adapting Dexterity-based Games for Deliberative Play.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper2.pdf",
         "title": "SMES: Adapting Dexterity-based Games for Deliberative Play",
         "year": "2020"
@@ -204,7 +204,7 @@
         "authors": "Faraz Khadivpour and Matthew Guzdial",
         "bibtex": "@inproceedings{khadivpour2020responsibility,\n title={Explainability via Responsibility},\nauthor={Faraz Khadivpour and Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://arxiv.org/pdf/2010.01676",
-        "local_file": "papers/Explainability via Responsibility.pdf",
+        "local_file": "papers/pre-2025/Explainability via Responsibility.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper7.pdf",
         "title": "Explainability via Responsibility",
         "year": "2020"
@@ -214,7 +214,7 @@
         "authors": "Seth Cooper and Anurag Sarkar",
         "bibtex": "@inproceedings{cooper2020pathfinding,\n title={Pathfinding Agents for Platformer Level Repair},\nauthor={Seth Cooper and Anurag Sarkar},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "http://ceur-ws.org/Vol-2862/paper6.pdf",
-        "local_file": "papers/Pathfinding Agents for Platformer Level Repair.pdf",
+        "local_file": "papers/pre-2025/Pathfinding Agents for Platformer Level Repair.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper6.pdf",
         "title": "Pathfinding Agents for Platformer Level Repair",
         "year": "2020"
@@ -224,7 +224,7 @@
         "authors": "Varun Prakash Bhat and Gillian Smith",
         "bibtex": "@inproceedings{prakash2020abridging,\n title={Towards Automatically Abridging Game Levels},\nauthor={Varun Prakash Bhat and Gillian Smith},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://ceur-ws.org/Vol-2862/paper14.pdf",
-        "local_file": "papers/Towards Automatically Abridging Game Levels.pdf",
+        "local_file": "papers/pre-2025/Towards Automatically Abridging Game Levels.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper14.pdf",
         "title": "Towards Automatically Abridging Game Levels",
         "year": "2020"
@@ -234,7 +234,7 @@
         "authors": "Nazanin Yousefzadeh Khameneh and Matthew Guzdial",
         "bibtex": "@inproceedings{khameneh2020embedding,\n title={Entity Embedding as Game Representation},\nauthor={Nazanin Yousefzadeh Khameneh and Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://arxiv.org/pdf/2010.01685",
-        "local_file": "papers/Entity Embedding as Game Representation.pdf",
+        "local_file": "papers/pre-2025/Entity Embedding as Game Representation.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper15.pdf",
         "title": "Entity Embedding as Game Representation",
         "year": "2020"
@@ -244,7 +244,7 @@
         "authors": "Adrian Gonzalez, Matthew Guzdial and Felix Ramos",
         "bibtex": "@inproceedings{gonzalez2020relevant,\n title={Generating Gameplay-Relevant Art Assets with Transfer Learning},\nauthor={Adrian Gonzalez and Matthew Guzdial and Felix Ramos},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://arxiv.org/pdf/2010.01681",
-        "local_file": "papers/Generating Gameplay-Relevant Art Assets with Transfer Learning.pdf",
+        "local_file": "papers/pre-2025/Generating Gameplay-Relevant Art Assets with Transfer Learning.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper10.pdf",
         "title": "Generating Gameplay-Relevant Art Assets with Transfer Learning",
         "year": "2020"
@@ -254,7 +254,7 @@
         "authors": "Chanha Kim, Jaden Kim and Joseph C. Osborn",
         "bibtex": "@inproceedings{kim2020screenshots,\n title={Synthesizing Retro Game Screenshot Datasets for Sprite Detection},\nauthor={Chanha Kim and Jaden Kim and Joseph C. Osborn},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "http://ceur-ws.org/Vol-2862/paper8.pdf",
-        "local_file": "papers/Synthesizing Retro Game Screenshot Datasets for Sprite Detection.pdf",
+        "local_file": "papers/pre-2025/Synthesizing Retro Game Screenshot Datasets for Sprite Detection.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper8.pdf",
         "title": "Synthesizing Retro Game Screenshot Datasets for Sprite Detection",
         "year": "2020"
@@ -264,7 +264,7 @@
         "authors": "Ian Horswill",
         "bibtex": "@inproceedings{horswill2020classical,\n title={Generative Text using Classical Nondeterminism},\nauthor={Ian Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "https://ceur-ws.org/Vol-2862/paper3.pdf",
-        "local_file": "papers/Generative Text using Classical Nondeterminism.pdf",
+        "local_file": "papers/pre-2025/Generative Text using Classical Nondeterminism.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper3.pdf",
         "title": "Generative Text using Classical Nondeterminism",
         "year": "2020"
@@ -274,7 +274,7 @@
         "authors": "Jason Grinblat and C. Brian Bucklew",
         "bibtex": "@inproceedings{grinblat2020warm,\n title={Warm Rocks for Cold Lizards: Generating Meaningful Quests in Caves of Qud},\nauthor={Jason Grinblat and C. Brian Bucklew},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "http://ceur-ws.org/Vol-2862/paper5.pdf",
-        "local_file": "papers/Warm Rocks for Cold Lizards: Generating Meaningful Quests in Caves of Qud.pdf",
+        "local_file": "papers/pre-2025/Warm Rocks for Cold Lizards: Generating Meaningful Quests in Caves of Qud.pdf",
         "old_url": "http://ceur-ws.org/Vol-2862/paper5.pdf",
         "title": "Warm Rocks for Cold Lizards: Generating Meaningful Quests in Caves of Qud",
         "year": "2020"
@@ -284,7 +284,7 @@
         "authors": "Jorge Morales Diaz, Clark Verbrugge",
         "bibtex": "@inproceedings{diaz2019takedown,\n title={Solving the Take-Down and Body-Hiding Problems},\nauthor={Jorge Morales Diaz and Clark Verbrugge},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://escholarship.mcgill.ca/downloads/9c67ws147",
-        "local_file": "papers/Solving the Take-Down and Body-Hiding Problems.pdf",
+        "local_file": "papers/pre-2025/Solving the Take-Down and Body-Hiding Problems.pdf",
         "old_url": "archive/diaz2019takedown.pdf",
         "title": "Solving the Take-Down and Body-Hiding Problems",
         "year": "2019"
@@ -294,7 +294,7 @@
         "authors": "Alessandro Sestini, Alexander Kuhnle, Andrew D. Bagdanov",
         "bibtex": "@inproceedings{sestini2019deepcrawl,\n title={DeepCrawl: Deep Reinforcement Learning for Turn-based Strategy Games},\nauthor={Alessandro Sestini and Alexander Kuhnle and Andrew D. Bagdanov},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://arxiv.org/pdf/2012.01914",
-        "local_file": "papers/DeepCrawl: Deep Reinforcement Learning for Turn-based Strategy Games.pdf",
+        "local_file": "papers/pre-2025/DeepCrawl: Deep Reinforcement Learning for Turn-based Strategy Games.pdf",
         "old_url": "archive/sestini2019deepcrawl.pdf",
         "title": "DeepCrawl: Deep Reinforcement Learning for Turn-based Strategy Games",
         "year": "2019"
@@ -304,7 +304,7 @@
         "authors": "Alireza Shirvani, Stephen G. Ware",
         "bibtex": "@inproceedings{shirvani2019motivating,\n title={On Automatically Motivating Story Characters},\nauthor={Alireza Shirvani and Stephen G. Ware},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exag.org/archive/shirvani2019motivating.pdf",
-        "local_file": "papers/On Automatically Motivating Story Characters.pdf",
+        "local_file": "papers/pre-2025/On Automatically Motivating Story Characters.pdf",
         "old_url": "archive/shirvani2019motivating.pdf",
         "title": "On Automatically Motivating Story Characters",
         "year": "2019"
@@ -314,7 +314,7 @@
         "authors": "Asiiah Song",
         "bibtex": "@inproceedings{song2019tarot,\n title={Generative Tarot: Internet-Mining for the Collective Consciousness},\nauthor={Asiiah Song},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exag.org/archive/song2019tarot.pdf",
-        "local_file": "papers/Generative Tarot: Internet-Mining for the Collective Consciousness.pdf",
+        "local_file": "papers/pre-2025/Generative Tarot: Internet-Mining for the Collective Consciousness.pdf",
         "old_url": "archive/song2019tarot.pdf",
         "title": "Generative Tarot: Internet-Mining for the Collective Consciousness",
         "year": "2019"
@@ -324,7 +324,7 @@
         "authors": "Shukan Shah, Matthew Guzdial, Mark O. Riedl",
         "bibtex": "@inproceedings{shah2019letsplay,\n title={Automated Let's Play Commentary},\nauthor={Shukan Shah and Matthew Guzdial and Mark O. Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://arxiv.org/pdf/1909.02195",
-        "local_file": "papers/Automated Let's Play Commentary.pdf",
+        "local_file": "papers/pre-2025/Automated Let's Play Commentary.pdf",
         "old_url": "archive/shah2019letsplay.pdf",
         "title": "Automated Let's Play Commentary",
         "year": "2019"
@@ -334,7 +334,7 @@
         "authors": "Jacopo Ameli, David Thue",
         "bibtex": "@inproceedings{ameli2019mechanics,\n title={Visualizing Game Mechanics with Automated Clustering},\nauthor={Jacopo Ameli and David Thue},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exagworkshop.institutedigitalgames.com/archive/ameli2019mechanics.pdf",
-        "local_file": "papers/Visualizing Game Mechanics with Automated Clustering.pdf",
+        "local_file": "papers/pre-2025/Visualizing Game Mechanics with Automated Clustering.pdf",
         "old_url": "archive/ameli2019mechanics.pdf",
         "title": "Visualizing Game Mechanics with Automated Clustering",
         "year": "2019"
@@ -344,7 +344,7 @@
         "authors": "Pablo Sauma Chacon, Markus Eger",
         "bibtex": "@inproceedings{chacon2019pandemic,\n title={Pandemic as a Challenge for Human-AI Cooperation},\nauthor={Pablo Sauma Chacon and Markus Eger},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exag.org/archive/chacon2019pandemic.pdf",
-        "local_file": "papers/Pandemic as a Challenge for Human-AI Cooperation.pdf",
+        "local_file": "papers/pre-2025/Pandemic as a Challenge for Human-AI Cooperation.pdf",
         "old_url": "archive/chacon2019pandemic.pdf",
         "title": "Pandemic as a Challenge for Human-AI Cooperation",
         "year": "2019"
@@ -354,7 +354,7 @@
         "authors": "Liz Fiacco",
         "bibtex": "@inproceedings{fiacco2019lab,\n title={Development of Lab Assistant: Use of Neural Networks in Video Games for Human-AI Partnership},\nauthor={Liz Fiacco},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://scholar.archive.org/work/b6vyb7fkmfgubd2q4mwaic5vze/access/wayback/https://dl.acm.org/doi/pdf/10.1145/3542698",
-        "local_file": "papers/Development of Lab Assistant: Use of Neural Networks in Video Games for Human-AI Partnership.pdf",
+        "local_file": "papers/pre-2025/Development of Lab Assistant: Use of Neural Networks in Video Games for Human-AI Partnership.pdf",
         "old_url": "archive/fiacco2019lab.pdf",
         "title": "Development of Lab Assistant: Use of Neural Networks in Video Games for Human-AI Partnership",
         "year": "2019"
@@ -364,7 +364,7 @@
         "authors": "Justin Mott, Saujas Nandi, Luke Zeller",
         "bibtex": "@inproceedings{nandi2019pronged,\n title={Controllable and Coherent Level Generation: A Two-Pronged Approach},\nauthor={Justin Mott and Saujas Nandi and Luke Zeller},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exag.org/archive/nandi2019pronged.pdf",
-        "local_file": "papers/Controllable and Coherent Level Generation: A Two-Pronged Approach.pdf",
+        "local_file": "papers/pre-2025/Controllable and Coherent Level Generation: A Two-Pronged Approach.pdf",
         "old_url": "archive/nandi2019pronged.pdf",
         "title": "Controllable and Coherent Level Generation: A Two-Pronged Approach",
         "year": "2019"
@@ -374,7 +374,7 @@
         "authors": "Andrew Hoyt, Matthew Guzdial, Yalini Kumar, Gillian Smith, Mark O. Riedl",
         "bibtex": "@inproceedings{hoyt2019play,\n title={Integrating Automated Play in Level Co-Creation},\nauthor={Andrew Hoyt and Matthew Guzdial and Yalini Kumar and Gillian Smith and Mark O. Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://arxiv.org/pdf/1911.09219",
-        "local_file": "papers/Integrating Automated Play in Level Co-Creation.pdf",
+        "local_file": "papers/pre-2025/Integrating Automated Play in Level Co-Creation.pdf",
         "old_url": "archive/hoyt2019play.pdf",
         "title": "Integrating Automated Play in Level Co-Creation",
         "year": "2019"
@@ -384,7 +384,7 @@
         "authors": "Anurag Sarkar, Zhihan Yang, Seth Cooper",
         "bibtex": "@inproceedings{sarkar2019variational,\n title={Controllable Level Blending between Games using Variational Autoencoders},\nauthor={Anurag Sarkar and Zhihan Yang and Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://arxiv.org/pdf/2002.11869",
-        "local_file": "papers/Controllable Level Blending between Games using Variational Autoencoders.pdf",
+        "local_file": "papers/pre-2025/Controllable Level Blending between Games using Variational Autoencoders.pdf",
         "old_url": "archive/sarkar2019variational.pdf",
         "title": "Controllable Level Blending between Games using Variational Autoencoders",
         "year": "2019"
@@ -394,7 +394,7 @@
         "authors": "Swar Gujrania, Duri Long, Brian Magerko",
         "bibtex": "@inproceedings{gujrania2019procedural,\n title={Moving in Virtual Space: A Laban-inspired Framework for Procedural Animation},\nauthor={Swar Gujrania and Duri Long and Brian Magerko},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exag.org/archive/gujrania2019procedural.pdf",
-        "local_file": "papers/Moving in Virtual Space: A Laban-inspired Framework for Procedural Animation.pdf",
+        "local_file": "papers/pre-2025/Moving in Virtual Space: A Laban-inspired Framework for Procedural Animation.pdf",
         "old_url": "archive/gujrania2019procedural.pdf",
         "title": "Moving in Virtual Space: A Laban-inspired Framework for Procedural Animation",
         "year": "2019"
@@ -404,7 +404,7 @@
         "authors": "Ian Horswill",
         "bibtex": "@inproceedings{horswill2019tool,\n title={Imaginarium: A Tool for Casual Constraint-Based PCG},\nauthor={Ian Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exag.org/archive/horswill2019tool.pdf",
-        "local_file": "papers/Imaginarium: A Tool for Casual Constraint-Based PCG.pdf",
+        "local_file": "papers/pre-2025/Imaginarium: A Tool for Casual Constraint-Based PCG.pdf",
         "old_url": "archive/horswill2019tool.pdf",
         "title": "Imaginarium: A Tool for Casual Constraint-Based PCG",
         "year": "2019"
@@ -414,7 +414,7 @@
         "authors": "Sam Earle",
         "bibtex": "@inproceedings{earle2019neural,\n title={Using Fractal Neural Networks to play SimCity 1 and Conway's Game of Life at Variable Scales},\nauthor={Sam Earle},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://arxiv.org/pdf/2002.03896",
-        "local_file": "papers/Using Fractal Neural Networks to play SimCity 1 and Conway's Game of Life at Variable Scales.pdf",
+        "local_file": "papers/pre-2025/Using Fractal Neural Networks to play SimCity 1 and Conway's Game of Life at Variable Scales.pdf",
         "old_url": "archive/earle2019neural.pdf",
         "title": "Using Fractal Neural Networks to play SimCity 1 and Conway's Game of Life at Variable Scales",
         "year": "2019"
@@ -424,7 +424,7 @@
         "authors": "Andrew Wood, Adam Summerville",
         "bibtex": "@inproceedings{wood2019battles,\n title={Understanding Boss Battles: A Case Study of Cuphead},\nauthor={Andrew Wood and Adam Summerville},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exag.org/archive/wood2019battles.pdf",
-        "local_file": "papers/Understanding Boss Battles: A Case Study of Cuphead.pdf",
+        "local_file": "papers/pre-2025/Understanding Boss Battles: A Case Study of Cuphead.pdf",
         "old_url": "archive/wood2019battles.pdf",
         "title": "Understanding Boss Battles: A Case Study of Cuphead",
         "year": "2019"
@@ -434,7 +434,7 @@
         "authors": "Gerard R. Bentley, Joseph C. Osborn",
         "bibtex": "@inproceedings{bentley2019affordances,\n title={The Videogame Affordances Corpus},\nauthor={Gerard R. Bentley and Joseph C. Osborn},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://exagworkshop.institutedigitalgames.com/archive/bentley2019affordances.pdf",
-        "local_file": "papers/The Videogame Affordances Corpus.pdf",
+        "local_file": "papers/pre-2025/The Videogame Affordances Corpus.pdf",
         "old_url": "archive/bentley2019affordances.pdf",
         "title": "The Videogame Affordances Corpus",
         "year": "2019"
@@ -444,7 +444,7 @@
         "authors": "Giulio Mori, David Thue, Stephan Schiffel",
         "bibtex": "@inproceedings{mori2019management,\n title={A Structured Analysis of Experience Management Techniques},\nauthor={Giulio Mori and David Thue and Stephan Schiffel},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/5241/5097/",
-        "local_file": "papers/A Structured Analysis of Experience Management Techniques.pdf",
+        "local_file": "papers/pre-2025/A Structured Analysis of Experience Management Techniques.pdf",
         "old_url": "archive/mori2019management.pdf",
         "title": "A Structured Analysis of Experience Management Techniques",
         "year": "2019"
@@ -454,7 +454,7 @@
         "authors": "Adeel Zafar, Hasan Mujtaba, Mirza Omer Beg, Sajid Ali",
         "bibtex": "@inproceedings{zafar2018deceptive,\n title={Deceptive Level Generator},\nauthor={Adeel Zafar and Hasan Mujtaba and Mirza Omer Beg and Sajid Ali},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://ceur-ws.org/Vol-2282/EXAG_105.pdf",
-        "local_file": "papers/Deceptive Level Generator.pdf",
+        "local_file": "papers/pre-2025/Deceptive Level Generator.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_105.pdf",
         "title": "Deceptive Level Generator",
         "year": "2018"
@@ -464,7 +464,7 @@
         "authors": "Rosa Corstjens, Anders Bouwer, Joris Dormans, Riemer van Rozen",
         "bibtex": "@inproceedings{corstjens2018wonderful,\n title={Wonderful Design: Applying Appraisal Theory to Procedural Level Generation},\nauthor={Rosa Corstjens and Anders Bouwer and Joris Dormans and Riemer van Rozen},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://ir.cwi.nl/pub/28418/28418.pdf",
-        "local_file": "papers/Wonderful Design: Applying Appraisal Theory to Procedural Level Generation.pdf",
+        "local_file": "papers/pre-2025/Wonderful Design: Applying Appraisal Theory to Procedural Level Generation.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_106.pdf",
         "title": "Wonderful Design: Applying Appraisal Theory to Procedural Level Generation",
         "year": "2018"
@@ -474,7 +474,7 @@
         "authors": "Matthew Guzdial, Joshua Reno, Jonathan Chen, Gillian Smith, Mark Riedl",
         "bibtex": "@inproceedings{guzdial2018explainable,\n title={Explainable PCGML via Game Design Patterns},\nauthor={Matthew Guzdial and Joshua Reno and Jonathan Chen and Gillian Smith and Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://arxiv.org/pdf/1809.09419",
-        "local_file": "papers/Explainable PCGML via Game Design Patterns.pdf",
+        "local_file": "papers/pre-2025/Explainable PCGML via Game Design Patterns.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_107.pdf",
         "title": "Explainable PCGML via Game Design Patterns",
         "year": "2018"
@@ -484,7 +484,7 @@
         "authors": "Zhiyu Lin, Kyle Xiao Mark Riedl",
         "bibtex": "@inproceedings{lin2018generationmania,\n title={GenerationMania: Learning to Semantically Choreograph},\nauthor={Zhiyu Lin and Kyle Xiao Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/5224/5080/",
-        "local_file": "papers/GenerationMania: Learning to Semantically Choreograph.pdf",
+        "local_file": "papers/pre-2025/GenerationMania: Learning to Semantically Choreograph.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_111.pdf",
         "title": "GenerationMania: Learning to Semantically Choreograph",
         "year": "2018"
@@ -494,7 +494,7 @@
         "authors": "Eva Tallula Gottwald, Markus Eger Chris Martens",
         "bibtex": "@inproceedings{gottwald2018tracking,\n title={I See What You See: Integrating Eye Tracking into Hanabi Playing Agents},\nauthor={Eva Tallula Gottwald and Markus Eger Chris Martens},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://ceur-ws.org/Vol-2282/EXAG_112.pdf",
-        "local_file": "papers/I See What You See: Integrating Eye Tracking into Hanabi Playing Agents.pdf",
+        "local_file": "papers/pre-2025/I See What You See: Integrating Eye Tracking into Hanabi Playing Agents.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_114.pdf",
         "title": "I See What You See: Integrating Eye Tracking into Hanabi Playing Agents",
         "year": "2018"
@@ -504,7 +504,7 @@
         "authors": "Henry Mohr, Markus Eger, Chris Martens",
         "bibtex": "@inproceedings{mohr2018eliminating,\n title={Eliminating the Impossible: A Procedurally Generated Murder Mystery},\nauthor={Henry Mohr and Markus Eger and Chris Martens},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "http://ceur-ws.org/Vol-2282/EXAG_113.pdf",
-        "local_file": "papers/Eliminating the Impossible: A Procedurally Generated Murder Mystery.pdf",
+        "local_file": "papers/pre-2025/Eliminating the Impossible: A Procedurally Generated Murder Mystery.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_113.pdf",
         "title": "Eliminating the Impossible: A Procedurally Generated Murder Mystery",
         "year": "2018"
@@ -514,7 +514,7 @@
         "authors": "Sergio Poo Hernandez, Vadim Bulitko, Shelby Carleton, Astrid Ensslin, Tejasvi Goorimoorthee",
         "bibtex": "@inproceedings{hernandez2018accents,\n title={Deep Learning for Classification of Speech Accents in Video Games},\nauthor={Sergio Poo Hernandez and Vadim Bulitko and Shelby Carleton and Astrid Ensslin and Tejasvi Goorimoorthee},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "http://ceur-ws.org/Vol-2282/EXAG_114.pdf",
-        "local_file": "papers/Deep Learning for Classification of Speech Accents in Video Games.pdf",
+        "local_file": "papers/pre-2025/Deep Learning for Classification of Speech Accents in Video Games.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_114.pdf",
         "title": "Deep Learning for Classification of Speech Accents in Video Games",
         "year": "2018"
@@ -524,7 +524,7 @@
         "authors": "Jo Mazeika, Jim Whitehead",
         "bibtex": "@inproceedings{mazeika2018style,\n title={Towards 3D Neural Style Transfer},\nauthor={Jo Mazeika and Jim Whitehead},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "http://ceur-ws.org/Vol-2282/EXAG_115.pdf",
-        "local_file": "papers/Towards 3D Neural Style Transfer.pdf",
+        "local_file": "papers/pre-2025/Towards 3D Neural Style Transfer.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_115.pdf",
         "title": "Towards 3D Neural Style Transfer",
         "year": "2018"
@@ -534,7 +534,7 @@
         "authors": "Vadim Bulitko, Mac Walters, Matthew R. Brown",
         "bibtex": "@inproceedings{bulitko2018alife,\n title={Evolving NPC Behaviours in A-life with Player Proxies},\nauthor={Vadim Bulitko and Mac Walters and Matthew R. Brown},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://ceur-ws.org/Vol-2282/EXAG_116.pdf",
-        "local_file": "papers/Evolving NPC Behaviours in A-life with Player Proxies.pdf",
+        "local_file": "papers/pre-2025/Evolving NPC Behaviours in A-life with Player Proxies.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_116.pdf",
         "title": "Evolving NPC Behaviours in A-life with Player Proxies",
         "year": "2018"
@@ -544,7 +544,7 @@
         "authors": "Anurag Sarkar, Riddhi Padte, Jeffrey Cao, Seth Cooper",
         "bibtex": "@inproceedings{sarkar2018desire,\n title={Desire Path-Inspired Procedural Placement of Coins in a Platformer Game},\nauthor={Anurag Sarkar and Riddhi Padte and Jeffrey Cao and Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://riffsircar.github.io/assets/pdfs/sarkar2018desire.pdf",
-        "local_file": "papers/Desire Path-Inspired Procedural Placement of Coins in a Platformer Game.pdf",
+        "local_file": "papers/pre-2025/Desire Path-Inspired Procedural Placement of Coins in a Platformer Game.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_117.pdf",
         "title": "Desire Path-Inspired Procedural Placement of Coins in a Platformer Game",
         "year": "2018"
@@ -554,7 +554,7 @@
         "authors": "Ian Horswill, Ethan Robison",
         "bibtex": "@inproceedings{horswill2018dread,\n title={What's the Worst Thing You've Ever Done at a Conference? Operationalizing Dread's Questionnaire Mechanic},\nauthor={Ian Horswill and Ethan Robison},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "http://ceur-ws.org/Vol-2282/EXAG_118.pdf",
-        "local_file": "papers/What's the Worst Thing You've Ever Done at a Conference? Operationalizing Dread's Questionnaire Mechanic.pdf",
+        "local_file": "papers/pre-2025/What's the Worst Thing You've Ever Done at a Conference? Operationalizing Dread's Questionnaire Mechanic.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_118.pdf",
         "title": "What's the Worst Thing You've Ever Done at a Conference? Operationalizing Dread's Questionnaire Mechanic",
         "year": "2018"
@@ -564,7 +564,7 @@
         "authors": "Sam Snodgrass",
         "bibtex": "@inproceedings{snodgrass2018extraction,\n title={Towards Automatic Extraction of Tile Types from Level Images},\nauthor={Sam Snodgrass},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "http://ceur-ws.org/Vol-2282/EXAG_119.pdf",
-        "local_file": "papers/Towards Automatic Extraction of Tile Types from Level Images.pdf",
+        "local_file": "papers/pre-2025/Towards Automatic Extraction of Tile Types from Level Images.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_119.pdf",
         "title": "Towards Automatic Extraction of Tile Types from Level Images",
         "year": "2018"
@@ -574,7 +574,7 @@
         "authors": "Matthew Guzdial, Shukan Shah, Mark Riedl",
         "bibtex": "@inproceedings{guzdial2018letsplay,\n title={Towards Automated Let's Play Commentary},\nauthor={Matthew Guzdial and Shukan Shah and Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://arxiv.org/pdf/1809.09424",
-        "local_file": "papers/Towards Automated Let's Play Commentary.pdf",
+        "local_file": "papers/pre-2025/Towards Automated Let's Play Commentary.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_120.pdf",
         "title": "Towards Automated Let's Play Commentary",
         "year": "2018"
@@ -594,7 +594,7 @@
         "authors": "Upol Ehsan, Pradyumna Tambwekar, Larry Chan, Brent Harrison, Mark O. Riedl",
         "bibtex": "@inproceedings{ehsan2018rationales,\n title={Learning to Generate Natural Language Rationales for Game Playing Agents},\nauthor={Upol Ehsan and Pradyumna Tambwekar and Larry Chan and Brent Harrison and Mark O. Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://uknowledge.uky.edu/cgi/viewcontent.cgi?article=1017&context=cs_facpub",
-        "local_file": "papers/Learning to Generate Natural Language Rationales for Game Playing Agents.pdf",
+        "local_file": "papers/pre-2025/Learning to Generate Natural Language Rationales for Game Playing Agents.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_122.pdf",
         "title": "Learning to Generate Natural Language Rationales for Game Playing Agents",
         "year": "2018"
@@ -604,7 +604,7 @@
         "authors": "Sasha Azad, Chris Martens",
         "bibtex": "@inproceedings{azad2018opinionated,\n title={Addressing the Elephant in the Room: Opinionated Virtual Characters},\nauthor={Sasha Azad and Chris Martens},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://www.researchgate.net/profile/Sasha-Azad/publication/331024627_Addressing_the_Elephant_in_the_Room_Opinionated_Virtual_Characters/links/5c61da7da6fdccb608bba207/Addressing-the-Elephant-in-the-Room-Opinionated-Virtual-Characters.pdf",
-        "local_file": "papers/Addressing the Elephant in the Room: Opinionated Virtual Characters.pdf",
+        "local_file": "papers/pre-2025/Addressing the Elephant in the Room: Opinionated Virtual Characters.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_123.pdf",
         "title": "Addressing the Elephant in the Room: Opinionated Virtual Characters",
         "year": "2018"
@@ -614,7 +614,7 @@
         "authors": "Kate Compton, Michael Mateas",
         "bibtex": "@inproceedings{compton2018freedom,\n title={Freedom of Movement: Generative Responses to Motion Control},\nauthor={Kate Compton and Michael Mateas},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://ceur-ws.org/Vol-2282/EXAG_124.pdf",
-        "local_file": "papers/Freedom of Movement: Generative Responses to Motion Control.pdf",
+        "local_file": "papers/pre-2025/Freedom of Movement: Generative Responses to Motion Control.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_124.pdf",
         "title": "Freedom of Movement: Generative Responses to Motion Control",
         "year": "2018"
@@ -624,7 +624,7 @@
         "authors": "Anurag Sarkar, Seth Cooper",
         "bibtex": "@inproceedings{sarkar2018blending,\n title={Blending Levels from Different Games using LSTMs},\nauthor={Anurag Sarkar and Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://riffsircar.github.io/assets/pdfs/sarkar2018blending.pdf",
-        "local_file": "papers/Blending Levels from Different Games using LSTMs.pdf",
+        "local_file": "papers/pre-2025/Blending Levels from Different Games using LSTMs.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_125.pdf",
         "title": "Blending Levels from Different Games using LSTMs",
         "year": "2018"
@@ -634,7 +634,7 @@
         "authors": "Matthew Guzdial, Nicholas Liao, Mark Riedl",
         "bibtex": "@inproceedings{guzdial2018cocreative,\n title={Co-Creative Level Design via Machine Learning},\nauthor={Matthew Guzdial and Nicholas Liao and Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2018}}",
         "link": "https://arxiv.org/pdf/1809.09420",
-        "local_file": "papers/Co-Creative Level Design via Machine Learning.pdf",
+        "local_file": "papers/pre-2025/Co-Creative Level Design via Machine Learning.pdf",
         "old_url": "http://ceur-ws.org/Vol-2282/EXAG_126.pdf",
         "title": "Co-Creative Level Design via Machine Learning",
         "year": "2018"
@@ -644,7 +644,7 @@
         "authors": "Tarn Adams",
         "bibtex": "@inproceedings{adams2017secret,\n title={Secret Identities in Dwarf Fortress},\nauthor={Tarn Adams},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12963/12811",
-        "local_file": "papers/Secret Identities in Dwarf Fortress.pdf",
+        "local_file": "papers/pre-2025/Secret Identities in Dwarf Fortress.pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15822",
         "title": "Secret Identities in Dwarf Fortress",
         "year": "2017"
@@ -654,7 +654,7 @@
         "authors": "Vadim Bulitko",
         "bibtex": "@inproceedings{bulitko2017effects,\n title={Effects of Self-Knowledge: Once Bitten Twice Shy },\nauthor={Vadim Bulitko},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12969/12817",
-        "local_file": "papers/Effects of Self-Knowledge: Once Bitten Twice Shy .pdf",
+        "local_file": "papers/pre-2025/Effects of Self-Knowledge: Once Bitten Twice Shy .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15874",
         "title": "Effects of Self-Knowledge: Once Bitten Twice Shy ",
         "year": "2017"
@@ -664,7 +664,7 @@
         "authors": "Vadim Bulitko, Shelby Carleton, Delia Cormier, Devon Sigurdson, John Simpson",
         "bibtex": "@inproceedings{simpson2017surprising,\n title={Towards Positively Surprising Non-Player Characters in Video Games },\nauthor={Vadim Bulitko and Shelby Carleton and Delia Cormier and Devon Sigurdson and John Simpson},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12981/12829",
-        "local_file": "papers/Towards Positively Surprising Non-Player Characters in Video Games .pdf",
+        "local_file": "papers/pre-2025/Towards Positively Surprising Non-Player Characters in Video Games .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15912",
         "title": "Towards Positively Surprising Non-Player Characters in Video Games ",
         "year": "2017"
@@ -674,7 +674,7 @@
         "authors": "Kate Compton, Michael Mateas",
         "bibtex": "@inproceedings{compton2017generativity,\n title={A Generative Framework of Generativity },\nauthor={Kate Compton and Michael Mateas},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12974/12822",
-        "local_file": "papers/A Generative Framework of Generativity .pdf",
+        "local_file": "papers/pre-2025/A Generative Framework of Generativity .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15896",
         "title": "A Generative Framework of Generativity ",
         "year": "2017"
@@ -684,7 +684,7 @@
         "authors": "Kate Compton, Edward Melcer, Michael Mateas",
         "bibtex": "@inproceedings{compton2017generonimos,\n title={Generominos: Ideation Cards for Interactive Generativity },\nauthor={Kate Compton and Edward Melcer and Michael Mateas},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12975/12823",
-        "local_file": "papers/Generominos: Ideation Cards for Interactive Generativity .pdf",
+        "local_file": "papers/pre-2025/Generominos: Ideation Cards for Interactive Generativity .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15898",
         "title": "Generominos: Ideation Cards for Interactive Generativity ",
         "year": "2017"
@@ -694,7 +694,7 @@
         "authors": "Michael Cook",
         "bibtex": "@inproceedings{cook2017design,\n title={A Vision for Continuous Automated Game Design },\nauthor={Michael Cook},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12967/12815",
-        "local_file": "papers/A Vision for Continuous Automated Game Design .pdf",
+        "local_file": "papers/pre-2025/A Vision for Continuous Automated Game Design .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15850",
         "title": "A Vision for Continuous Automated Game Design ",
         "year": "2017"
@@ -704,7 +704,7 @@
         "authors": "Melanie Leah Dickinson, Noah Wardrip-Fruin, Michael Mateas",
         "bibtex": "@inproceedings{dickinson2017social,\n title={Social Simulation for Social Justice },\nauthor={Melanie Leah Dickinson and Noah Wardrip-Fruin and Michael Mateas},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12982/12830",
-        "local_file": "papers/Social Simulation for Social Justice .pdf",
+        "local_file": "papers/pre-2025/Social Simulation for Social Justice .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15917",
         "title": "Social Simulation for Social Justice ",
         "year": "2017"
@@ -714,7 +714,7 @@
         "authors": "Astrid Ensslin, Tejasvi Goorimoorthee, Shelby Carleton, Vadim Bulitko, Sergio Poo Hernandez",
         "bibtex": "@inproceedings{ensslin2017deep,\n title={Deep Learning for Speech Accent Detection in Videogames },\nauthor={Astrid Ensslin and Tejasvi Goorimoorthee and Shelby Carleton and Vadim Bulitko and Sergio Poo Hernandez},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12968/12816",
-        "local_file": "papers/Deep Learning for Speech Accent Detection in Videogames .pdf",
+        "local_file": "papers/pre-2025/Deep Learning for Speech Accent Detection in Videogames .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15861",
         "title": "Deep Learning for Speech Accent Detection in Videogames ",
         "year": "2017"
@@ -724,7 +724,7 @@
         "authors": "Michael Cerny Green, Ahmed Khalifa, Gabriella A. B. Barros, Julian Togellius",
         "bibtex": "@inproceedings{green2017tutorial,\n title={Press Space to Fire: Automatic Video Game Tutorial Generation },\nauthor={Michael Cerny Green and Ahmed Khalifa and Gabriella A. B. Barros and Julian Togellius},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12977/12825",
-        "local_file": "papers/Press Space to Fire: Automatic Video Game Tutorial Generation .pdf",
+        "local_file": "papers/pre-2025/Press Space to Fire: Automatic Video Game Tutorial Generation .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15903",
         "title": "Press Space to Fire: Automatic Video Game Tutorial Generation ",
         "year": "2017"
@@ -734,7 +734,7 @@
         "authors": "Matthew James Guzdial, Jonathan Chen, Shao-Yu Chen, Mark Riedl",
         "bibtex": "@inproceedings{guzdial2017general,\n title={A General Level Design Editor for Co-Creative Level Design },\nauthor={Matthew James Guzdial and Jonathan Chen and Shao-Yu Chen and Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12980/12828",
-        "local_file": "papers/A General Level Design Editor for Co-Creative Level Design .pdf",
+        "local_file": "papers/pre-2025/A General Level Design Editor for Co-Creative Level Design .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15907",
         "title": "A General Level Design Editor for Co-Creative Level Design ",
         "year": "2017"
@@ -744,7 +744,7 @@
         "authors": "Ahmed Khalifa, Julian Togelius",
         "bibtex": "@inproceedings{khalifa2017marahel,\n title={Marahel: A Language for Constructive Level Generation },\nauthor={Ahmed Khalifa and Julian Togelius},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12970/12818",
-        "local_file": "papers/Marahel: A Language for Constructive Level Generation .pdf",
+        "local_file": "papers/pre-2025/Marahel: A Language for Constructive Level Generation .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15878",
         "title": "Marahel: A Language for Constructive Level Generation ",
         "year": "2017"
@@ -754,7 +754,7 @@
         "authors": "Joseph C. Osborn, Ben Samuel, Adam Summerville, Michael Mateas",
         "bibtex": "@inproceedings{osborn2017rpg,\n title={Towards General RPG Playing },\nauthor={Joseph C. Osborn and Ben Samuel and Adam Summerville and Michael Mateas},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12976/12824",
-        "local_file": "papers/Towards General RPG Playing .pdf",
+        "local_file": "papers/pre-2025/Towards General RPG Playing .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15899",
         "title": "Towards General RPG Playing ",
         "year": "2017"
@@ -764,7 +764,7 @@
         "authors": "Allison Parrish",
         "bibtex": "@inproceedings{parrish2017poetic,\n title={Poetic Sound Similarity Vectors Using Phonetic Features },\nauthor={Allison Parrish},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12971/12819",
-        "local_file": "papers/Poetic Sound Similarity Vectors Using Phonetic Features .pdf",
+        "local_file": "papers/pre-2025/Poetic Sound Similarity Vectors Using Phonetic Features .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15879",
         "title": "Poetic Sound Similarity Vectors Using Phonetic Features ",
         "year": "2017"
@@ -774,7 +774,7 @@
         "authors": "Ethan Christopher Robison",
         "bibtex": "@inproceedings{robison2017sandbox,\n title={A Sandbox for Modeling Social AI },\nauthor={Ethan Christopher Robison},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12979/12827",
-        "local_file": "papers/A Sandbox for Modeling Social AI .pdf",
+        "local_file": "papers/pre-2025/A Sandbox for Modeling Social AI .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15905",
         "title": "A Sandbox for Modeling Social AI ",
         "year": "2017"
@@ -784,7 +784,7 @@
         "authors": "Tanya X. Short",
         "bibtex": "@inproceedings{short2017personalities,\n title={Designing Stronger AI Personalities },\nauthor={Tanya X. Short},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12973/12821",
-        "local_file": "papers/Designing Stronger AI Personalities .pdf",
+        "local_file": "papers/pre-2025/Designing Stronger AI Personalities .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15889",
         "title": "Designing Stronger AI Personalities ",
         "year": "2017"
@@ -794,7 +794,7 @@
         "authors": "Adam M. Smith",
         "bibtex": "@inproceedings{smith2017proofdoku,\n title={Answer Set Programming in Proofdoku },\nauthor={Adam M. Smith},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12972/12820",
-        "local_file": "papers/Answer Set Programming in Proofdoku .pdf",
+        "local_file": "papers/pre-2025/Answer Set Programming in Proofdoku .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15885",
         "title": "Answer Set Programming in Proofdoku ",
         "year": "2017"
@@ -804,7 +804,7 @@
         "authors": "Sam Snodgrass, Santiago Ontanon",
         "bibtex": "@inproceedings{snodgrass2017generation,\n title={Leveraging Multi-Layer Level Representations for Puzzle-Platformer Level Generation },\nauthor={Sam Snodgrass and Santiago Ontanon},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12966/12814",
-        "local_file": "papers/Leveraging Multi-Layer Level Representations for Puzzle-Platformer Level Generation .pdf",
+        "local_file": "papers/pre-2025/Leveraging Multi-Layer Level Representations for Puzzle-Platformer Level Generation .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15846",
         "title": "Leveraging Multi-Layer Level Representations for Puzzle-Platformer Level Generation ",
         "year": "2017"
@@ -814,7 +814,7 @@
         "authors": "Brandon R. Thorne, Hiru Nelakkutti, Joseph Reinhart, Arnav Jhala",
         "bibtex": "@inproceedings{thorne2017procdefense,\n title={ProcDefense - A Game Framework for Procedural Player Skill Training },\nauthor={Brandon R. Thorne and Hiru Nelakkutti and Joseph Reinhart and Arnav Jhala},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12978/12826",
-        "local_file": "papers/ProcDefense - A Game Framework for Procedural Player Skill Training .pdf",
+        "local_file": "papers/pre-2025/ProcDefense - A Game Framework for Procedural Player Skill Training .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15904",
         "title": "ProcDefense - A Game Framework for Procedural Player Skill Training ",
         "year": "2017"
@@ -824,7 +824,7 @@
         "authors": "Javier M. Torres",
         "bibtex": "@inproceedings{torres2017dynamic,\n title={Dynamic Epistemic Logic in Game Design },\nauthor={Javier M. Torres},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12965/12813",
-        "local_file": "papers/Dynamic Epistemic Logic in Game Design .pdf",
+        "local_file": "papers/pre-2025/Dynamic Epistemic Logic in Game Design .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15839",
         "title": "Dynamic Epistemic Logic in Game Design ",
         "year": "2017"
@@ -834,7 +834,7 @@
         "authors": "Javier M. Torres",
         "bibtex": "@inproceedings{torres2017unified,\n title={A Proposal for a Unified Agent Behaviour Framework },\nauthor={Javier M. Torres},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2017}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12964/12812",
-        "local_file": "papers/A Proposal for a Unified Agent Behaviour Framework .pdf",
+        "local_file": "papers/pre-2025/A Proposal for a Unified Agent Behaviour Framework .pdf",
         "old_url": "https://aaai.org/ocs/index.php/AIIDE/AIIDE17/paper/view/15838",
         "title": "A Proposal for a Unified Agent Behaviour Framework ",
         "year": "2017"
@@ -844,7 +844,7 @@
         "authors": "Sasha Azad, Carl Saldanha, Cheng-Hann Gan, Mark O. Riedl",
         "bibtex": "@inproceedings{azad2016mixed,\n title={Mixed Reality Meets Procedural Content Generation in Video Games},\nauthor={Sasha Azad and Carl Saldanha and Cheng-Hann Gan and Mark O. Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12898/12746",
-        "local_file": "papers/Mixed Reality Meets Procedural Content Generation in Video Games.pdf",
+        "local_file": "papers/pre-2025/Mixed Reality Meets Procedural Content Generation in Video Games.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14073",
         "title": "Mixed Reality Meets Procedural Content Generation in Video Games",
         "year": "2016"
@@ -854,7 +854,7 @@
         "authors": "Shabnam Sadeghi Esfahlani, Tommy Thompson",
         "bibtex": "@inproceedings{esfahlani2016physiotherapy,\n title={Intelligent Physiotherapy Through Procedural Content Generation},\nauthor={Shabnam Sadeghi Esfahlani and Tommy Thompson},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12890/12738",
-        "local_file": "papers/Intelligent Physiotherapy Through Procedural Content Generation.pdf",
+        "local_file": "papers/pre-2025/Intelligent Physiotherapy Through Procedural Content Generation.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14055",
         "title": "Intelligent Physiotherapy Through Procedural Content Generation",
         "year": "2016"
@@ -864,7 +864,7 @@
         "authors": "Matthew James Guzdial, Nathan Sturtevant, Boyang Li",
         "bibtex": "@inproceedings{guzdial2016dynamic,\n title={Deep Static and Dynamic Level Analysis: A Study on Infinite Mario},\nauthor={Matthew James Guzdial and Nathan Sturtevant and Boyang Li},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12894/12742",
-        "local_file": "papers/Deep Static and Dynamic Level Analysis: A Study on Infinite Mario.pdf",
+        "local_file": "papers/pre-2025/Deep Static and Dynamic Level Analysis: A Study on Infinite Mario.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14068",
         "title": "Deep Static and Dynamic Level Analysis: A Study on Infinite Mario",
         "year": "2016"
@@ -874,7 +874,7 @@
         "authors": "Ian D. Horswill",
         "bibtex": "@inproceedings{horswill2016dear,\n title={Dear Leader's Happy Story Time: A Party Game Based on Automated Story Generation},\nauthor={Ian D. Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12902/12750",
-        "local_file": "papers/Dear Leader's Happy Story Time: A Party Game Based on Automated Story Generation.pdf",
+        "local_file": "papers/pre-2025/Dear Leader's Happy Story Time: A Party Game Based on Automated Story Generation.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14083",
         "title": "Dear Leader's Happy Story Time: A Party Game Based on Automated Story Generation",
         "year": "2016"
@@ -884,7 +884,7 @@
         "authors": "Scott Lee, Aaron Isaksen, Christoffer Holmgard, Julian Togelius",
         "bibtex": "@inproceedings{lee2016resource,\n title={Predicting Resource Locations in Game Maps Using Deep Convolutional Neural Networks},\nauthor={Scott Lee and Aaron Isaksen and Christoffer Holmgard and Julian Togelius},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12893/12741",
-        "local_file": "papers/Predicting Resource Locations in Game Maps Using Deep Convolutional Neural Networks.pdf",
+        "local_file": "papers/pre-2025/Predicting Resource Locations in Game Maps Using Deep Convolutional Neural Networks.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14062",
         "title": "Predicting Resource Locations in Game Maps Using Deep Convolutional Neural Networks",
         "year": "2016"
@@ -894,7 +894,7 @@
         "authors": "Chris Martens, Adam Summerville, Michael Mateas, Joseph Osborn, Sarah Harmon, Noah Wardrip-Fruin, Arnav Jhala",
         "bibtex": "@inproceedings{martens2016proceduralist,\n title={Proceduralist Readings, Procedurally},\nauthor={Chris Martens and Adam Summerville and Michael Mateas and Joseph Osborn and Sarah Harmon and Noah Wardrip-Fruin and Arnav Jhala},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12892/12740",
-        "local_file": "papers/Proceduralist Readings, Procedurally.pdf",
+        "local_file": "papers/pre-2025/Proceduralist Readings, Procedurally.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14061",
         "title": "Proceduralist Readings, Procedurally",
         "year": "2016"
@@ -904,7 +904,7 @@
         "authors": "Johnathan Pagnutti",
         "bibtex": "@inproceedings{pagnutti2016bach,\n title={What Does Bach Have in Common with World 1-1: Automatic Platformer Gestalt Analysis},\nauthor={Johnathan Pagnutti},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12903/12751",
-        "local_file": "papers/What Does Bach Have in Common with World 1-1: Automatic Platformer Gestalt Analysis.pdf",
+        "local_file": "papers/pre-2025/What Does Bach Have in Common with World 1-1: Automatic Platformer Gestalt Analysis.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14084",
         "title": "What Does Bach Have in Common with World 1-1: Automatic Platformer Gestalt Analysis",
         "year": "2016"
@@ -914,7 +914,7 @@
         "authors": "Justus Robertson, R. Michael Young",
         "bibtex": "@inproceedings{robertson2016superposed,\n title={A Model of Superposed States},\nauthor={Justus Robertson and R. Michael Young},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=b5faf444879ad4f54150050aa64e6c02a229c5e7",
-        "local_file": "papers/A Model of Superposed States.pdf",
+        "local_file": "papers/pre-2025/A Model of Superposed States.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14071",
         "title": "A Model of Superposed States",
         "year": "2016"
@@ -924,7 +924,7 @@
         "authors": "James Ryan, Tyler Brothers, Michael Mateas, Noah Wardrip-Fruin",
         "bibtex": "@inproceedings{ryan2016jukejoint,\n title={Juke Joint: Characters Who Are Moved By Music},\nauthor={James Ryan and Tyler Brothers and Michael Mateas and Noah Wardrip-Fruin},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12901/12749",
-        "local_file": "papers/Juke Joint: Characters Who Are Moved By Music.pdf",
+        "local_file": "papers/pre-2025/Juke Joint: Characters Who Are Moved By Music.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14081",
         "title": "Juke Joint: Characters Who Are Moved By Music",
         "year": "2016"
@@ -934,7 +934,7 @@
         "authors": "Ben Samuel, James Ryan, Adam Summerville, Michael Mateas, Noah Wardrip-Fruin",
         "bibtex": "@inproceedings{samuel2016computatrum,\n title={Computatrum Personae: Toward a Role-Based Taxonomy of (Computationally Assisted) Performance},\nauthor={Ben Samuel and James Ryan and Adam Summerville and Michael Mateas and Noah Wardrip-Fruin},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12900/12748",
-        "local_file": "papers/Computatrum Personae: Toward a Role-Based Taxonomy of (Computationally Assisted) Performance.pdf",
+        "local_file": "papers/pre-2025/Computatrum Personae: Toward a Role-Based Taxonomy of (Computationally Assisted) Performance.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14080",
         "title": "Computatrum Personae: Toward a Role-Based Taxonomy of (Computationally Assisted) Performance",
         "year": "2016"
@@ -944,7 +944,7 @@
         "authors": "Kristin Siu, Eric Butler, Alexander Zook",
         "bibtex": "@inproceedings{siu2016boss,\n title={A Programming Model for Boss Encounters in 2D Action Games},\nauthor={Kristin Siu and Eric Butler and Alexander Zook},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12891/12739",
-        "local_file": "papers/A Programming Model for Boss Encounters in 2D Action Games.pdf",
+        "local_file": "papers/pre-2025/A Programming Model for Boss Encounters in 2D Action Games.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14058",
         "title": "A Programming Model for Boss Encounters in 2D Action Games",
         "year": "2016"
@@ -954,7 +954,7 @@
         "authors": "Andrew Stockdale",
         "bibtex": "@inproceedings{stockdale2016cluegen,\n title={ClueGen: An Exploration of Procedural Storytelling in the Format of Murder Mystery Games},\nauthor={Andrew Stockdale},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12896/12744",
-        "local_file": "papers/ClueGen: An Exploration of Procedural Storytelling in the Format of Murder Mystery Games.pdf",
+        "local_file": "papers/pre-2025/ClueGen: An Exploration of Procedural Storytelling in the Format of Murder Mystery Games.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14070",
         "title": "ClueGen: An Exploration of Procedural Storytelling in the Format of Murder Mystery Games",
         "year": "2016"
@@ -964,7 +964,7 @@
         "authors": "Adam Summerville, Michael Cook, Ben Steenhuisen",
         "bibtex": "@inproceedings{summerville2016draft,\n title={Draft-Analysis of the Ancients: Predicting Draft Picks in DotA 2 Using Machine Learning},\nauthor={Adam Summerville and Michael Cook and Ben Steenhuisen},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12899/12747",
-        "local_file": "papers/Draft-Analysis of the Ancients: Predicting Draft Picks in DotA 2 Using Machine Learning.pdf",
+        "local_file": "papers/pre-2025/Draft-Analysis of the Ancients: Predicting Draft Picks in DotA 2 Using Machine Learning.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14075",
         "title": "Draft-Analysis of the Ancients: Predicting Draft Picks in DotA 2 Using Machine Learning",
         "year": "2016"
@@ -974,7 +974,7 @@
         "authors": "Adam Summerville, Matthew Guzdial, Michael Mateas, Mark O. Riedl",
         "bibtex": "@inproceedings{summerville2016tailored,\n title={Learning Player Tailored Content From Observation: Platformer Level Generation from Video Traces using LSTMs},\nauthor={Adam Summerville and Matthew Guzdial and Michael Mateas and Mark O. Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2016}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12895/12743",
-        "local_file": "papers/Learning Player Tailored Content From Observation: Platformer Level Generation from Video Traces using LSTMs.pdf",
+        "local_file": "papers/pre-2025/Learning Player Tailored Content From Observation: Platformer Level Generation from Video Traces using LSTMs.pdf",
         "old_url": "http://aaai.org/ocs/index.php/AIIDE/AIIDE16/paper/view/14069",
         "title": "Learning Player Tailored Content From Observation: Platformer Level Generation from Video Traces using LSTMs",
         "year": "2016"
@@ -984,7 +984,7 @@
         "authors": "Martin Cerny",
         "bibtex": "@inproceedings{cerny2015likeable,\n title={Sarah and Sally: Creating a Likeable and Competent AI Sidekick for a Videogame},\nauthor={Martin Cerny},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12815/12663",
-        "local_file": "papers/Sarah and Sally: Creating a Likeable and Competent AI Sidekick for a Videogame.pdf",
+        "local_file": "papers/pre-2025/Sarah and Sally: Creating a Likeable and Competent AI Sidekick for a Videogame.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11563",
         "title": "Sarah and Sally: Creating a Likeable and Competent AI Sidekick for a Videogame",
         "year": "2015"
@@ -994,7 +994,7 @@
         "authors": "Michael Cook",
         "bibtex": "@inproceedings{cook2015vision,\n title={Would You Look At That! Vision-Driven Procedural Level Design},\nauthor={Michael Cook},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12818/12666",
-        "local_file": "papers/Would You Look At That! Vision-Driven Procedural Level Design.pdf",
+        "local_file": "papers/pre-2025/Would You Look At That! Vision-Driven Procedural Level Design.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11588",
         "title": "Would You Look At That! Vision-Driven Procedural Level Design",
         "year": "2015"
@@ -1004,7 +1004,7 @@
         "authors": "Jeremy Gow, Joseph Corneli",
         "bibtex": "@inproceedings{gow2015blending,\n title={Towards Generating Novel Games Using Conceptual Blending},\nauthor={Jeremy Gow and Joseph Corneli},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12824/12671",
-        "local_file": "papers/Towards Generating Novel Games Using Conceptual Blending.pdf",
+        "local_file": "papers/pre-2025/Towards Generating Novel Games Using Conceptual Blending.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11619",
         "title": "Towards Generating Novel Games Using Conceptual Blending",
         "year": "2015"
@@ -1014,7 +1014,7 @@
         "authors": "Ian D. Horswill",
         "bibtex": "@inproceedings{horswill2015fiascomatic,\n title={Fiascomatic: A Framework for Automated Fiasco Playsets},\nauthor={Ian D. Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12823/12670",
-        "local_file": "papers/Fiascomatic: A Framework for Automated Fiasco Playsets.pdf",
+        "local_file": "papers/pre-2025/Fiascomatic: A Framework for Automated Fiasco Playsets.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11618",
         "title": "Fiascomatic: A Framework for Automated Fiasco Playsets",
         "year": "2015"
@@ -1024,7 +1024,7 @@
         "authors": "Dominic Kao, D. Fox Harrell",
         "bibtex": "@inproceedings{kao2015avatars,\n title={Exploring the Use of Role Model Avatars in Educational Games},\nauthor={Dominic Kao and D. Fox Harrell},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12814/12662",
-        "local_file": "papers/Exploring the Use of Role Model Avatars in Educational Games.pdf",
+        "local_file": "papers/pre-2025/Exploring the Use of Role Model Avatars in Educational Games.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11557",
         "title": "Exploring the Use of Role Model Avatars in Educational Games",
         "year": "2015"
@@ -1034,7 +1034,7 @@
         "authors": "Dean M. LeBaron, Logan A. Mitchell, Dan Ventura",
         "bibtex": "@inproceedings{lebaron2015abstraction,\n title={Intelligent Content Generation via Abstraction, Evolution and Reinforcement},\nauthor={Dean M. LeBaron and Logan A. Mitchell and Dan Ventura},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12820/12668",
-        "local_file": "papers/Intelligent Content Generation via Abstraction, Evolution and Reinforcement.pdf",
+        "local_file": "papers/pre-2025/Intelligent Content Generation via Abstraction, Evolution and Reinforcement.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11601",
         "title": "Intelligent Content Generation via Abstraction, Evolution and Reinforcement",
         "year": "2015"
@@ -1044,7 +1044,7 @@
         "authors": "Antonios Liapis",
         "bibtex": "@inproceedings{liapis2015service,\n title={Map Sketch Generation as a Service},\nauthor={Antonios Liapis},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12813/12661",
-        "local_file": "papers/Map Sketch Generation as a Service.pdf",
+        "local_file": "papers/pre-2025/Map Sketch Generation as a Service.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11556",
         "title": "Map Sketch Generation as a Service",
         "year": "2015"
@@ -1054,7 +1054,7 @@
         "authors": "Chong-U Lim, D. Fox Harrell",
         "bibtex": "@inproceedings{lim2015marginal,\n title={The Marginal: A Game for Modeling Players' Perceptions of Gradient Membership in Avatar Categories},\nauthor={Chong-U Lim and D. Fox Harrell},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12819/12667",
-        "local_file": "papers/The Marginal: A Game for Modeling Players' Perceptions of Gradient Membership in Avatar Categories.pdf",
+        "local_file": "papers/pre-2025/The Marginal: A Game for Modeling Players' Perceptions of Gradient Membership in Avatar Categories.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11589",
         "title": "The Marginal: A Game for Modeling Players' Perceptions of Gradient Membership in Avatar Categories",
         "year": "2015"
@@ -1064,7 +1064,7 @@
         "authors": "James Owen Ryan, Adam Summerville, Michael Mateas, Noah Wardrip-Fruin",
         "bibtex": "@inproceedings{ryan2015lie,\n title={Toward Characters Who Observe, Tell, Misremember, and Lie},\nauthor={James Owen Ryan and Adam Summerville and Michael Mateas and Noah Wardrip-Fruin},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12825/12672",
-        "local_file": "papers/Toward Characters Who Observe, Tell, Misremember, and Lie.pdf",
+        "local_file": "papers/pre-2025/Toward Characters Who Observe, Tell, Misremember, and Lie.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11667",
         "title": "Toward Characters Who Observe, Tell, Misremember, and Lie",
         "year": "2015"
@@ -1074,7 +1074,7 @@
         "authors": "Adam James Summerville, Michael Mateas",
         "bibtex": "@inproceedings{summerville2015probabilistic,\n title={Sampling Hyrule: Multi-Technique Probabilistic Level Generation for Action Role Playing Games},\nauthor={Adam James Summerville and Michael Mateas},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12817/12665",
-        "local_file": "papers/Sampling Hyrule: Multi-Technique Probabilistic Level Generation for Action Role Playing Games.pdf",
+        "local_file": "papers/pre-2025/Sampling Hyrule: Multi-Technique Probabilistic Level Generation for Action Role Playing Games.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11570",
         "title": "Sampling Hyrule: Multi-Technique Probabilistic Level Generation for Action Role Playing Games",
         "year": "2015"
@@ -1084,7 +1084,7 @@
         "authors": "Jonathan Tremblay, Clark Verbrugge",
         "bibtex": "@inproceedings{tremblay2015decorative,\n title={An Algorithmic Approach to Decorative Content Placement},\nauthor={Jonathan Tremblay and Clark Verbrugge},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12821/12669",
-        "local_file": "papers/An Algorithmic Approach to Decorative Content Placement.pdf",
+        "local_file": "papers/pre-2025/An Algorithmic Approach to Decorative Content Placement.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11606",
         "title": "An Algorithmic Approach to Decorative Content Placement",
         "year": "2015"
@@ -1094,7 +1094,7 @@
         "authors": "Adam James Summerville, Shweta Philip, Michael Mateas",
         "bibtex": "@inproceedings{summerville2015mcmcts,\n title={MCMCTS PCG 4 SMB: Monte Carlo Tree Search to Guide Platformer Level Generation},\nauthor={Adam James Summerville and Shweta Philip and Michael Mateas},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2015}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12816/12664",
-        "local_file": "papers/MCMCTS PCG 4 SMB: Monte Carlo Tree Search to Guide Platformer Level Generation.pdf",
+        "local_file": "papers/pre-2025/MCMCTS PCG 4 SMB: Monte Carlo Tree Search to Guide Platformer Level Generation.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE15/paper/view/11569",
         "title": "MCMCTS PCG 4 SMB: Monte Carlo Tree Search to Guide Platformer Level Generation",
         "year": "2015"
@@ -1104,7 +1104,7 @@
         "authors": "Michael Cook, Simon Colton",
         "bibtex": "@inproceedings{cook2014rogue,\n title={A Rogue Dream: Automatically Generating Meaningful Content For Games},\nauthor={Michael Cook and Simon Colton},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12745/12593",
-        "local_file": "papers/A Rogue Dream: Automatically Generating Meaningful Content For Games.pdf",
+        "local_file": "papers/pre-2025/A Rogue Dream: Automatically Generating Meaningful Content For Games.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9063",
         "title": "A Rogue Dream: Automatically Generating Meaningful Content For Games",
         "year": "2014"
@@ -1114,7 +1114,7 @@
         "authors": "Ignacio X. Dominguez, David L. Roberts",
         "bibtex": "@inproceedings{domingues2014asymmetric,\n title={Asymmetric Virtual Environments: Exploring the Effects of Avatar Colors on Performance},\nauthor={Ignacio X. Dominguez and David L. Roberts},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12746/12594",
-        "local_file": "papers/Asymmetric Virtual Environments: Exploring the Effects of Avatar Colors on Performance.pdf",
+        "local_file": "papers/pre-2025/Asymmetric Virtual Environments: Exploring the Effects of Avatar Colors on Performance.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9065",
         "title": "Asymmetric Virtual Environments: Exploring the Effects of Avatar Colors on Performance",
         "year": "2014"
@@ -1124,7 +1124,7 @@
         "authors": "Kazjon Grace, Mary Lou Maher",
         "bibtex": "@inproceedings{grace2014modding,\n title={Towards Computational Co-Creation in Modding Communities},\nauthor={Kazjon Grace and Mary Lou Maher},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12750/12598",
-        "local_file": "papers/Towards Computational Co-Creation in Modding Communities.pdf",
+        "local_file": "papers/pre-2025/Towards Computational Co-Creation in Modding Communities.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9088",
         "title": "Towards Computational Co-Creation in Modding Communities",
         "year": "2014"
@@ -1134,7 +1134,7 @@
         "authors": "Rania Hodhod, Marc Huet, Mark Riedl",
         "bibtex": "@inproceedings{hodhod2014commonsense,\n title={Toward Generating 3D Games with the Help of Commonsense Knowledge and the Crowd},\nauthor={Rania Hodhod and Marc Huet and Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12741/12589",
-        "local_file": "papers/Toward Generating 3D Games with the Help of Commonsense Knowledge and the Crowd.pdf",
+        "local_file": "papers/pre-2025/Toward Generating 3D Games with the Help of Commonsense Knowledge and the Crowd.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9013",
         "title": "Toward Generating 3D Games with the Help of Commonsense Knowledge and the Crowd",
         "year": "2014"
@@ -1144,7 +1144,7 @@
         "authors": "Ian D. Horswill",
         "bibtex": "@inproceedings{horswill2014classical,\n title={Game Design for Classical AI},\nauthor={Ian D. Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12749/12597",
-        "local_file": "papers/Game Design for Classical AI.pdf",
+        "local_file": "papers/pre-2025/Game Design for Classical AI.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9086",
         "title": "Game Design for Classical AI",
         "year": "2014"
@@ -1154,7 +1154,7 @@
         "authors": "Maria Teresa Llano, Michael Cook, Christian Guckelsberger, Simon Colton, Rose Hepworth",
         "bibtex": "@inproceedings{llano2014ideas,\n title={Towards the Automatic Generation of Fictional Ideas for Games},\nauthor={Maria Teresa Llano and Michael Cook and Christian Guckelsberger and Simon Colton and Rose Hepworth},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12742/12590",
-        "local_file": "papers/Towards the Automatic Generation of Fictional Ideas for Games.pdf",
+        "local_file": "papers/pre-2025/Towards the Automatic Generation of Fictional Ideas for Games.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9032",
         "title": "Towards the Automatic Generation of Fictional Ideas for Games",
         "year": "2014"
@@ -1164,7 +1164,7 @@
         "authors": "Justus Robertson, R. Michael Young",
         "bibtex": "@inproceedings{robertson2014online,\n title={Gameplay as On-Line Mediation Search},\nauthor={Justus Robertson and R. Michael Young},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12740/12588",
-        "local_file": "papers/Gameplay as On-Line Mediation Search.pdf",
+        "local_file": "papers/pre-2025/Gameplay as On-Line Mediation Search.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9006",
         "title": "Gameplay as On-Line Mediation Search",
         "year": "2014"
@@ -1174,7 +1174,7 @@
         "authors": "David Schwarz, Vivek Subramanian, Katie Zhuang, Christine Adamczyk",
         "bibtex": "@inproceedings{schwarz2014eeg,\n title={Educational Neurogaming: EEG-Controlled Videogames as Interactive Teaching Tools For Introductory Neuroscience},\nauthor={David Schwarz and Vivek Subramanian and Katie Zhuang and Christine Adamczyk},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12747/12595",
-        "local_file": "papers/Educational Neurogaming: EEG-Controlled Videogames as Interactive Teaching Tools For Introductory Neuroscience.pdf",
+        "local_file": "papers/pre-2025/Educational Neurogaming: EEG-Controlled Videogames as Interactive Teaching Tools For Introductory Neuroscience.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9066",
         "title": "Educational Neurogaming: EEG-Controlled Videogames as Interactive Teaching Tools For Introductory Neuroscience",
         "year": "2014"
@@ -1184,7 +1184,7 @@
         "authors": "Gillian Smith",
         "bibtex": "@inproceedings{smith2014future,\n title={The Future of Procedural Content Generation in Games},\nauthor={Gillian Smith},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12748/12596",
-        "local_file": "papers/The Future of Procedural Content Generation in Games.pdf",
+        "local_file": "papers/pre-2025/The Future of Procedural Content Generation in Games.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9078",
         "title": "The Future of Procedural Content Generation in Games",
         "year": "2014"
@@ -1194,7 +1194,7 @@
         "authors": "Jonathan Tremblay, Alexander Borodovski, Clark Verbrugge",
         "bibtex": "@inproceedings{tremblay2014jump,\n title={I Can Jump! Exploring Search Algorithms for Simulating Platformer Players},\nauthor={Jonathan Tremblay and Alexander Borodovski and Clark Verbrugge},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12744/12592",
-        "local_file": "papers/I Can Jump! Exploring Search Algorithms for Simulating Platformer Players.pdf",
+        "local_file": "papers/pre-2025/I Can Jump! Exploring Search Algorithms for Simulating Platformer Players.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9057",
         "title": "I Can Jump! Exploring Search Algorithms for Simulating Platformer Players",
         "year": "2014"
@@ -1204,7 +1204,7 @@
         "authors": "Justus Robertson, R. Michael Young",
         "bibtex": "@inproceedings{robertson2014mediation,\n title={The General Mediation Engine},\nauthor={Justus Robertson and R. Michael Young},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://ojs.aaai.org/index.php/AIIDE/article/download/12739/12587",
-        "local_file": "papers/The General Mediation Engine.pdf",
+        "local_file": "papers/pre-2025/The General Mediation Engine.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9005",
         "title": "The General Mediation Engine",
         "year": "2014"
@@ -1214,7 +1214,7 @@
         "authors": "Tommy Thompson, Michele Vinciguerra",
         "bibtex": "@inproceedings{thompson2014touch,\n title={Integrated Pathfinding and Player Analysis for Touch-Driven Games},\nauthor={Tommy Thompson and Michele Vinciguerra},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2014}}",
         "link": "https://cdn.aaai.org/ojs/12743/12743-52-16260-1-2-20201228.pdf",
-        "local_file": "papers/Integrated Pathfinding and Player Analysis for Touch-Driven Games.pdf",
+        "local_file": "papers/pre-2025/Integrated Pathfinding and Player Analysis for Touch-Driven Games.pdf",
         "old_url": "https://www.aaai.org/ocs/index.php/AIIDE/AIIDE14/paper/view/9039",
         "title": "Integrated Pathfinding and Player Analysis for Touch-Driven Games",
         "year": "2014"
@@ -1224,7 +1224,7 @@
         "authors": "Chaima Jemmali, Carter Ithier, Seth Cooper and Magy Seif El-Nasr",
         "bibtex": "@inproceedings{jemmali2020grammar,\n title={Grammar Based Modular Level Generator for a Programming Puzzle Game},\nauthor={Chaima Jemmali and Carter Ithier and Seth Cooper and Magy Seif El-Nasr},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2020}}",
         "link": "http://ceur-ws.org/Vol-2862/paper12.pdf",
-        "local_file": "papers/Grammar Based Modular Level Generator for a Programming Puzzle Game",
+        "local_file": "papers/pre-2025/Grammar Based Modular Level Generator for a Programming Puzzle Game",
         "old_url": "http://ceur-ws.org/Vol-2862/paper12.pdf",
         "title": "Grammar Based Modular Level Generator for a Programming Puzzle Game",
         "year": "2020"
@@ -1234,7 +1234,7 @@
         "authors": "Shruti Mahajan, Leo Bunyea, Nathan Partlan, Dylan Schout, Casper Harteveld, Camillia Matuk, Will Althoff, Tyler Duke, Steven Sutherland, Gillian Smith",
         "bibtex": "@inproceedings{mahajan2019critique,\n title={Toward Automated Critique for Student-Created Interactive Narrative Projects},\nauthor={Shruti Mahajan and Leo Bunyea and Nathan Partlan and Dylan Schout and Casper Harteveld and Camillia Matuk and Will Althoff and Tyler Duke and Steven Sutherland and Gillian Smith},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2019}}",
         "link": "https://par.nsf.gov/servlets/purl/10123274",
-        "local_file": "papers/Toward Automated Critique for Student-Created Interactive Narrative Projects.pdf",
+        "local_file": "papers/pre-2025/Toward Automated Critique for Student-Created Interactive Narrative Projects.pdf",
         "old_url": "archive/mahajan2019critique.pdf",
         "title": "Toward Automated Critique for Student-Created Interactive Narrative Projects",
         "year": "2019"
@@ -1244,7 +1244,7 @@
         "authors": "Seth Cooper, Faisal Abutarab, Emily Halina and Nathan Sturtevant",
         "bibtex": "@inproceedings{cooper2023visual,\n title={Visual Exploration of Tile Level Datasets},\nauthor={Seth Cooper, Faisal Abutarab, Emily Halina and Nathan Sturtevant},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Visual Exploration of Tile Level Datasets.pdf",
+        "local_file": "papers/pre-2025/Visual Exploration of Tile Level Datasets.pdf",
         "old_url": "",
         "title": "Visual Exploration of Tile Level Datasets",
         "year": "2023"
@@ -1254,7 +1254,7 @@
         "authors": "Shi Johnson-Bey, Michael Mateas, Noah Wardrip-Fruin",
         "bibtex": "@inproceedings{johnson-bey2023theme,\n title={Toward Using ChatGPT to Generate Theme-Relevant Simulated Storyworlds},\nauthor={Shi Johnson-Bey, Michael Mateas, Noah Wardrip-Fruin},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Toward Using ChatGPT to Generate Theme-Relevant Simulated Storyworlds.pdf",
+        "local_file": "papers/pre-2025/Toward Using ChatGPT to Generate Theme-Relevant Simulated Storyworlds.pdf",
         "old_url": "",
         "title": "Toward Using ChatGPT to Generate Theme-Relevant Simulated Storyworlds",
         "year": "2023"
@@ -1264,7 +1264,7 @@
         "authors": "Aaron Cai, Chris Martens",
         "bibtex": "@inproceedings{cai2023constructed,\n title={Towards Procedural Generation of Constructed Languages for Games},\nauthor={Aaron Cai, Chris Martens},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Towards Procedural Generation of Constructed Languages for Games.pdf",
+        "local_file": "papers/pre-2025/Towards Procedural Generation of Constructed Languages for Games.pdf",
         "old_url": "",
         "title": "Towards Procedural Generation of Constructed Languages for Games",
         "year": "2023"
@@ -1274,7 +1274,7 @@
         "authors": "Noah Renella, Markus Eger",
         "bibtex": "@inproceedings{renella2023commentary\n title={Towards Automated Video Game Commentary Using Generative AI},\nauthor={Noah Renella, Markus Eger},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Towards Automated Video Game Commentary Using Generative AI.pdf",
+        "local_file": "papers/pre-2025/Towards Automated Video Game Commentary Using Generative AI.pdf",
         "old_url": "",
         "title": "Towards Automated Video Game Commentary Using Generative AI",
         "year": "2023"
@@ -1284,7 +1284,7 @@
         "authors": "Christopher Cui, Xiangyu Peng, Mark Riedl",
         "bibtex": "@inproceedings{cui2023thespian\n title={Thespian: Multi-Character Text Role-Playing Game Agents},\nauthor={Christopher Cui, Xiangyu Peng, Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Thespian Multi-Character Text Role-Playing Game Agents.pdf",
+        "local_file": "papers/pre-2025/Thespian Multi-Character Text Role-Playing Game Agents.pdf",
         "old_url": "",
         "title": "Thespian: Multi-Character Text Role-Playing Game Agents",
         "year": "2023"
@@ -1294,7 +1294,7 @@
         "authors": "Ben Samuel, Adam Summerville",
         "bibtex": "@inproceedings{samuel2023morai\n title={Moirai: Enabling Complex Narrative Structure in Simulation-Driven Stories},\nauthor={Ben Samuel, Adam Summerville},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Moirai: Enabling Complex Narrative Structure in Simulation-Driven Stories.pdf",
+        "local_file": "papers/pre-2025/Moirai: Enabling Complex Narrative Structure in Simulation-Driven Stories.pdf",
         "old_url": "",
         "title": "Moirai Enabling Complex Narrative Structure in Simulation-Driven Stories",
         "year": "2023"
@@ -1304,7 +1304,7 @@
         "authors": "Dante Camarena, Nick Counter, Daniil Markelov, Pietro Gagliano, Don Nguyen,Rhys Becker, Fiona Firby, Zina Rahman, Richard Rosenbaum, Liam A. Clarke and Maria Skibinski",
         "bibtex": "@inproceedings{camarena2023casual\n title={Little Learning Machines Real-Time Deep Reinforcement Learning as a Casual Creativity Game},\nauthor={Dante Camarena, Nick Counter, Daniil Markelov, Pietro Gagliano, Don Nguyen,Rhys Becker, Fiona Firby, Zina Rahman, Richard Rosenbaum, Liam A. Clarke and Maria Skibinski},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Little Learning Machines Real-Time Deep Reinforcement Learning as a Casual Creativity Game.pdf",
+        "local_file": "papers/pre-2025/Little Learning Machines Real-Time Deep Reinforcement Learning as a Casual Creativity Game.pdf",
         "old_url": "",
         "title": "Little Learning Machines Real-Time Deep Reinforcement Learning as a Casual Creativity Game",
         "year": "2023"
@@ -1314,7 +1314,7 @@
         "authors": "Seth Cooper, Eden Balema",
         "bibtex": "@inproceedings{cooper2023graph\n title={Learning Constrained Graph Layout for Content Generation},\nauthor={Seth Cooper, Eden Balema},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Learning Constrained Graph Layout for Content Generation.pdf",
+        "local_file": "papers/pre-2025/Learning Constrained Graph Layout for Content Generation.pdf",
         "old_url": "",
         "title": "Learning Constrained Graph Layout for Content Generation",
         "year": "2023"
@@ -1324,7 +1324,7 @@
         "authors": "Cory Siler, Stephen G. Ware",
         "bibtex": "@inproceedings{siler2023goal\n title={Knowledge Goal Recognition for Interactive Narratives},\nauthor={Cory Siler, Stephen G. Ware},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Knowledge Goal Recognition for Interactive Narratives.pdf",
+        "local_file": "papers/pre-2025/Knowledge Goal Recognition for Interactive Narratives.pdf",
         "old_url": "",
         "title": "Knowledge Goal Recognition for Interactive Narratives",
         "year": "2023"
@@ -1334,7 +1334,7 @@
         "authors": "Sara Cardinale, Oliver Withington",
         "bibtex": "@inproceedings{cardinale2023harmonymapper\n title={HarmonyMapper: Generating Emotionally Diverse Chord Progressions for Games},\nauthor={Sara Cardinale, Oliver Withington},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/HarmonyMapper Generating Emotionally Diverse Chord Progressions for Games.pdf",
+        "local_file": "papers/pre-2025/HarmonyMapper Generating Emotionally Diverse Chord Progressions for Games.pdf",
         "old_url": "",
         "title": "HarmonyMapper: Generating Emotionally Diverse Chord Progressions for Games",
         "year": "2023"
@@ -1344,7 +1344,7 @@
         "authors": "Jean-Baptiste Hervé, Oliver Withington, Marion Hervé, Laurissa Tokarchuk and Christoph Salge",
         "bibtex": "@inproceedings{herve2023shift\n title={Exploring Minecraft Settlement Generators with Generative Shift Analysis},\nauthor={Jean-Baptiste Hervé, Oliver Withington, Marion Hervé, Laurissa Tokarchuk and Christoph Salge},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Exploring Minecraft Settlement Generators with Generative Shift Analysis.pdf",
+        "local_file": "papers/pre-2025/Exploring Minecraft Settlement Generators with Generative Shift Analysis.pdf",
         "old_url": "",
         "title": "Exploring Minecraft Settlement Generators with Generative Shift Analysis",
         "year": "2023"
@@ -1354,7 +1354,7 @@
         "authors": "Ian Horswill, Samuel Hill",
         "bibtex": "@inproceedings{\n title={Fast, Declarative, Character Simulation Using Bottom-Up Logic Programming},\nauthor={Ian Horswill, Samuel Hill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Fast, Declarative, Character Simulation Using Bottom-Up Logic Programming.pdf",
+        "local_file": "papers/pre-2025/Fast, Declarative, Character Simulation Using Bottom-Up Logic Programming.pdf",
         "old_url": "",
         "title": "Fast, Declarative, Character Simulation Using Bottom-Up Logic Programming",
         "year": "2023"
@@ -1364,7 +1364,7 @@
         "authors": "Josiah Boucher, Gillian Smith, Yunus Telliel",
         "bibtex": "@inproceedings{boucher2023genai\n title={Examining Early Professionals' Use of Generative AI in the Game Development Process},\nauthor={Josiah Boucher, Gillian Smith, Yunus Telliel},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Examining Early Professionals' Use of Generative AI in the Game Development Process.pdf",
+        "local_file": "papers/pre-2025/Examining Early Professionals' Use of Generative AI in the Game Development Process.pdf",
         "old_url": "",
         "title": "Examining Early Professionals' Use of Generative AI in the Game Development Process",
         "year": "2023"
@@ -1374,7 +1374,7 @@
         "authors": "Yiwei Zhang, Richard Zhao",
         "bibtex": "@inproceedings{zhang2023mcts\n title={Enhancing MCTS with Convolutional Autoencoder and Linear Approximator in XCOM-Inspired Environments},\nauthor={Yiwei Zhang, Richard Zhao},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Enhancing MCTS with Convolutional Autoencoder and Linear Approximator in XCOM-Inspired Environments.pdf",
+        "local_file": "papers/pre-2025/Enhancing MCTS with Convolutional Autoencoder and Linear Approximator in XCOM-Inspired Environments.pdf",
         "old_url": "",
         "title": "Enhancing MCTS with Convolutional Autoencoder and Linear Approximator in XCOM-Inspired Environments",
         "year": "2023"
@@ -1384,7 +1384,7 @@
         "authors": "Wei Zhou, Xiangyu Peng Mark Riedl",
         "bibtex": "@inproceedings{zhou2023dialogue\n title={Dialogue Shaping Empowering Agents through NPC Interaction},\nauthor={Wei Zhou, Xiangyu Peng Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/Dialogue Shaping Empowering Agents through NPC Interaction.pdf",
+        "local_file": "papers/pre-2025/Dialogue Shaping Empowering Agents through NPC Interaction.pdf",
         "old_url": "",
         "title": "Dialogue Shaping Empowering Agents through NPC Interaction",
         "year": "2023"
@@ -1394,7 +1394,7 @@
         "authors": "Samuel Hill, Ian Horswill",
         "bibtex": "@inproceedings{hill2023ontology\n title={An Executable Ontology for Social Simulation},\nauthor={Samuel Hill, Ian Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2023}}",
         "link": "",
-        "local_file": "papers/An Executable Ontology for Social Simulation.pdf",
+        "local_file": "papers/pre-2025/An Executable Ontology for Social Simulation.pdf",
         "old_url": "",
         "title": "An Executable Ontology for Social Simulation",
         "year": "2023"
@@ -1404,7 +1404,7 @@
         "authors": "Oliver Withington, Laurissa Tokarchuk",
         "bibtex": "@inproceedings{withington2022visulaising\n title={Visualising Generative Spaces Using Convolutional Neural Network Embeddings},\nauthor={Oliver Withington, Laurissa Tokarchuk},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Visualising Generative Spaces Using Convolutional Neural Network Embeddings.pdf",
+        "local_file": "papers/pre-2025/Visualising Generative Spaces Using Convolutional Neural Network Embeddings.pdf",
         "old_url": "",
         "title": "Visualising Generative Spaces Using Convolutional Neural Network Embeddings",
         "year": "2022"
@@ -1414,7 +1414,7 @@
         "authors": "Akash Saravanan, Matthew Guzdial",
         "bibtex": "@inproceedings{saravanan2022pixel\n title={Pixel VQ-VAEs for Improved Pixel Art Representation},\nauthor={Akash Saravanan, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Pixel VQ-VAEs for Improved Pixel Art Representation.pdf",
+        "local_file": "papers/pre-2025/Pixel VQ-VAEs for Improved Pixel Art Representation.pdf",
         "old_url": "",
         "title": "Pixel VQ-VAEs for Improved Pixel Art Representation",
         "year": "2022"
@@ -1424,7 +1424,7 @@
         "authors": "Sara Cardinale, Michael Cook, Simon Colton",
         "bibtex": "@inproceedings{cardinale2022sonic \n title={AI-Driven Sonification of Automatically Designed Games},\nauthor={Sara Cardinale, Michael Cook, Simon Colton},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/AI-Driven Sonification of Automatically Designed Games.pdf",
+        "local_file": "papers/pre-2025/AI-Driven Sonification of Automatically Designed Games.pdf",
         "old_url": "",
         "title": "AI-Driven Sonification of Automatically Designed Games",
         "year": "2022"
@@ -1434,7 +1434,7 @@
         "authors": "L.B. Soros, Nicholas Guttenberg",
         "bibtex": "@inproceedings{soros2022topological \n title={Topological Analysis of Open-Endedness in Video Games},\nauthor={L.B. Soros, Nicholas Guttenberg},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Topological Analysis of Open-Endedness in Video Games.pdf",
+        "local_file": "papers/pre-2025/Topological Analysis of Open-Endedness in Video Games.pdf",
         "old_url": "",
         "title": "Topological Analysis of Open-Endedness in Video Games",
         "year": "2022"
@@ -1444,7 +1444,7 @@
         "authors": "Colan F. Biemer, Seth Cooper",
         "bibtex": "@inproceedings{biemer2022markov \n title={Level Assembly as a Markov Decision Process},\nauthor={Colan F. Biemer, Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Level Assembly as a Markov Decision Process.pdf",
+        "local_file": "papers/pre-2025/Level Assembly as a Markov Decision Process.pdf",
         "old_url": "",
         "title": "Level Assembly as a Markov Decision Process",
         "year": "2022"
@@ -1454,7 +1454,7 @@
         "authors": "Cong Lu, Raluca Georgescu and John Verwey",
         "bibtex": "@inproceedings{lu2022explore\n title={Go-Explore Complex 3D Game Environments for Automated Reachability Testing},\nauthor={Cong Lu, Raluca Georgescu and John Verwey},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Go-Explore Complex 3D Game Environments for Automated Reachability Testing.pdf",
+        "local_file": "papers/pre-2025/Go-Explore Complex 3D Game Environments for Automated Reachability Testing.pdf",
         "old_url": "",
         "title": "Go-Explore Complex 3D Game Environments for Automated Reachability Testing",
         "year": "2022"
@@ -1464,7 +1464,7 @@
         "authors": "Kimiya Saadat, Richard Zhao",
         "bibtex": "@inproceedings{saadat2022td\n title={Exploring Adaptive MCTS with TD Learning in miniXCOM},\nauthor={Kimiya Saadat, Richard Zhao},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Exploring Adaptive MCTS with TD Learning in miniXCOM.pdf",
+        "local_file": "papers/pre-2025/Exploring Adaptive MCTS with TD Learning in miniXCOM.pdf",
         "old_url": "",
         "title": "Exploring Adaptive MCTS with TD Learning in miniXCOM",
         "year": "2022"
@@ -1474,7 +1474,7 @@
         "authors": "Mrunal Jadhav, Matthew Guzdial",
         "bibtex": "@inproceedings{jadhav2022tile\n title={Clustering-based Tile Embedding: A General Representation for Level Design with Skewed Tile Distributions},\nauthor={Mrunal Jadhav, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Clustering-based Tile Embedding A General Representation for Level Design with Skewed Tile Distributions.pdf",
+        "local_file": "papers/pre-2025/Clustering-based Tile Embedding A General Representation for Level Design with Skewed Tile Distributions.pdf",
         "old_url": "",
         "title": "Clustering-based Tile Embedding A General Representation for Level Design with Skewed Tile Distributions",
         "year": "2022"
@@ -1484,7 +1484,7 @@
         "authors": "Seth Cooper",
         "bibtex": "@inproceedings{cooper2022sturg\n title={Constraint-Based 2D Tile Game Blending in the Sturgeon System},\nauthor={Seth Cooper},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Constraint-Based 2D Tile Game Blending in the Sturgeon System.pdf",
+        "local_file": "papers/pre-2025/Constraint-Based 2D Tile Game Blending in the Sturgeon System.pdf",
         "old_url": "",
         "title": "Constraint-Based 2D Tile Game Blending in the Sturgeon System",
         "year": "2022"
@@ -1494,7 +1494,7 @@
         "authors": "Ian Horswill",
         "bibtex": "@inproceedings{horswill2022retcon\n title={Retcon: A Least-Commitment Story-World System},\nauthor={Ian Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Retcon A Least-Commitment Story-World System.pdf",
+        "local_file": "papers/pre-2025/Retcon A Least-Commitment Story-World System.pdf",
         "old_url": "",
         "title": "Retcon: A Least-Commitment Story-World System",
         "year": "2022"
@@ -1504,7 +1504,7 @@
         "authors": "Natalie Bombardieri, Matthew Guzdial",
         "bibtex": "@inproceedings{bombardieri2022deep\n title={Improving Deep Localized Level Analysis: How Game Logs Can Help},\nauthor={Natalie Bombardieri, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Improving Deep Localized Level Analysis: How Game Logs Can Help.pdf",
+        "local_file": "papers/pre-2025/Improving Deep Localized Level Analysis: How Game Logs Can Help.pdf",
         "old_url": "",
         "title": "Improving Deep Localized Level Analysis: How Game Logs Can Help",
         "year": "2022"
@@ -1514,7 +1514,7 @@
         "authors": "William R. Armstrong, Markus Eger",
         "bibtex": "@inproceedings{armstrong2022bizmc\n title={BizMC: A Lua Framework for running Monte Carlo Tree Search in the BizHawk emulator},\nauthor={William R. Armstrong, Markus Eger},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/BizMC A Lua Framework for running Monte Carlo Tree Search in the BizHawk emulator.pdf",
+        "local_file": "papers/pre-2025/BizMC A Lua Framework for running Monte Carlo Tree Search in the BizHawk emulator.pdf",
         "old_url": "",
         "title": "BizMC: A Lua Framework for running Monte Carlo Tree Search in the BizHawk emulator",
         "year": "2022"
@@ -1524,7 +1524,7 @@
         "authors": "Emily Halina, Matthew Guzdial",
         "bibtex": "@inproceedings{halina2022diversity\n title={Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI},\nauthor={Emily Halina, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI.pdf",
+        "local_file": "papers/pre-2025/Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI.pdf",
         "old_url": "",
         "title": "Diversity-based Deep Reinforcement Learning Towards Multidimensional Difficulty for Fighting Game AI",
         "year": "2022"
@@ -1534,7 +1534,7 @@
         "authors": "Reza Habibi, Johannes Pfau, Jonattan Holmes, Magy Seif El-Nasr",
         "bibtex": "@inproceedings{habibi2022empathetic\n title={Empathetic AI for Empowering Resilience in Games},\nauthor={Reza Habibi, Johannes Pfau, Jonattan Holmes, Magy Seif El-Nasr},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Empathetic AI for Empowering Resilience in Games.pdf",
+        "local_file": "papers/pre-2025/Empathetic AI for Empowering Resilience in Games.pdf",
         "old_url": "",
         "title": "Empathetic AI for Empowering Resilience in Games",
         "year": "2022"
@@ -1544,7 +1544,7 @@
         "authors": "Kynan Sorochan, Matthew Guzdial",
         "bibtex": "@inproceedings{sorochan2022rts \n title={Generating Real-Time Strategy Game Units Using Search-Based Procedural Content Generation and Monte Carlo Tree Search},\nauthor={Kynan Sorochan, Matthew Guzdial},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Generating Real-Time Strategy Game Units Using Search-Based Procedural Content Generation and Monte Carlo Tree Search.pdf",
+        "local_file": "papers/pre-2025/Generating Real-Time Strategy Game Units Using Search-Based Procedural Content Generation and Monte Carlo Tree Search.pdf",
         "old_url": "",
         "title": "Generating Real-Time Strategy Game Units Using Search-Based Procedural Content Generation and Monte Carlo Tree Search",
         "year": "2022"
@@ -1554,7 +1554,7 @@
         "authors": "Sylvain Lapeyrade",
         "bibtex": "@inproceedings{lapeyarde2022demo\n title={Demo: Generate Emergent NPC Behaviours With Symbolic Reasoning},\nauthor={Sylvain Lapeyrade},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2022}}",
         "link": "",
-        "local_file": "papers/Demo Generate Emergent NPC Behaviours With Symbolic Reasoning.pdf",
+        "local_file": "papers/pre-2025/Demo Generate Emergent NPC Behaviours With Symbolic Reasoning.pdf",
         "old_url": "",
         "title": "Demo: Generate Emergent NPC Behaviours With Symbolic Reasoning",
         "year": "2022"
@@ -1564,7 +1564,7 @@
         "authors": "Samuel Hill, Ian Horswill",
         "bibtex": "@inproceedings{hill20245000,\ntitle={Demo: Generate Emergent NPC Behaviours With Symbolic Reasoning},\nauthor={Samuel Hill, Ian Horswill},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper1.pdf",
-        "local_file": "papers/5000 Characters at Video Frame Rate using Declarative Programming.pdf",
+        "local_file": "papers/pre-2025/5000 Characters at Video Frame Rate using Declarative Programming.pdf",
         "old_url": "",
         "title": "5000 Characters at Video Frame Rate using Declarative Programming",
         "year": "2024"
@@ -1574,7 +1574,7 @@
         "authors": "Nathan Arnold, Nicholas Fluty, Ryan D. Flores, Judy Goldsmith and Brent Harrison",
         "bibtex": "@inproceedings{arnold2024evaluating,\ntitle={Evaluating the Stability of the Smogon Tier List for Competitive Pokémon Battling},\nauthor={Nathan Arnold, Nicholas Fluty, Ryan D. Flores, Judy Goldsmith and Brent Harrison},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper2.pdf",
-        "local_file": "papers/Evaluating the Stability of the Smogon Tier List for Competitive Pokemon Battling.pdf",
+        "local_file": "papers/pre-2025/Evaluating the Stability of the Smogon Tier List for Competitive Pokemon Battling.pdf",
         "old_url": "",
         "title": "Evaluating the Stability of the Smogon Tier List for Competitive Pokémon Battling",
         "year": "2024"
@@ -1584,7 +1584,7 @@
         "authors": "Nicholas Fluty, Ryan D. Flores, Judy Goldsmith and Brent Harrison",
         "bibtex": "@inproceedings{fluty2024an,\ntitle={An Empirical Analysis of the Validity of Competitive Pokémon Rule Sets},\nauthor={Nicholas Fluty, Ryan D. Flores, Judy Goldsmith, Brent Harrison},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper3.pdf",
-        "local_file": "papers/An Empirical Analysis of the Validity of Competitive Pokemon Rule Sets.pdf",
+        "local_file": "papers/pre-2025/An Empirical Analysis of the Validity of Competitive Pokemon Rule Sets.pdf",
         "old_url": "",
         "title": "An Empirical Analysis of the Validity of Competitive Pokémon Rule Sets",
         "year": "2024"
@@ -1594,7 +1594,7 @@
         "authors": "Pearson Garner, Aaron Lin, Ruby Harris, Brent Harrison and Judy Goldsmith",
         "bibtex": "@inproceedings{garner2024arma,\ntitle={ArmA 3 Billeting as a Coalition Formation Game},\nauthor={Pearson Garner, Aaron Lin, Ruby Harris, Brent Harrison and Judy Goldsmith},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper4.pdf",
-        "local_file": "papers/ArmA 3 Billeting as a Coalition Formation Game.pdf",
+        "local_file": "papers/pre-2025/ArmA 3 Billeting as a Coalition Formation Game.pdf",
         "old_url": "",
         "title": "ArmA 3 Billeting as a Coalition Formation Game",
         "year": "2024"
@@ -1604,7 +1604,7 @@
         "authors": "Zzyv Zzyzek",
         "bibtex": "@inproceedings{zzyzek2024punch,\ntitle={Punch Out Model Synthesis: A Stochastic Algorithm for Constraint Based Tiling Generation},\nauthor={Zzyv Zzyzek},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper5.pdf",
-        "local_file": "papers/Punch Out Model Synthesis A Stochastic Algorithm for Constraint Based Tiling Generation.pdf",
+        "local_file": "papers/pre-2025/Punch Out Model Synthesis A Stochastic Algorithm for Constraint Based Tiling Generation.pdf",
         "old_url": "",
         "title": "Punch Out Model Synthesis: A Stochastic Algorithm for Constraint Based Tiling Generation",
         "year": "2024"
@@ -1614,7 +1614,7 @@
         "authors": "Zhiyu Lin, Upol Ehsan, Rohan Agarwal, Samihan Dani, Vidushi Vashishth and Mark Riedl",
         "bibtex": "@inproceedings{lin2024beyond,\ntitle={Beyond Following: Mixing Active Initiative into Computational Creativity},\nauthor={Zhiyu Lin, Upol Ehsan, Rohan Agarwal, Samihan Dani, Vidushi Vashishth and Mark Riedl},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper6.pdf",
-        "local_file": "papers/Beyond Following Mixing Active Initiative into Computational Creativity.pdf",
+        "local_file": "papers/pre-2025/Beyond Following Mixing Active Initiative into Computational Creativity.pdf",
         "old_url": "",
         "title": "Beyond Following: Mixing Active Initiative into Computational Creativity",
         "year": "2024"
@@ -1624,7 +1624,7 @@
         "authors": "Bahar Bateni, Jim Whitehead",
         "bibtex": "@inproceedings{bateni2024minists,\ntitle={MiniStS: A Testbed for Dynamic Rule Exploration},\nauthor={Bahar Bateni, Jim Whitehead},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper7.pdf",
-        "local_file": "papers/MiniStS A Testbed for Dynamic Rule Exploration.pdf",
+        "local_file": "papers/pre-2025/MiniStS A Testbed for Dynamic Rule Exploration.pdf",
         "old_url": "",
         "title": "MiniStS: A Testbed for Dynamic Rule Exploration",
         "year": "2024"
@@ -1634,7 +1634,7 @@
         "authors": "Jasmine T. Otto, Isaac J. Karth",
         "bibtex": "@inproceedings{otto2024toward,\ntitle={Toward Prose Performances: Reflective Practices in Social Simulation},\nauthor={Jasmine T. Otto, Isaac J. Karth},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper8.pdf",
-        "local_file": "papers/Toward Prose Performances Reflective Practices in Social Simulation",
+        "local_file": "papers/pre-2025/Toward Prose Performances Reflective Practices in Social Simulation",
         "old_url": "",
         "title": "Toward Prose Performances: Reflective Practices in Social Simulation",
         "year": "2024"
@@ -1644,7 +1644,7 @@
         "authors": "Josiah Boucher, Gillian Smith and Yunus Doğan Telliel",
         "bibtex": "@inproceedings{boucher2024axes,\ntitle={Axes of Characterizing Generative Systems: A Taxonomy of Approaches to Expressive Range Analysis},\nauthor={Josiah Boucher, Gillian Smith and Yunus Doğan Telliel},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper9.pdf",
-        "local_file": "papers/Axes of Characterizing Generative Systems A Taxonomy of Approaches to Expressive Range Analysis.pdf",
+        "local_file": "papers/pre-2025/Axes of Characterizing Generative Systems A Taxonomy of Approaches to Expressive Range Analysis.pdf",
         "old_url": "",
         "title": "Axes of Characterizing Generative Systems: A Taxonomy of Approaches to Expressive Range Analysis",
         "year": "2024"
@@ -1654,7 +1654,7 @@
         "authors": "Josiah Boucher, Max Chen, Gillian Smith and Yunus Doğan Telliel",
         "bibtex": "@inproceedings{boucher2024examing,\ntitle={Examining the Trajectory of Early Professionals’ use of Generative AI in the Game Development Process from 2023 to 2024},\nauthor={Josiah Boucher, Max Chen, Gillian Smith and Yunus Doğan Telliel},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper10.pdf",
-        "local_file": "papers/Examining the Trajectory of Early Professionals’ use of Generative AI in the Game Development Process from 2023 to 2024.pdf",
+        "local_file": "papers/pre-2025/Examining the Trajectory of Early Professionals’ use of Generative AI in the Game Development Process from 2023 to 2024.pdf",
         "old_url": "",
         "title": "Examining the Trajectory of Early Professionals’ use of\nGenerative AI in the Game Development Process from 2023 to\n2024",
         "year": "2024"
@@ -1664,9 +1664,199 @@
         "authors": "Tom Tucek, Kseniia Harshina, Georgia Samaritaki and Dipika Rajesh",
         "bibtex": "@inproceedings{tucek2024one,\ntitle={One Spell Fits All: A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Design},\nauthor={Tom Tucek, Kseniia Harshina, Georgia Samaritaki and Dipika Rajesh},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2024}}",
         "link": "https://ceur-ws.org/Vol-3926/paper11.pdf",
-        "local_file": "papers/One Spell Fits All A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Design.pdf",
+        "local_file": "papers/pre-2025/One Spell Fits All A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Design.pdf",
         "old_url": "",
         "title": "One Spell Fits All: A Generative AI Game as a Tool for Research in AI Creativity and Sustainable Design",
         "year": "2024"
+    },
+    {
+        "abstract": "Speedrunning, a community centred around the practice of playing games as fast as possible and often under constraints, is a rich and vibrant part of modern games culture. It is also an area largely untouched by game AI research, despite it having its own culture of technical innovation and research. In this paper, we provide an overview of modern speedrunning, describe research areas already pursued by the community, and report on exploratory work investigating how AI research might be applied to simple speedrunning processes. We close by suggesting new research questions this space reveals for us, and suggesting ways that we can peacefully and respectfully work alongside and as a part of the speedrunning community",
+        "authors": "Michael Cook, M Charity, Maren Awiszus, Filippo Carnovalini and Alexander Dockhorn",
+        "bibtex": "@inproceedings{cook2025we,\ntitle={We Call This Controller Skip: AI for Speedrunning.},\nauthor={Cook, Michael and Charity, M and Awiszus, Maren and Carnovalini, Filippo and Dockhorn, Alexander},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper1.pdf",
+        "local_file": "papers/2025/We Call This Controller Skip: AI for Speedrunning.pdf",
+        "old_url": "",
+        "title": "We Call This Controller Skip: AI for Speedrunning",
+        "year": "2025"
+    },
+    {
+        "abstract": "Tangibility within tabletop games is an important factor to many gamers. Commercial games can include methods to procedurally generate tangible content using only analog components, however these are limited in their capability: they usually require manual assembly. Within nature, we find many systems that are able to “selfassemble,” using the physical properties of components to arrange themselves in response to undirected motion. In this work, we use this process of self-assembly to procedurally generate tangible game figures: miniatures and dice. We iteratively designed bases (self-assembly connection points) that are selective, attractive, and adhesive. We qualitatively evaluated this design, and found that they are successfully able to self-assemble, although improvements can still be made. We have complied our work into a toolkit that hobbyists with the necessary materials can use to produce self-assembling game elements.",
+        "authors": "Fiona Shyne and Seth Cooper",
+        "bibtex": "@inproceedings{shyne2025pcg,\ntitle={PCG-SAF: Procedural Content Generation via Self-Assembling Figures for Tabletop Games.},\nauthor={Shyne, Fiona and Cooper, Seth},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper2.pdf",
+        "local_file": "papers/2025/PCG-SAF: Procedural Content Generation via Self-Assembling Figures for Tabletop Games.pdf",
+        "old_url": "",
+        "title": "PCG-SAF: Procedural Content Generation via Self-Assembling Figures for Tabletop Games",
+        "year": "2025"
+    },
+    {
+        "abstract": "Recent advances in large language models (LLMs) enable compelling story generation, but connecting narrative text to playable visual environments remains an open challenge in procedural content generation (PCG). We present a lightweight pipeline that transforms short narrative prompts into a sequence of 2D tile-based game scenes, reflecting the temporal structure of stories. Given an LLM-generated narrative, our system identifies three key time frames, extracts spatial predicates in the form of \"Object-Relation-Object\" triples, and retrieves visual assets using affordance-aware semantic embeddings from the GameTileNet dataset. A layered terrain is generated using Cellular Automata, and objects are placed using spatial rules grounded in the predicate structure. We evaluated our system in ten diverse stories, analyzing tile-object matching, affordance-layer alignment, and spatial constraint satisfaction across frames. This prototype offers a scalable approach to narrative-driven scene generation and lays the foundation for future work on multi-frame continuity, symbolic tracking, and multi-agent coordination in story-centered PCG.",
+        "authors": "Yi-Chun Chen and Arnav Jhala",
+        "bibtex": "@inproceedings{chen2025narrative,\ntitle={Narrative-to-Scene Generation: An LLM-Driven Pipeline for 2D Game Environments.},\nauthor={Chen, Yi-Chun and Jhala, Arnav},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper3.pdf",
+        "local_file": "papers/2025/Narrative-to-Scene Generation: An LLM-Driven Pipeline for 2D Game Environments.pdf",
+        "old_url": "",
+        "title": "Narrative-to-Scene Generation: An LLM-Driven Pipeline for 2D Game Environments",
+        "year": "2025"
+    },
+    {
+        "abstract": "Gaming bots, or programs that allow players to automate their game-play, are used by people for various reasons. This includes monetary gain, notoriety, and even malicious intent, ruining the integrity of the game and the experience of other players. Despite all the advancements made in the field over the last couple of decades, there has been limited research in the detection of newer, neural network-driven bots which have only recently become popular due to rising accessibility for the general public. Our research proposes a novel addition to the existing literature with a Temporal Convolutional Network (TCN) as a classification model for detecting such bots. We have shown that our model can accurately predict whether or not an unlabeled input sequence from the first level of Super Mario Bros. was performed by a human or bot with a 94% accuracy rate, showing that the accurate detection of modern game-bots is possible.",
+        "authors": "Caleb Cavilla and Jonathan Hudson",
+        "bibtex": "@inproceedings{cavilla2025detecting,\ntitle={Detecting Neural Network Driven Bots in Super Mario Bros.},\nauthor={Cavilla, Caleb and Hudson, Jonathan},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper4.pdf",
+        "local_file": "papers/2025/Detecting Neural Network Driven Bots in Super Mario Bros.pdf",
+        "old_url": "",
+        "title": "Detecting Neural Network Driven Bots in Super Mario Bros",
+        "year": "2025"
+    },
+    {
+        "abstract": "Designing engaging game environments, particularly for exploration, requires understanding diversity in exploratory behaviour. This study introduces a novel framework to model exploration via exploratory agents. This framework advances beyond prior work like PathOS+. Our agents employ multiple theoretically-grounded motivations and complex behaviour characterisation to distinguish between levels designed to encourage meaningful exploration and those that do not. Validated through human studies (40 participants, 14 level pairs), our coverage metric reliably reflects engagement differences, while combining coverage with novelty captures spatial-structural variations. This work establishes a richer foundation for AI-driven design tools that advance both exploration modelling and player engagement analysis.",
+        "authors": "Bobby Khaleque, Mike Cook and Jeremy Gow",
+        "bibtex": "@inproceedings{khaleque2025using,\ntitle={Using Exploratory Agents to Evaluate Game Environments.},\nauthor={Khaleque, Bobby and Cook, Mike and Gow, Jeremy},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper5.pdf",
+        "local_file": "papers/2025/Using Exploratory Agents to Evaluate Game Environments.pdf",
+        "old_url": "",
+        "title": "Using Exploratory Agents to Evaluate Game Environments",
+        "year": "2025"
+    },
+    {
+        "abstract": "Real-Time Strategy (RTS) games are a popular and successful genre of video games that also doubles as a research environment for evaluating challenging AI problems. 𝜇RTS is one such research environment that represents many of the AI research problems inherent in commercial RTS games in a low graphics fidelity grid-based game. Prior work studied the use of graph game states for Deep Reinforcement Learning (DRL)-based game-playing in 𝜇RTS. However, the state encoder used in the DRL agent was specifically trained for the task of DRL. Ideally, we want to train a single state encoder that can be transferred to a variety of downstream tasks (eg, player modeling, game-playing, and content generation) for 𝜇RTS to minimize the costly training of state encoders for each possible task. Additionally, the state encoder used a Gated Recurrent Unit for processing graphs over Graph Neural Networks (GNNs) designed to process graphs. This paper provides an initial study on pretraining a transferrable GNN-based graph state encoder using a variant of the self-supervised learning algorithm Distillation with No Labels (DINO) for graph representation learning over a set of 𝜇RTS game replays. We provide a qualitative analysis of the latent graph states through a cluster analysis and begin to evaluate the transferability of the latent state representations starting with the task of action prediction. We show that the latent states contain information about 𝜇RTS game maps despite not being explicitly trained on spatial map features, and associations that hint at particular types of player behaviors. We also show that the latent states can be fine-tuned for action prediction.",
+        "authors": "Pavan Kantharaju",
+        "bibtex": "@inproceedings{kantharaju2025pretraining,\ntitle={Pretraining Graph State Encoders for microRTS using Graph Self-Supervised Learning.},\nauthor={Kantharaju, Pavan},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper6.pdf",
+        "local_file": "papers/2025/Pretraining Graph State Encoders for microRTS using Graph Self-Supervised Learning.pdf",
+        "old_url": "",
+        "title": "Pretraining Graph State Encoders for microRTS using Graph Self-Supervised Learning",
+        "year": "2025"
+    },
+    {
+        "abstract": "Dynamic difficulty adjustment adjusts a game to be harder for skilled players and easier for less-skilled players. One way to do this is by changing the level that the player plays, which can be achieved by using a Markov Decision Process (MDP) to assemble smaller segments of levels. However,(1) such an approach has not been tested on real players and (2) there are open questions regarding how the MDP should be configured. In this paper, we evaluate MDP-based level assembly with two games—a platformer and a roguelike—with two player studies, and found that while an automatically generated MDP resulted in a similar player experience, it did not outperform a handcrafted MDP. This shows that MDP-based level assembly can be effective, but more work needs to be done on how to best generate MDPs for level assembly. Additionally, MDP-based level assembly was compared to a static level progression (ie, the player plays a level until they beat it, and then they can play the next level). We found that the static level progression was too easy for one game and too hard for the other, helping show that a dynamic approach results in a more consistent player experience across players.",
+        "authors": "Colan Biemer and Seth Cooper",
+        "bibtex": "@inproceedings{biemer2025evaluating,\ntitle={Evaluating the Impact of MDP-Based Level Assembly on Player Experience.},\nauthor={Biemer, Colan F and Cooper, Seth},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper7.pdf",
+        "local_file": "papers/2025/Evaluating the Impact of MDP-Based Level Assembly on Player Experience.pdf",
+        "old_url": "",
+        "title": "Evaluating the Impact of MDP-Based Level Assembly on Player Experience",
+        "year": "2025"
+    },
+    {
+        "abstract": "Playtraces are artifacts produced during playtesting that tell a story about how game systems operate and what actions players take at runtime. The playtrace contains relevant metrics in a game alongside the metrics’ rising and falling throughout player progression. These curves inform designers about their players’ experiences and open opportunities to implement player-adaptive design strategies. To help improve the iterative design process around playtrace analysis, we introduce the Playtrace Arc Search (PAS) tool. PAS allows designers to search through a large corpus of playtrace data to find the system metric curves that match their design intent by drawing a desired progression arc on a canvas and then using that to perform a curve-similarity search over all playtraces. PAS enables designers to see a set of playtraces as a summarized whole, then search against that whole to find specific, meaningful gameplay data that can confirm or reject their hypotheses about game and player performance. PAS showed success on an initial evaluation of 1,000 playtraces; this, combined with its game-and metric-agnostic capabilities, indicates that PAS might be a useful tool for designers to rapidly discover whether their design hypotheses are accurately played out in metric progression curves with desired levels of consistency.",
+        "authors": "Samuel Shields, Noah Wardrip-Fruin and Edward F. Melcer",
+        "bibtex": "@inproceedings{shields2025playtrace,\ntitle={Playtrace Arc Search: A Tool to Explore and Evaluate Large Spaces of Playtrace Metrics Through User-Defined Curves.},\nauthor={Shields, Samuel and Wardrip-Fruin, Noah and Melcer, Edward F},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper8.pdf",
+        "local_file": "papers/2025/Playtrace Arc Search: A Tool to Explore and Evaluate Large Spaces of Playtrace Metrics Through User-Defined Curves.pdf",
+        "old_url": "",
+        "title": "Playtrace Arc Search: A Tool to Explore and Evaluate Large Spaces of Playtrace Metrics Through User-Defined Curves",
+        "year": "2025"
+    },
+    {
+        "abstract": "Many games involve story worlds whose possible character features (names, clans, ethnic/racial backgrounds, etc.), are entirely invented. In these worlds, designers can fiat the statistical distribution of features, and so often use independent, uniform distributions. In games set in approximations to the real world, however, values of features such as names are often conditioned on values of other features such as ethnicity and gender. In this paper, I describe a system that generates demographically-plausible names, ethnicities, genders, height, weight, hair color, and eye color for non-player characters in a table-top roleplaying game set in present-day San Francisco. The system allows game masters to pre-specify desired features and samples other features based on US census data and other sources to generate statistically plausible values. The system is implemented in a stochastic version of logic programming that supports feature structure unification. I will discuss how the implementation works and why it is an appealing choice.",
+        "authors": "Ian Horswill",
+        "bibtex": "@inproceedings{horswill2025controllable,\ntitle={Controllable, Demographically-Guided Character Generation using Stochastic Logic Programming.},\nauthor={Horswill, Ian},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper9.pdf",
+        "local_file": "papers/2025/Controllable, Demographically-Guided Character Generation using Stochastic Logic Programming.pdf",
+        "old_url": "",
+        "title": "Controllable, Demographically-Guided Character Generation using Stochastic Logic Programming",
+        "year": "2025"
+    },
+    {
+        "abstract": "It has been shown in previous studies that logic programming can be used to create performant large-scale character simulations. In these simulations the action-selection mechanism for characters either uses a simple decision tree or some utility-based action selection such as needs-based AI from The Sims or the simple action selection found in Talk of the Town (TotT). While this is useful for one-shot action selection that occurs entirely within a single game tick, modern games often have need for more advanced action selection. Finite-state machines are sometimes used for this task, but behavior trees, their hierarchical cousin, are more commonly used today. Behavior trees are a popular technique for action selection in games but manually implementing them in logic programming is a cumbersome process and the resulting code is difficult to read. In this paper, we show that standard behavior trees can be efficiently compiled into TED, a bottom-up logic programming language, in a way that allows the two systems to inspect one another’s internal state. For example, triggering conditions for BT nodes can be logical assertions, and logical rules can be conditioned on the states of behavior tree nodes. The compiled version is performant and supports parallel execution. We demonstrate this on a simulation involving hundreds of agents.",
+        "authors": "Samuel Hill and Ian Horswill",
+        "bibtex": "@inproceedings{hill2025unifying,\ntitle={Unifying Behavior Trees and Logic Programming.},\nauthor={Hill, Samuel and Horswill, Ian},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper10.pdf",
+        "local_file": "papers/2025/Unifying Behavior Trees and Logic Programming.pdf",
+        "old_url": "",
+        "title": "Unifying Behavior Trees and Logic Programming",
+        "year": "2025"
+    },
+    {
+        "abstract": "Procedural content generation often requires satisfying both designer-specified objectives and adjacency constraints implicitly imposed by the underlying tile set. To address the challenges of jointly optimizing both constraints and objectives, we reformulate WaveFunctionCollapse (WFC) as a Markov Decision Process (MDP), enabling external optimization algorithms to focus exclusively on objective maximization while leveraging WFC's propagation mechanism to enforce constraint satisfaction. We empirically compare optimizing this MDP to traditional evolutionary approaches that jointly optimize global metrics and local tile placement. Across multiple domains with various difficulties, we find that joint optimization not only struggles as task complexity increases, but consistently underperforms relative to optimization over the WFC-MDP, underscoring the advantages of decoupling local constraint satisfaction from global objective optimization.",
+        "authors": "Franklin Yiu, Mohan Lu, Nina Li, Kevin Joseph, Tianxu Zhang, Julian Togelius, Timothy Merino and Sam Earle",
+        "bibtex": "@inproceedings{yiu2025markovian,\ntitle={A Markovian Framing of WaveFunctionCollapse for Procedurally Generating Aesthetically Complex Environments.},\nauthor={Yiu, Franklin and Lu, Mohan and Li, Nina and Joseph, Kevin and Zhang, Tianxu and Togelius, Julian and Merino, Timothy and Earle, Sam},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper11.pdf",
+        "local_file": "papers/2025/A Markovian Framing of WaveFunctionCollapse for Procedurally Generating Aesthetically Complex Environments.pdf",
+        "old_url": "",
+        "title": "A Markovian Framing of WaveFunctionCollapse for Procedurally Generating Aesthetically Complex Environments",
+        "year": "2025"
+    },
+    {
+        "abstract": "Learning disentangled representations of data is a well-studied problem in machine learning. Disentangled representations offer many advantages for downstream generative tasks, enabling interpretability and granular control by leveraging learned representation spaces with desirable properties. In modern generative pipelines, these representation learning models are typically just a stepping stone for downstream models, such as the popular diffusion model. In this paper, we seek to explore how these representation learning models can be utilized as stand-alone generation and editing models for Procedural Content Generation. We start by extending recent work in Disentangled Representation Learning to a unique domain — the discrete, categorical 3D world of Minecraft. We present a method for learning discrete, disentangled representations of Minecraft terrain by leveraging domain knowledge to incorporate strong inductive biases in our model. We first assume a dual-factor decomposition of Minecraft terrain into “style” and “structure” generative factors. Based on this assumption, we design a dual-codebook Factorized Quantization Variational Autoencoder, using codebook sizes significantly smaller than standard practice. We demonstrate how our model learns disentangled and human-interpretable representations of these generative factors, and attempt to quantify disentanglement using intervention-based metrics. Finally we show how our learned representation enables human-level editing and generation of Minecra terrain features via human latent authoring.",
+        "authors": "Tim Merino, Yifan Zhang and Julian Togelius",
+        "bibtex": "@inproceedings{merino2025procedural,\ntitle={Procedural Content Generation in Minecraft via Disentangled Representation Learning Models.},\nauthor={Merino, Tim and Zhang, Yifan and Togelius, Julian},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/paper12.pdf",
+        "local_file": "papers/2025/Procedural Content Generation in Minecraft via Disentangled Representation Learning Models.pdf",
+        "old_url": "",
+        "title": "Procedural Content Generation in Minecraft via Disentangled Representation Learning Models",
+        "year": "2025"
+    },
+    {
+        "abstract": "As video games take place across space and time, space-time visualizations are promising for conveying gameplay data, as they allow all the data to be shown at once and avoid, e.g., timeline scrubbing. However, space-time visualizations can suffer from clutte visualize space-time gameplay traces. Clutter is reduced by aggregating the data of individual traces into voxels. To highlight areas of interest and reduce their occlusion, anomaly detection using isolation forests is used to visually emphasize voxels of interest, changing color and opacity. We present two case studies, based on StarCraft: Brood War and a custom platformer game, demonstrating the impact of the anomaly detection approach.",
+        "authors": "Ling Liu, Colan Biemer, Günter Wallner and Seth Cooper",
+        "bibtex": "@inproceedings{liu2025voxel,\ntitle={Voxel-Based Spatio-Temporal Visualization of Gameplay Traces with Anomaly Detection.},\nauthor={Liu, Ling and Biemer, Colan F and Wallner, Günter and Cooper, Seth},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/short1.pdf",
+        "local_file": "papers/2025/Voxel-Based Spatio-Temporal Visualization of Gameplay Traces with Anomaly Detection.pdf",
+        "old_url": "",
+        "title": "Voxel-Based Spatio-Temporal Visualization of Gameplay Traces with Anomaly Detection",
+        "year": "2025"
+    },
+    {
+        "abstract": "Recent advances in board game agents have led to superhuman performances in various games, but their decision-making processes remain opaque even to experienced players and are not cognitive-plausible from a human perspective. Based on criteria for cognitive-plausible systems, we introduce an approach that emphasizes interpretable knowledge representation through pattern-based and hierarchical structures. Our approach uses Genetic Programming to learn feature programs that capture spatial relationships on the game board. In addition, it utilizes decision trees to model agent behavior based on these feature programs. The result is a hierarchical, pattern-based model for generating post-hoc explanations for board game agents. We show that our method generates comprehensible explanations in Tic-Tac-Toe. We then discuss the current limitations in generalizing the approach to more complex games using Connect 4 as an example.",
+        "authors": "Manuel Eberhardinger, Florian Rupp, Florian Richoux, Johannes Maucher and Setareh Maghsudi",
+        "bibtex": "@inproceedings{eberhardinger2025towards,\ntitle={Towards Cognitive-Plausible Explanations for Board Game Agents with Genetic Programming.},\nauthor={Eberhardinger, Manuel and Rupp, Florian and Richoux, Florian and Maucher, Johannes and Maghsudi, Setareh},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/short2.pdf",
+        "local_file": "papers/2025/Towards Cognitive-Plausible Explanations for Board Game Agents with Genetic Programming.pdf",
+        "old_url": "",
+        "title": "Towards Cognitive-Plausible Explanations for Board Game Agents with Genetic Programming",
+        "year": "2025"
+    },
+    {
+        "abstract": "Many puzzle games incorporate multi-star systems that provide different rewards for player performance on each puzzle, with better performance earning more stars. Such puzzles require distinct solutions of increasing difficulty; however, most work in generating puzzles considers just a single solution. In this work, we explore an approach to generating puzzles that have many distinct solutions and could thus lend themselves to being used in a game with a multi-star (in this case, three-star) rating system. Our approach uses a genetic algorithm to search over possible puzzles, and incorporates a fitness function that exhaustively enumerates all possible solutions, rewarding solutions with more distinct solutions. We apply the approach to a game based on a simple lattice protein folding, where puzzles are determined by the a sequence of amino acids, and fitness enumerates all possible conformations with different numbers of contacts.",
+        "authors": "Yaejie Kwon, Fiona Shyne and Seth Cooper",
+        "bibtex": "@inproceedings{kwon2025generating,\ntitle={Generating Three-Star System Puzzles using Solution Enumeration Fitness for a Lattice Protein Folding Game.},\nauthor={Kwon, Yaejie and Shyne, Fiona and Cooper, Seth},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/short3.pdf",
+        "local_file": "papers/2025/Generating Three-Star System Puzzles using Solution Enumeration Fitness for a Lattice Protein Folding Game.pdf",
+        "old_url": "",
+        "title": "Generating Three-Star System Puzzles using Solution Enumeration Fitness for a Lattice Protein Folding Game",
+        "year": "2025"
+    },
+    {
+        "abstract": "Procedurally generating levels for games often involves writing custom algorithms or providing large amounts of levels to learn from. In this work, we explore an approach to general video game level generation using a game’s source program along with a single level, based on the concept of program inversion. Given the forward program for a game, we produce an inverted program in the same language that essentially runs the game backward. Starting from a solved level (which can be found searching with the forward program on a level), the inverted program can be run to generate variations on the level. We look at simple games written in a domain-specific rewrite-based language for describing tile-and turn-based games, where a single player repeatedly makes deterministic choices until they win. We verify that the level variations created by the inverted program can be solved by the original forward program.",
+        "authors": "Harper Noteboom, Kalyani Nair and Seth Cooper",
+        "bibtex": "@inproceedings{noteboom2025procedural,\ntitle={Procedural Level Generation via Program Inversion.},\nauthor={Noteboom, Harper and Nair, Kalyani and Cooper, Seth},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/short4.pdf",
+        "local_file": "papers/2025/Procedural Level Generation via Program Inversion.pdf",
+        "old_url": "",
+        "title": "Procedural Level Generation via Program Inversion",
+        "year": "2025"
+    },
+    {
+        "abstract": "Graph grammars are an approach to procedurally generating content for games. However, grammars must often be carefully designed so that generated levels are completable, eg keys do not end up behind locks. In this work, we present a graph grammar approach that uses a single unified grammar containing the rules for both generating and playing levels. Such grammars generate not just a level, but an example playthrough of the level. Using a constraint-based application of the grammars can ensure that generated playthrough solves the level. The constraint-based approach is also highly controllable, and can constrain aspects such as the number of times rules are applied, label counts in the generated graph, and matching partial subgraphs. To scale this approach up to larger graphs, we introduce hints into the grammar rules that limit the ranges of variables that can be used for certain nodes and edges. As a motivating example, we reproduce a grammar for generating adventure game missions from Dormans’ previous work, extend it with gameplay rules, and use these for flexible item placement while ensuring completability regarding keys and locks.",
+        "authors": "Seth Cooper and Mahsa Bazzaz",
+        "bibtex": "@inproceedings{cooper2025constraint,\ntitle={A Constraint-Based Graph Grammar Approach Unifying Level and Playthrough Generation.},\nauthor={Cooper, Seth and Bazzaz, Mahsa},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/short5.pdf",
+        "local_file": "papers/2025/A Constraint-Based Graph Grammar Approach Unifying Level and Playthrough Generation.pdf",
+        "old_url": "",
+        "title": "A Constraint-Based Graph Grammar Approach Unifying Level and Playthrough Generation",
+        "year": "2025"
+    },
+    {
+        "abstract": "Quest to Dungeon (QtD) is a tool designed to bridge the gap between narrative design and procedural level generation in games, two processes that are typically developed in isolation from each other. QtD connects narrative design with level design by enabling designers to create quests by combining tasks in a grid interface, where each narrative task automatically generates corresponding dungeon rooms using task-specific algorithms. We evaluated QtD through a user study (N= 8) where all participants created first a quest with two endings, and then a quest without constraints. Our results showed that participants found the tool intuitive and effective in visualizing how narrative objectives translate into level design. QtD helped enable faster iteration cycles for the participants, who speculated about its possible benefits for collaboration and communication between narrative and level designers.",
+        "authors": "Oscar Boutani, Sam Shariati and Alberto Alvarez",
+        "bibtex": "@inproceedings{boutani2025quest,\ntitle={Quest to Dungeon (QtD): Towards a Tool that Supports Collaboration between Narrative and Level Designers.},\nauthor={Boutani, Oscar and Shariati, Sam and Alvarez, Alberto},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/short6.pdf",
+        "local_file": "papers/2025/Quest to Dungeon (QtD): Towards a Tool that Supports Collaboration between Narrative and Level Designers.pdf",
+        "old_url": "",
+        "title": "Quest to Dungeon (QtD): Towards a Tool that Supports Collaboration between Narrative and Level Designers",
+        "year": "2025"
+    },
+     {
+        "abstract": "Artificial Neural Networks (ANN) are used in a variety of machine learning tasks such as image classification and pattern recognition. Training ANN models on large datasets can be time consuming and require specialized hardware and processing power. Often, the training is performed on powerful systems, and the resultant final trained network can be utilized on small computers and mobile devices to perform tasks instantly. The Nintendo Entertainment System (NES) was released in 1985 and featured a 1.79 MHz CPU and 2 KB of RAM. The original program code for games for the NES fit within 32 KB of ROM on cartridges. In this work, we create an ANN and train it using the EMNIST hand-drawn digit dataset on a desktop computer. This ANN is then ported to the NES utilizing assembly language. The program code and pretrained weights are stored to a game cartridge fitting within the bounds of 32 KB. Additionally, a user interface is provided for drawing and loading test samples and executing the ANN classification of hand drawn digits on a physical NES device from 40 years ago.",
+        "authors": "Carmine Guida and Lauren Demaio",
+        "bibtex": "@inproceedings{guida2025nintendo,\ntitle={The Nintendo Artificial Neural Network System},\nauthor={Guida, Carmine and Demaio, Lauren},\nbooktitle={Proceedings of the AIIDE Workshop on Experimental AI in Games},\nyear={2025}}",
+        "link": "https://ceur-ws.org/Vol-4090/short7.pdf",
+        "local_file": "papers/2025/The Nintendo Artificial Neural Network System.pdf",
+        "old_url": "",
+        "title": "The Nintendo Artificial Neural Network System",
+        "year": "2025"
     }
 ]

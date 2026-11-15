@@ -6,6 +6,14 @@ import { Table } from 'react-bootstrap';
 
 const pastWorkshopInfo = [
     {
+        year: 2025,
+        date: 'November 10-11',
+        organizers:
+            'Josiah Boucher, Kaylah Facey, Fiona Shyne, Johor Jara Gonzalez, Junwen Shen',
+        location: ' Edmonton, Alberta, Canada',
+        papers: 19,
+    },
+    {
         year: 2024,
         date: 'November 19th',
         organizers:
